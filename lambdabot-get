@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-# Fetch lambdabot's @where db and save in haskell-links TSV format:
-# URL\tID\tDESCRIPTION\tTAGS
+# Fetch lambdabot's @where db and save in haskell-links TSV format.
 # https://wiki.haskell.org/IRC_channel#lambdabot
+
+printf "URL\tID\tDESCRIPTION\tTAGS\n"
 
 # download
 # uncompress
