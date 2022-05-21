@@ -2,6 +2,10 @@ This repo stores data used by the haskell-links app.
 The app expects to find it checked out as "data/" within the
 haskell-links repo's working copy.
 
+Both repos need to agree on the data schema. Use contemporaneous
+versions, or versions with the same tag name in both repos, to ensure
+this.
+
 Links data is aggregated from multiple sources.
 For each source, there is a script for fetching its data,
 and a snapshot of that data, archived in this repo periodically.
