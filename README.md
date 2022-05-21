@@ -9,9 +9,9 @@ and a snapshot of that data, archived in this repo periodically.
 separately to minimise conflicts.
 
 These data snapshots are mostly read only for the haskell-links app.
-There is also a "haskell-links" data set, owned by the app, and
-writable via git, the web UI, etc. The app layers these data sets
-together, with "haskell-links" taking precedence.
+There is also a hll (haskell links library) data set owned by the app
+and writable via git, the web UI, etc. The app layers these data sets
+together, with hll taking precedence.
 
 Extra metadata may be stored in additional files; these are also owned
 by the app, and writable.
