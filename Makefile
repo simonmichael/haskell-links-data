@@ -26,11 +26,13 @@ d:
 
 # forcibly
 D:
+	@git pull prod main
 	@git push -f prod
 	@ssh joyful.com 'cd src/haskell-links/data && git reset --hard && git fetch github'
 
 # publish and deploy
 pd:
+	@git pull prod main
 	@git push github
 	@ssh joyful.com "cd src/haskell-links/data && git pull github"
 	@git fetch prod
