@@ -14,3 +14,6 @@ precedence.
 
 Extra metadata may be stored in additional files; these are also owned
 by the app and writable.
+
+"make update" takes a snapshot of each source and commits any changes.
+Each source's commits are kept separate to reduce conflicts.
