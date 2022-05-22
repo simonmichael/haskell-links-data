@@ -2,7 +2,7 @@
 # Fetch lambdabot's @where db and save in haskell-links TSV format.
 # https://wiki.haskell.org/IRC_channel#lambdabot
 
-printf "URL\tID\tDESCRIPTION\tTAGS\n"
+printf "URL\tID\tDESCRIPTION\tSOURCE\n"
 
 # download
 # uncompress
@@ -19,6 +19,6 @@ curl -s  http://silicon.int-e.eu/lambdabot/State/where \
     | perl -p -e 's/\t/  /g' \
     | paste -s -d '\t\n' - \
     | grep -E 'https?:' - \
-    | perl -p -e 's/^(.*?)\t<?(https?:.*?)([>,\t ][, ]*(.*)|$)/$2\t$1\t$4\tfrom-lambdabot/' \
-    | perl -p -e 's/^((?!https?:).*?)\t([^<]+?)<?(https?:.*?)([>,\t ][, ]*(.*)|$)/$3\t$1\t$2 ... $5\tfrom-lambdabot/' \
+    | perl -p -e 's/^(.*?)\t<?(https?:.*?)([>,\t ][, ]*(.*)|$)/$2\t$1\t$4\tlambdabot/' \
+    | perl -p -e 's/^((?!https?:).*?)\t([^<]+?)<?(https?:.*?)([>,\t ][, ]*(.*)|$)/$3\t$1\t$2 ... $5\tlambdabot/' \
     | LC_COLLATE=C sort
