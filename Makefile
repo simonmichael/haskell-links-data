@@ -1,13 +1,19 @@
+# download / commit
+
 update: \
-	update-lambdabot
+	update-lambdabot \
+	update-hackage \
 
 update-lambdabot: get-lambdabot commit-lambdabot
+update-hackage: get-hackage commit-hackage
+
 
 get-%:
 	./$*-get >$*.tsv
 
 commit-%:
 	@( git commit -m "update $*" -- $*.tsv 2>&1 | grep -E '(^\[|file changed)' ) || echo "no changes"
+
 
 # publish / deploy
 

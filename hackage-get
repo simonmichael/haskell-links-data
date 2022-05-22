@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Fetch hackage's package list and save in haskell-links TSV format.
+# https://hackage.haskell.org/api
+
+printf "URL\tID\tDESCRIPTION\tSOURCE\n"
+
+curl -s -H 'Accept: application/json' https://hackage.haskell.org/packages/ \
+    | json2csv -H -d'	' -q '' \
+    | perl -p -e 's/(.*)/https:\/\/hackage.haskell.org\/package\/\1\t\1\t\thackage/' \
+    | LC_COLLATE=C sort
