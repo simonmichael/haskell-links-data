@@ -18,4 +18,6 @@ and writable via git, and perhaps later the web UI, etc.
 Extra metadata (tags, votes) might be stored separately in additional 
 files/dbs. These will also be owned by and writable by the app.
 
-The app layers these data sets together at runtime, with hll taking precedence.
+The app 
+~~layers these data sets together at runtime, with hll taking precedence~~
+combines these data sets at runtime, preserving duplicates.
