@@ -2,9 +2,29 @@
 # Fetch hackage's package list and save in haskell-links TSV format.
 # https://hackage.haskell.org/api
 
-printf "URL\tID\tDESCRIPTION\tSOURCE\n"
+# package names
+# curl -s -H 'Accept: application/json' https://hackage.haskell.org/packages/ \
+#     | json2csv -H -d'	' -q '' \
+#     | perl -p -e 's/(.*)/https:\/\/hackage.haskell.org\/package\/\1\t\1\t\thackage/' \
+#     | LC_COLLATE=C sort
 
-curl -s -H 'Accept: application/json' https://hackage.haskell.org/packages/ \
-    | json2csv -H -d'	' -q '' \
-    | perl -p -e 's/(.*)/https:\/\/hackage.haskell.org\/package\/\1\t\1\t\thackage/' \
-    | LC_COLLATE=C sort
+# package metadata
+
+latestVersion() {
+    pkgdir=$1
+    ls "$pkgdir" | grep -v preferred | sort -rV | head -1
+}
+
+
+mkdir -p hackage
+echo "downloading... ($(date))" 1>&2
+curl -s https://hackage.haskell.org/01-index.tar.gz | tar xzf - -C hackage
+echo "extracting... ($(date))" 1>&2
+printf "URL\tID\tDESCRIPTION\tSOURCE\n"
+for pkgdir in hackage/*; do
+    pkg="$(basename "$pkgdir")"
+    synopsis=$(grep -iE ^synopsis "$pkgdir/$(latestVersion "$pkgdir")/$pkg.cabal" \
+                   | perl -pe 's///g' | perl -pe 's/^[Ss]ynopsis:\s*(.*?)\s*$/\1/')
+    printf "https://hackage.haskell.org/package/%s\t%s\t%s\thackage\n" "$pkg" "$pkg" "$synopsis"
+done
+echo "done ($(date))" 1>&2
