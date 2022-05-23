@@ -2,7 +2,7 @@
 
 update: \
 	update-lambdabot \
-	update-hackage \
+#	update-hackage \
 
 update-lambdabot: get-lambdabot commit-lambdabot
 update-hackage: get-hackage commit-hackage
