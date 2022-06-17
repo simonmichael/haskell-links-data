@@ -841,6 +841,7 @@ https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run	cabal-scrip
 https://cs.au.dk/~mis/typeinf.p(s|df)	polymorphic-type-inference	"Polymorphic Type Inference" by Michael I. Schwartzbach in 1995-03 at  ... <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.1493>	lambdabot
 https://docs.haskellstack.org/en/stable/GUIDE	stack-guide	Stack User Guide	lambdabot
 https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter	stack-script	single-file Haskell scripts with stack	lambdabot
+https://docs.haskellstack.org/en/stable/faq	stack-faq		lambdabot
 https://docs.haskellstack.org/en/stable/yaml_configuration/#system-ghc	stack-system-ghc	to use only system/ghcup GHC, configure system-ghc:true, install-ghc:false	lambdabot
 https://downloads.haskell.org/~ghc/7.4.1/docs/html/libraries/ghc-prim-0.2.0.0/src/GHC-Tuple.html	manuel		lambdabot
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide	ghc-guide		lambdabot
@@ -861,7 +862,6 @@ https://github.com/chrisdone/chrisdone-emacs/tree/master/packages/lpaste	lpaste.
 https://github.com/chrisdone/hindent/	hindent		lambdabot
 https://github.com/chrisdone/structured-haskell-mode	shm		lambdabot
 https://github.com/data61/fp-course	data61	Data61 Functional Programming Course  ... <https://qfpl.io/links/2017-october-fp-course/> by Tony Morris,Mark Hibberd. Also see the channel #qfpl	lambdabot
-https://github.com/ekmett/lens/wiki/FAQ	faq-lens		lambdabot
 https://github.com/ekmett/lens/wiki/FAQ	lens-faq		lambdabot
 https://github.com/gtache/intellij-lsp/issues/125	ghcide-intellij		lambdabot
 https://github.com/haskell-learning-group/haskell-learning-group	mentor		lambdabot
@@ -930,6 +930,7 @@ https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/gre
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
 https://wiki.haskell.org/Base_package	ghc-base		lambdabot
 https://wiki.haskell.org/FAQ	faq	The general Haskell FAQ. See https://haskell-links.org/?q=faq for others	lambdabot
+https://wiki.haskell.org/GHC/FAQ	ghc-faq		lambdabot
 https://wiki.haskell.org/Haskell_Communities_and_Activities_Report	hcar		lambdabot
 https://wiki.haskell.org/Import	import		lambdabot
 https://wiki.haskell.org/Import	importing		lambdabot
