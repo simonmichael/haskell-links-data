@@ -670,7 +670,6 @@ http://www.haskell.org/happy/	happy		lambdabot
 http://www.haskell.org/haskellwiki/All_About_Monads	aam		lambdabot
 http://www.haskell.org/haskellwiki/AusHac2010	aushack		lambdabot
 http://www.haskell.org/haskellwiki/Bottom	_|_		lambdabot
-http://www.haskell.org/haskellwiki/FAQ	faq		lambdabot
 http://www.haskell.org/haskellwiki/FAQ#How_do_I_make_a_list_with_elements_of_different_types.3F	dynamic		lambdabot
 http://www.haskell.org/haskellwiki/Frag	frag		lambdabot
 http://www.haskell.org/haskellwiki/GHC:FAQ#Does_GHC_do_common_subexpression_elimination.3F	cse		lambdabot
@@ -929,9 +928,11 @@ https://view.matrix.org/alias/%23haskell:matrix.org	matrix-logs-haskell	log of t
 https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/	zen-tales	"Tales of Zen Master Greg" (in 2001 ??) at  ... 	lambdabot
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
 https://wiki.haskell.org/Base_package	ghc-base		lambdabot
+https://wiki.haskell.org/FAQ	faq		lambdabot
 https://wiki.haskell.org/Haskell_Communities_and_Activities_Report	hcar		lambdabot
 https://wiki.haskell.org/Import	import		lambdabot
 https://wiki.haskell.org/Import	importing		lambdabot
+https://wiki.haskell.org/Introduction#Other_frequently-asked_questions	intro-faq		lambdabot
 https://wiki.haskell.org/Learning_Haskell	learn		lambdabot
 https://wiki.haskell.org/Learning_Haskell	learnhaskell		lambdabot
 https://wiki.haskell.org/Monomorphism_restriction	mmr		lambdabot
