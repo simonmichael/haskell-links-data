@@ -862,6 +862,7 @@ https://github.com/chrisdone/hindent/	hindent		lambdabot
 https://github.com/chrisdone/structured-haskell-mode	shm		lambdabot
 https://github.com/data61/fp-course	data61	Data61 Functional Programming Course  ... <https://qfpl.io/links/2017-october-fp-course/> by Tony Morris,Mark Hibberd. Also see the channel #qfpl	lambdabot
 https://github.com/ekmett/lens/wiki/FAQ	faq-lens		lambdabot
+https://github.com/ekmett/lens/wiki/FAQ	lens-faq		lambdabot
 https://github.com/gtache/intellij-lsp/issues/125	ghcide-intellij		lambdabot
 https://github.com/haskell-learning-group/haskell-learning-group	mentor		lambdabot
 https://github.com/haskell-learning-group/haskell-learning-group	mentors		lambdabot
@@ -928,7 +929,7 @@ https://view.matrix.org/alias/%23haskell:matrix.org	matrix-logs-haskell	log of t
 https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/	zen-tales	"Tales of Zen Master Greg" (in 2001 ??) at  ... 	lambdabot
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
 https://wiki.haskell.org/Base_package	ghc-base		lambdabot
-https://wiki.haskell.org/FAQ	faq		lambdabot
+https://wiki.haskell.org/FAQ	faq	The general Haskell FAQ. See https://haskell-links.org/?q=faq for others	lambdabot
 https://wiki.haskell.org/Haskell_Communities_and_Activities_Report	hcar		lambdabot
 https://wiki.haskell.org/Import	import		lambdabot
 https://wiki.haskell.org/Import	importing		lambdabot
