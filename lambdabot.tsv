@@ -556,7 +556,6 @@ http://www.cs.nott.ac.uk/~pszgmh/pih.html	pih	"Programming in Haskell" by Graham
 http://www.cs.nott.ac.uk/~wss/repos/IOSpec/	iospec		lambdabot
 http://www.cs.orst.edu/~erwig/fgl/	fgl		lambdabot
 http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/acmmpc-calcfp.pdf	calcfp		lambdabot
-http://www.cs.ox.ac.uk/publications/books/functional/	tfwh	"Thinking Functionally with Haskell" by Richard Bird in Oct 2014 at  ... 	lambdabot
 http://www.cs.princeton.edu/~rdockins/edison/home/	edison		lambdabot
 http://www.cs.ru.nl/E.Poll/papers/durham97.pdf	erikpoll	"Subtyping and Inheritance for Inductive Types" in 1997 at  ... "Subtyping and Inheritance for Categorical Datatypes" in 1997 at <http://www.cs.ru.nl/E.Poll/papers/kyoto97.pdf>,"A Coalgebraic Semantics of Subtyping" in 2000 at <http://www.cs.ru.nl/E.Poll/papers/cmcs00.pdf>,later version of that in 2001 at <http://www.cs.ru.nl/E.Poll/papers/ita01.pdf>	lambdabot
 http://www.cs.tufts.edu/~nr/cs257/archive/peter-sestoft/ref-trans.pdf	referential-transparency	"Referential Transparency, Definiteness and Unfoldability" by Harald Søndergaard,Peter Sestoft in 1987-11-30 - 1990-01-04 at  ... ; see also `uday-reddy-on-referential-transparency'	lambdabot
@@ -892,7 +891,7 @@ https://i.pinimg.com/originals/14/f7/1a/14f71aa17a7ab289b3603e2a7272279d.jpg	par
 https://ircbrowse.tomsmeding.com	irc-logs	logs of some haskell IRC channels	lambdabot
 https://ircbrowse.tomsmeding.com	ircbrowse		lambdabot
 https://ircbrowse.tomsmeding.com/browse/lchaskell	logs	http://tunes.org/~nef/logs/haskell/ http://meme.b9.com/cdates.html?channel=haskell	lambdabot
-https://joyofhaskell.com	fsaf	Finding Success And Failure by Julie Moronukie/Chris Martin, 2019, $25 -  ... 	lambdabot
+https://joyofhaskell.com	fsaf	"Finding Success And Failure" by Julie Moronukie,Chris Martin in 2019 for $25 at  ... 	lambdabot
 https://kowainik.github.io/posts/deriving	strategic-deriving	"Strategic Deriving" by Veronika Romashkina,Dmitrii Kovanikov in 2020-09-21 at  ... 	lambdabot
 https://launchpad.net/~gspreemann/+archive/haskell	xmonad-0.9-jaunty		lambdabot
 https://launchpad.net/~hvr/+archive/ubuntu/ghc	ppa		lambdabot
@@ -950,6 +949,7 @@ https://www.cs.indiana.edu/~sabry/papers/purelyFunctional.ps	purely-functional	"
 https://www.cs.ox.ac.uk/news/237-full.html	pfad	"Pearls of Functional Algorithm Design" by Richard Bird in in 2010-09 at  ... 	lambdabot
 https://www.cs.ox.ac.uk/publications/books/algebra/	aop	"Algebra of Programming" by Richard Bird,Oege de Moor in 1996 at  ... <http://lambda-the-ultimate.org/node/1117>,<http://wiki.c2.com/?AlgebraOfProgramming>,<https://www.goodreads.com/book/show/2727190-algebra-of-programming>,&c.	lambdabot
 https://www.cs.ox.ac.uk/publications/books/fop/	fop	"The Fun of Programming" edited by Jeremy Gibbons,Oege de Moor in 2003-03-27 at  ... 	lambdabot
+https://www.cs.ox.ac.uk/publications/books/functional/	tfwh	"Thinking Functionally with Haskell" by Richard Bird in 2014-10 at  ... 	lambdabot
 https://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html	oplss2010		lambdabot
 https://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html	oplss2011		lambdabot
 https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html	oplss2012		lambdabot
@@ -957,8 +957,6 @@ https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html	oplss2
 https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html	oplss2014		lambdabot
 https://www.cs.uoregon.edu/research/summerschool/summerYEAR/curriculum.html)	oplss	you can find original OPLSS videos here ( ... by replacing YEAR with a two-digit year (starting with 05). you can also find many videos on youtube. years 2010 to 2014 are also stored in @where (eg @where oplss2012).	lambdabot
 https://www.destroyallsoftware.com/talks/wat	wat		lambdabot
-https://www.extrema.is/articles/haskell-books	books	http://www.vex.net/~trebla/haskell/learn-sources.html, see also @where LYAH, RWH, YAHT, HFTVB, SOE, HR, PIH, TFwH, wikibook, PCPH, HPFFP, HTAC, TwT, FoP, FSAF	lambdabot
-https://www.extrema.is/articles/haskell-books/haskell-from-the-very-beginning	hftvb		lambdabot
 https://www.fpcomplete.com/haskell/get-started	stack	All-in-one haskell installer/reproducible build tool for all platforms:  ... 	lambdabot
 https://www.haskell.org/documentation	doc	Doc starting points:  ... https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell	lambdabot
 https://www.haskell.org/documentation/	docs		lambdabot
@@ -969,6 +967,7 @@ https://www.haskell.org/haskellwiki/Uniplate	uniplate	<https://hackage.haskell.o
 https://www.haskell.org/onlinereport/haskell2010/haskellch4.html#x10-790004.3.4	defaulting	https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/interactive-evaluation.html#extended-default-rules	lambdabot
 https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2	export		lambdabot
 https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2	exporting		lambdabot
+https://www.haskellfromtheverybeginning.com/	hftvb	"Haskell from the Very Beginning" by John Whitington in 2019-09-30 at  ... 	lambdabot
 https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-a-practical-approach-to-generic-programming/	syb-papers	<https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-with-class/>,<http://www.sigplan.org/Awards/ICFP/#2014_Ralf_L%C3%A4mmel_and_Simon_Peyton_Jones>	lambdabot
 https://www.reddit.com/r/haskell/comments/dwkehu/thoughts_on_hie/f7nj2e1/	ghcide-emacs		lambdabot
 https://www.reddit.com/r/haskell/comments/egc8d0/a_few_haskell_highlights_of_2019/fcjr4tv/	cabal-and-stack		lambdabot
@@ -977,6 +976,7 @@ https://www.safaribooksonline.com/library/view/parallel-and-concurrent/978144933
 https://www.seas.upenn.edu/~cis194/spring13/lectures.html	cis194		lambdabot
 https://www.tweag.io/blog/2022-05-12-strict-vs-lazy	strict-vs-lazy	Comparing Strict and Lazy	lambdabot
 https://www.vex.net/~trebla/haskell/IO.xhtml	iotut		lambdabot
+https://www.vex.net/~trebla/haskell/learn-sources.html	books	See `LYAH',`RWH',`YAHT',`SOE',`HR',`PIH',`TFwH',`wikibook',`PCPH',`HPFFP',`FSAF',`HftVB',`HTAC',`TwT',`FoP',`PFAD',`WYAH',`non-haskell-books'. Also  ... <https://www.extrema.is/articles/haskell-books>	lambdabot
 https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/	ski-links	<http://www.medellin.unal.edu.co/~curmat/matdiscretas/doc/Epp.pdf>	lambdabot
 https://www.youtube.com/watch?v=sRonIB8ZStw	stack-tutorial		lambdabot
 https://www.youtube.com/watch?v=zPY42kkRADc	hnan_agda	"Hönan Agda" ("Agda the Chicken") by singer-songwriter,poet Cornelis Vreeswijk at  ... 	lambdabot
