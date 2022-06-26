@@ -883,7 +883,7 @@ https://hackage.haskell.org/package/syb	syb	<http://www.haskell.org/haskellwiki/
 https://haskell-links.org	links	collected Haskell links and search tools, including @where links	lambdabot
 https://haskell-via-sokoban.nomeata.de	haskell-via-sokoban		lambdabot
 https://haskell.fpcomplete.com/school	soh	School of Haskell  ... 	lambdabot
-https://homepages.inf.ed.ac.uk/wadler/topics/agda.html	plfa	"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Philip Wadler in 2018-(01-06) at  ... <https://plfa.github.io/>	lambdabot
+https://homepages.inf.ed.ac.uk/wadler/topics/agda.html#plfa	plfa	"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Jeremy G. Siek,Philip Wadler in 2018-(01-06) at  ... <https://plfa.inf.ed.ac.uk/>,<https://plfa.github.io/>,<https://github.com/plfa/plfa.github.io/>	lambdabot
 https://hoogle.haskell.org	hoogle		lambdabot
 https://hub.darcs.net/simon/cabal-install-tutorial	cabal-install-v1-tut	How to cabal install [2013, cabal v1]	lambdabot
 https://hub.darcs.net/simon/cabal-install-tutorial#when-it-wont-install-cabal-hell	cabal-hell	[2013]	lambdabot
