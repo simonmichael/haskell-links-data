@@ -852,6 +852,7 @@ https://ghc.haskell.org/trac/ghc/wiki/Commentary	commentary		lambdabot
 https://ghc.haskell.org/trac/ghc/wiki/LanguagePragmaHistory	pragma-history		lambdabot
 https://gist.github.com/merijn/8152d561fb8b011f9313c48d876ceb07	cabal-stack-disambiguation	"The Cabal/Stack Disambiguation Guide" at  ... by Merijn	lambdabot
 https://git-scm.com/book/en	gitbook		lambdabot
+https://git.tomsmeding.com/yahb2	yahb2		lambdabot
 https://github.com/DanBurton/sexy	sexy	- a Sexier Prelude (under development)	lambdabot
 https://github.com/bitemyapp/learnhaskell	guide		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-begin		lambdabot
