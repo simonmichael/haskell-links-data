@@ -841,6 +841,7 @@ https://docs.haskellstack.org/en/stable/GUIDE	stack-guide	Stack User Guide	lambd
 https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter	stack-script	single-file Haskell scripts with stack	lambdabot
 https://docs.haskellstack.org/en/stable/faq	stack-faq		lambdabot
 https://docs.haskellstack.org/en/stable/yaml_configuration/#system-ghc	stack-system-ghc	to use only system/ghcup GHC, configure system-ghc:true, install-ghc:false	lambdabot
+https://docs.haskellstack.org/en/stable/yaml_configuration/#system-ghc	to use only system/ghcup GHC, configure system-ghc:true, install-ghc:false in ~/.stack/config.yaml
 https://downloads.haskell.org/~ghc/7.4.1/docs/html/libraries/ghc-prim-0.2.0.0/src/GHC-Tuple.html	manuel		lambdabot
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide	ghc-guide		lambdabot
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/type-class-extensions.html#functional-dependencies	fundep		lambdabot
