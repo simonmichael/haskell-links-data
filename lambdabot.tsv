@@ -860,6 +860,7 @@ https://github.com/chrisdone/chrisdone-emacs/tree/master/packages/lpaste	lpaste.
 https://github.com/chrisdone/hindent/	hindent		lambdabot
 https://github.com/chrisdone/structured-haskell-mode	shm		lambdabot
 https://github.com/data61/fp-course	data61	Data61 Functional Programming Course  ... <https://qfpl.io/links/2017-october-fp-course/> by Tony Morris,Mark Hibberd. Also see the channel #qfpl	lambdabot
+https://github.com/dnikolovv/practical-haskell	practical-haskell-bits		lambdabot
 https://github.com/ekmett/lens/wiki/FAQ	lens-faq		lambdabot
 https://github.com/gtache/intellij-lsp/issues/125	ghcide-intellij		lambdabot
 https://github.com/haskell-learning-group/haskell-learning-group	mentor		lambdabot
@@ -924,6 +925,7 @@ https://silicon.int-e.eu/lambdabot/State/Pristine.hs	l.hs	what lambdabot has in 
 https://stackage.org/lts	stackage-lts	current stable Stackage snapshot of packages, using a not-too-cutting-edge GHC	lambdabot
 https://stackage.org/nightly	stackage-nightly	latest nightly Stackage snapshot of packages, using a semi-recent GHC	lambdabot
 https://status.haskell.org	status	<http://auto-status.haskell.org/>,<https://twitter.com/haskellstatus>	lambdabot
+https://typeclasses.com/phrasebook	haskell-phrasebook		lambdabot
 https://typeclasses.com/phrasebook	thp	The Haskell Phrasebook - free quick-start guide by Julie Moronukie/Chris Martin, 2019 -  ... 	lambdabot
 https://ucsd-progsys.github.io/liquidhaskell-blog/	liquidhaskell	"LiquidHaskell (LH) _refines_ Haskell's types with logical predicates that let you enforce critical properties at _compile time_."  ... <https://github.com/ucsd-progsys/liquidhaskell>,<http://hackage.haskell.org/package/liquidhaskell>	lambdabot
 https://view.matrix.org/?query=haskell	matrix-logs	logs of matrix rooms matching "haskell" with public history	lambdabot
