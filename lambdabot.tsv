@@ -961,6 +961,7 @@ https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html	oplss2
 https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html	oplss2014		lambdabot
 https://www.cs.uoregon.edu/research/summerschool/summerYEAR/curriculum.html)	oplss	you can find original OPLSS videos here ( ... by replacing YEAR with a two-digit year (starting with 05). you can also find many videos on youtube. years 2010 to 2014 are also stored in @where (eg @where oplss2012).	lambdabot
 https://www.destroyallsoftware.com/talks/wat	wat		lambdabot
+https://www.extrema.is/articles/haskell-books	books	See `LYAH',`RWH',`YAHT',`SOE',`HR',`PIH',`TFwH',`wikibook',`PCPH',`HPFFP',`FSAF',`HftVB',`HTAC',`TwT',`FoP',`PFAD',`WYAH',`non-haskell-books'. Also  ... https://www.vex.net/~trebla/haskell/learn-sources	lambdabot
 https://www.fpcomplete.com/haskell/get-started	stack	All-in-one haskell installer/reproducible build tool for all platforms:  ... 	lambdabot
 https://www.haskell.org/documentation	doc	Doc starting points:  ... https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell	lambdabot
 https://www.haskell.org/documentation/	docs		lambdabot
@@ -981,7 +982,6 @@ https://www.seas.upenn.edu/~cis194/spring13/lectures.html	cis194		lambdabot
 https://www.stephendiehl.com/posts/docs.html	wiwik-status		lambdabot
 https://www.tweag.io/blog/2022-05-12-strict-vs-lazy	strict-vs-lazy	Comparing Strict and Lazy	lambdabot
 https://www.vex.net/~trebla/haskell/IO.xhtml	iotut		lambdabot
-https://www.vex.net/~trebla/haskell/learn-sources.html	books	See `LYAH',`RWH',`YAHT',`SOE',`HR',`PIH',`TFwH',`wikibook',`PCPH',`HPFFP',`FSAF',`HftVB',`HTAC',`TwT',`FoP',`PFAD',`WYAH',`non-haskell-books'. Also  ... <https://www.extrema.is/articles/haskell-books>	lambdabot
 https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/	ski-links	<http://www.medellin.unal.edu.co/~curmat/matdiscretas/doc/Epp.pdf>	lambdabot
 https://www.youtube.com/watch?v=sRonIB8ZStw	stack-tutorial		lambdabot
 https://www.youtube.com/watch?v=zPY42kkRADc	hnan_agda	"Hönan Agda" ("Agda the Chicken") by singer-songwriter,poet Cornelis Vreeswijk at  ... 	lambdabot
