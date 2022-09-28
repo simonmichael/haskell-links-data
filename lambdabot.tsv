@@ -908,7 +908,6 @@ https://neilmitchell.blogspot.se/2014/07/applicative-vs-monadic-build-systems.ht
 https://news.ycombinator.com/item?id=31664490	haskell-apps-2022	list of apps written in Haskell	lambdabot
 https://nicolaspouillard.fr/publis/nameless-painless.pdf	nameless	Nameless, Painless:  ... 	lambdabot
 https://oeis.org/	oeis		lambdabot
-https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf	mtss	"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at  ... 	lambdabot
 https://paste.tomsmeding.com	paste	Help us help you: please paste full code, input and/or output at e.g.  ... 	lambdabot
 https://paste.tomsmeding.com	pastecabalstack	Help us help you: at  ... https://gist.github.com or https://termbin.com, please paste your failing command, full output, and .cabal, package.yaml and/or stack.yaml files	lambdabot
 https://paste.tomsmeding.com/	paste3	tomsmeding's proof that programming > discussing:  ... 	lambdabot
@@ -931,6 +930,7 @@ https://ucsd-progsys.github.io/liquidhaskell-blog/	liquidhaskell	"LiquidHaskell 
 https://view.matrix.org/?query=haskell	matrix-logs	logs of matrix rooms matching "haskell" with public history	lambdabot
 https://view.matrix.org/alias/%23haskell:matrix.org	matrix-logs-haskell	log of the main haskell matrix chat room, #haskell:matrix.org	lambdabot
 https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/	zen-tales	"Tales of Zen Master Greg" (in 2001 ??) at  ... 	lambdabot
+https://web.archive.org/web/20201108001845/https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf	mtss	"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at  ... 	lambdabot
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
 https://wiki.haskell.org/Base_package	ghc-base		lambdabot
 https://wiki.haskell.org/FAQ	faq	The general Haskell FAQ. See https://haskell-links.org/?q=faq for others	lambdabot
