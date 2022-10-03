@@ -325,6 +325,7 @@ http://mauke.ath.cx/tmp/2009-10-19-hackage-archive.torrent	hackagetorrent		lambd
 http://members.cox.net/stefanor/vty/	vty	darcs get  ... 	lambdabot
 http://memegenerator.net/instance/7710889	wtfmonad		lambdabot
 http://mitpress.mit.edu/sicm/	sicm		lambdabot
+http://mitpress.mit.edu/sicp/	sicp	"Structure and Interpretation of Computer Programs"  ... <http://swiss.csail.mit.edu/classes/6.001/abelson-sussman-lectures/>,<https://github.com/sarabander/sicp-pdf> | "Storage and Identification of Cabalized Packages" <http://www.vex.net/~trebla/haskell/sicp.xhtml>	lambdabot
 http://modeemi.cs.tut.fi/~tuomov/ion/	ion		lambdabot
 http://moonpatio.com/repos/lunabot/	lunabot	{- currently just the bare bot + ghc-api-eval + eval-rlimit-sandboxed-stdin->stdout (and no docs) -}	lambdabot
 http://moonpatio.com/vacuum/	vacuum		lambdabot
