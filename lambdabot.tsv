@@ -561,7 +561,6 @@ http://www.cs.tufts.edu/~nr/cs257/archive/peter-sestoft/ref-trans.pdf	referentia
 http://www.cs.utah.edu/~hal/htut/	yaht	"Yet Another Haskell Tutorial", Hal Daume III, ... <http://en.wikibooks.org/wiki/Haskell/YAHT>,<http://hal3.name/docs/daume02yaht.p(df|s)>,<http://darcs.haskell.org/yaht/yaht.p(df|s)>	lambdabot
 http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf	on-understanding-revisited	"On Understanding Data Abstraction, Revisited" by William R. Cook in 2009-10 at  ... 	lambdabot
 http://www.cs.uu.nl/research/projects/generic-haskell/	generichaskell	<https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#generic-classes>,<https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#generic-programming>	lambdabot
-http://www.cs.uu.nl/research/projects/helium/	helium		lambdabot
 http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-044.pdf	parsing		lambdabot
 http://www.cs.uu.nl/wiki/HUT/AttributeGrammarSystem	ag		lambdabot
 http://www.cs.uu.nl/wiki/HUT/AttributeGrammarSystem	uuag		lambdabot
@@ -854,6 +853,7 @@ https://gist.github.com/merijn/8152d561fb8b011f9313c48d876ceb07	cabal-stack-disa
 https://git-scm.com/book/en	gitbook		lambdabot
 https://git.tomsmeding.com/yahb2	yahb2		lambdabot
 https://github.com/DanBurton/sexy	sexy	- a Sexier Prelude (under development)	lambdabot
+https://github.com/Helium4Haskell/helium	helium	Haskell subset for beginners, improved diagnostics (incl. eDSLs). See  ... <https://hackage.haskell.org/package/helium>,<https://web.archive.org/web/20160624222240/http://foswiki.cs.uu.nl/foswiki/Helium/WebHome>,<https://web.archive.org/web/20210907032911/http://www.cs.uu.nl/research/projects/helium/>,<https://www.open.ou.nl/bhr/HeliumCompiler.html>	lambdabot
 https://github.com/bitemyapp/learnhaskell	guide		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-begin		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-start		lambdabot
