@@ -494,7 +494,6 @@ http://www-users.cs.york.ac.uk/~ndm/projects/winhaskell.php	winhaskell		lambdabo
 http://www-users.cs.york.ac.uk/~ndm/tagsoup/	tagsoup		lambdabot
 http://www.altocumulus.org/Fudgets/	fudgets	GUI using X, by Thomas Hallgren and Magnus Carlsson, at  ... <http://www.carlssonia.org/ogi/ProdArrows/>. Also see `Alfa'	lambdabot
 http://www.amazon.com/Introduction-Functional-Programming-Haskell-Edition/dp/0134843460	bird		lambdabot
-http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504	pfds		lambdabot
 http://www.annodex.net/~conrad/software/hogg/	hogg		lambdabot
 http://www.benzedrine.cx/planetwars/	tcpserver		lambdabot
 http://www.carlssonia.org/ogi/mdo-callcc.pdf	monadfix_cont	"Value recursion in the continuation monad" by Magnus Carlsson in 2003-01-07 at  ... (there's also slides at <http://www.carlssonia.org/ogi/mdo-callcc-slides.pdf>)	lambdabot
@@ -934,6 +933,7 @@ https://view.matrix.org/?query=haskell	matrix-logs	logs of matrix rooms matching
 https://view.matrix.org/alias/%23haskell:matrix.org	matrix-logs-haskell	log of the main haskell matrix chat room, #haskell:matrix.org	lambdabot
 https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/	zen-tales	"Tales of Zen Master Greg" (in 2001 ??) at  ... 	lambdabot
 https://web.archive.org/web/20201108001845/https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf	mtss	"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at  ... 	lambdabot
+https://web.archive.org/web/20210917054102/https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf	pfds	"Purely Functional Data Structures" by Chris Okasaki : Ph. D. thesis in 1996-09 at  ... ; book in ((1st ed.) 1998-04-13 -) 1999-06-13 at <https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504>	lambdabot
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
 https://wiki.haskell.org/Base_package	ghc-base		lambdabot
 https://wiki.haskell.org/FAQ	faq	The general Haskell FAQ. See https://haskell-links.org/?q=faq for others	lambdabot
