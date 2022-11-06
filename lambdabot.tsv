@@ -855,6 +855,7 @@ https://github.com/Helium4Haskell/helium	helium	Haskell subset for beginners, im
 https://github.com/bitemyapp/learnhaskell	guide		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-begin		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-start		lambdabot
+https://github.com/byorgey/haskell-course	cis194		lambdabot
 https://github.com/chrisdone/chrisdone-emacs/tree/master/packages/lpaste	lpaste.el	chrisdone's `lpaste-region' for Emacs at  ... 	lambdabot
 https://github.com/chrisdone/hindent/	hindent		lambdabot
 https://github.com/chrisdone/structured-haskell-mode	shm		lambdabot
@@ -983,7 +984,6 @@ https://www.reddit.com/r/haskell/comments/dwkehu/thoughts_on_hie/f7nj2e1/	ghcide
 https://www.reddit.com/r/haskell/comments/egc8d0/a_few_haskell_highlights_of_2019/fcjr4tv/	cabal-and-stack		lambdabot
 https://www.reddit.com/r/haskell/comments/use5bt/what_are_the_rationales_of_the_functor	symbols-explain	What are the rationales of the functor, applicative, monad operator symbols ?	lambdabot
 https://www.safaribooksonline.com/library/view/parallel-and-concurrent/9781449335939/	parconc		lambdabot
-https://www.seas.upenn.edu/~cis194/spring13/lectures.html	cis194		lambdabot
 https://www.stephendiehl.com/posts/docs.html	wiwik-status		lambdabot
 https://www.tweag.io/blog/2022-05-12-strict-vs-lazy	strict-vs-lazy	Comparing Strict and Lazy	lambdabot
 https://www.vex.net/~trebla/haskell/IO.xhtml	iotut		lambdabot
