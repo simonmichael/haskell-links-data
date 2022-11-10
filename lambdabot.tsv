@@ -918,6 +918,7 @@ https://paste.tomsmeding.com/	paste3	tomsmeding's proof that programming > discu
 https://patrickmn.com/software/the-haskell-pyramid/	haskell-pyramid		lambdabot
 https://personal.cis.strath.ac.uk/conor.mcbride/pub/OAAO/LitOrn.pdf	oaao		lambdabot
 https://phabricator.haskell.org/w/projects/haskell.org_infrastructure/server_admin_log/	adminlog		lambdabot
+https://philipnilsson.github.io/Badness10k/escaping-hell-with-monads/	escaping-hell	(non-tutorial teaser) "Escaping Hell with Monads" by Philip Nillson in 2017-05-08 at  ... 	lambdabot
 https://play-haskell.tomsmeding.com/play	play		lambdabot
 https://pvp.haskell.org/	pvp		lambdabot
 https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html	zerotohero	Jargon-free language intro:  ... 	lambdabot
@@ -952,6 +953,7 @@ https://wiki.haskell.org/Monomorphism_restriction	monomorphismrestriction		lambd
 https://wiki.haskell.org/ScopedTypeVariables	scopedtypevariables	(remember to add "forall")	lambdabot
 https://wiki.haskell.org/Template_Haskell	templatehaskell		lambdabot
 https://wiki.haskell.org/Time	time		lambdabot
+https://www-users.mat.umk.pl/~fly/materialy/fp/haskell-doc/Monads.html	hell-monads	"What the hell are Monads?" by Noel Winstanley in 1999-02 at  ... . Possibly the first (non-paper) general monad tutorial	lambdabot
 https://www.cis.upenn.edu/~bcpierce/attapl/	attapl	"Advanced Topics in Types and Programming Languages" edited by Benjamin C. Pierce in 2004-12-23 at  ... 	lambdabot
 https://www.cis.upenn.edu/~bcpierce/tapl/	tapl	"Types and Programming Languages" by Benjamin C. Pierce in 2002-02-01 at  ... 	lambdabot
 https://www.cs.indiana.edu/eopl/	eopl	Essentials of Programming Languages by Friedman, Wand and Haynes in 2001  ... 	lambdabot
