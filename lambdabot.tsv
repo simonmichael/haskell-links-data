@@ -21,6 +21,7 @@ http://blog.bjrn.se/2008/09/speeding-up-haskell-with-c-very-short.html	ffi-dct		
 http://blog.codeslower.com/static/CheatSheet.pdf	cheatsheet		lambdabot
 http://blog.ezyang.com/2012/08/applicative-functors/	monoidal-applicatives		lambdabot
 http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	invented		lambdabot
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	invented-monads	"You Could Have Invented Monads! (And Maybe You Already Have.)" by dpiponi in 2006-08-07 at  ... 	lambdabot
 http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	sigfpe_monads		lambdabot
 http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	ychim		lambdabot
 http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	you_could_have_invented_monads		lambdabot
@@ -888,6 +889,7 @@ https://haskell-links.org	links	collected Haskell links and search tools, includ
 https://haskell-via-sokoban.nomeata.de	haskell-via-sokoban		lambdabot
 https://haskell.fpcomplete.com/school	soh	School of Haskell  ... 	lambdabot
 https://homepages.inf.ed.ac.uk/wadler/topics/agda.html#plfa	plfa	"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Jeremy G. Siek,Philip Wadler in 2018-(01-06) at  ... <https://plfa.inf.ed.ac.uk/>,<https://plfa.github.io/>,<https://github.com/plfa/plfa.github.io/>	lambdabot
+https://homepages.inf.ed.ac.uk/wadler/topics/monads.html	wadler-monads	Monad(ic (, idiomatic/applicative and arrow) effects) introduction papers by Philip Wadler in 1992-01 - 2010 at  ... . Start from oldest. Perhaps skip the ones touching upon composable continuations, idioms, constraints, arrows, on a first read	lambdabot
 https://hoogle.haskell.org	hoogle		lambdabot
 https://hub.darcs.net/simon/cabal-install-tutorial	cabal-install-v1-tut	How to cabal install [2013, cabal v1]	lambdabot
 https://hub.darcs.net/simon/cabal-install-tutorial#when-it-wont-install-cabal-hell	cabal-hell	[2013]	lambdabot
