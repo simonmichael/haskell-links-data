@@ -857,7 +857,7 @@ https://github.com/Helium4Haskell/helium	helium	Haskell subset for beginners, im
 https://github.com/bitemyapp/learnhaskell	guide		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-begin		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-start		lambdabot
-https://github.com/byorgey/haskell-course	cis194		lambdabot
+https://github.com/byorgey/haskell-course	cis194	<https://www.seas.upenn.edu/~cis194/spring13/lectures.html>	lambdabot
 https://github.com/chrisdone/chrisdone-emacs/tree/master/packages/lpaste	lpaste.el	chrisdone's `lpaste-region' for Emacs at  ... 	lambdabot
 https://github.com/chrisdone/hindent/	hindent		lambdabot
 https://github.com/chrisdone/structured-haskell-mode	shm		lambdabot
