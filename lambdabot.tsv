@@ -236,7 +236,6 @@ http://haskell.org/haskellwiki/Haskell_mode_for_Emacs	haskell-mode		lambdabot
 http://haskell.org/haskellwiki/Hpaste.el	hpaste.el		lambdabot
 http://haskell.org/haskellwiki/Koans	haskell-koans	-- in another sense, see <https://github.com/hskoans/hskoans>	lambdabot
 http://haskell.org/haskellwiki/Koans	koan		lambdabot
-http://haskell.org/haskellwiki/Lambdabot	lambdabot		lambdabot
 http://haskell.org/haskellwiki/Mailing_lists	mailinglist		lambdabot
 http://haskell.org/haskellwiki/Performance	performance		lambdabot
 http://haskell.org/haskellwiki/Software_transactional_memory	stm	| http://book.realworldhaskell.org/read/software-transactional-memory.html | http://chimera.labs.oreilly.com/books/1230000000929/ch10.html	lambdabot
@@ -882,6 +881,7 @@ https://github.com/xmonad/xmonad/issues/174#issuecomment-1118020397	kde		lambdab
 https://gitlab.haskell.org/ghc/ghc/-/wikis/building/hadrian	hadrian		lambdabot
 https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history	boot-libs-versions		lambdabot
 https://hackage.haskell.org/package/cabal-plan	cabal-plan		lambdabot
+https://hackage.haskell.org/package/lambdabot	lambdabot	https://github.com/lambdabot/lambdabot	lambdabot
 https://hackage.haskell.org/package/lens-4.15.4/docs/Control-Lens-Plated.html	plated		lambdabot
 https://hackage.haskell.org/package/recursion-schemes	recursion-schemes	. Also see "Functional Programming with Bananas, Lenses, and Barbed Wire" by Erik Meijer,Maarten Fokkinga,Ross Paterson in 1991 at <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125>,`AoP'	lambdabot
 https://hackage.haskell.org/package/syb	syb	<http://www.haskell.org/haskellwiki/Scrap_your_boilerplate>,<https://www.haskell.org/haskellwiki/Applications_and_libraries/Generic_programming/SyB>,`SYB-papers',<http://research.microsoft.com/en-us/um/people/simonpj/papers/hmap/>,<http://homepages.cwi.nl/~ralf/syb2/>,<http://homepages.cwi.nl/~ralf/syb3/>	lambdabot
