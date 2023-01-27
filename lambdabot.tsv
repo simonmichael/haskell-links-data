@@ -890,7 +890,7 @@ https://hackage.haskell.org/package/syb	syb	<http://www.haskell.org/haskellwiki/
 https://haskell-docs.netlify.app	hng	Haskell Newcomer Guide,  ... 	lambdabot
 https://haskell-haddock.readthedocs.io	haddock-guide		lambdabot
 https://haskell-links.org	links	collected Haskell links and search tools, including @where links	lambdabot
-https://haskell-via-sokoban.nomeata.de	haskell-via-sokoban		lambdabot
+https://haskell-via-sokoban.nomeata.de	sokoban	- learn Haskell by building a Sokoban game	lambdabot
 https://haskell.fpcomplete.com/school	soh	School of Haskell  ... 	lambdabot
 https://homepages.inf.ed.ac.uk/wadler/topics/agda.html#plfa	plfa	"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Jeremy G. Siek,Philip Wadler in 2018-(01-06) at  ... <https://plfa.inf.ed.ac.uk/>,<https://plfa.github.io/>,<https://github.com/plfa/plfa.github.io/>	lambdabot
 https://homepages.inf.ed.ac.uk/wadler/topics/monads.html	wadler-monads	Monad(ic (, idiomatic/applicative and arrow) effects) introduction papers by Philip Wadler in 1992-01 - 2010 at  ... . Start from oldest. Perhaps skip the ones touching upon composable continuations, idioms, constraints, arrows, on a first read	lambdabot
