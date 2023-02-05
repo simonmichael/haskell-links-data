@@ -909,6 +909,7 @@ https://launchpad.net/~gspreemann/+archive/haskell	xmonad-0.9-jaunty		lambdabot
 https://launchpad.net/~hvr/+archive/ubuntu/ghc	ppa		lambdabot
 https://leanpub.com/functional-design-and-architecture	fdaa	Functional Design and Architecture,  ... 	lambdabot
 https://leanpub.com/haskell-cookbook	htac	"Haskell Tutorial and Cookbook" by Mark Watson in 2017-09-04 at  ... 	lambdabot
+https://leanpub.com/production-haskell	ph	2023 book	lambdabot
 https://leanpub.com/thinking-with-types	twt	"Thinking with Types: Type-Level Programming in Haskell" by Sandy Maguire in 2019-01-10 at  ... 	lambdabot
 https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/	parse-don't-validate	"Parse, don't validate" by lexi-lambda in 2019-11-05 at  ... 	lambdabot
 https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/	pdv	"Parse, don't validate" by lexi-lambda in 2019-11-05 at  ... 	lambdabot
@@ -978,7 +979,7 @@ https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html	oplss2
 https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html	oplss2014		lambdabot
 https://www.cs.uoregon.edu/research/summerschool/summerYEAR/curriculum.html)	oplss	you can find original OPLSS videos here ( ... by replacing YEAR with a two-digit year (starting with 05). you can also find many videos on youtube. years 2010 to 2014 are also stored in @where (eg @where oplss2012).	lambdabot
 https://www.destroyallsoftware.com/talks/wat	wat		lambdabot
-https://www.extrema.is/articles/haskell-books	books	is the best list of Haskell books. See also: LYAH, RWH, YAHT, SOE, HR, PIH, TFwH, wikibook, PCPH, HPFFP, FSAF, HftVB, HTAC, TwT, FoP, PFAD, WYAH, non-haskell-books	lambdabot
+https://www.extrema.is/articles/haskell-books	books	is the best list of Haskell books. See also: LYAH, HTAC, RWH, PH, YAHT, SOE, HR, PIH, TFwH, wikibook, PCPH, HPFFP, FSAF, HftVB, TwT, FoP, PFAD, WYAH, non-haskell-books	lambdabot
 https://www.fpcomplete.com/haskell/get-started	stack	All-in-one haskell installer/reproducible build tool for all platforms:  ... 	lambdabot
 https://www.fpcomplete.com/haskell/tutorial/operators	operators		lambdabot
 https://www.haskell.org/documentation	doc	Doc starting points:  ... https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell	lambdabot
