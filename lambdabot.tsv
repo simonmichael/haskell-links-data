@@ -942,6 +942,7 @@ https://stackage.org/lts	stackage-lts	current stable Stackage snapshot of packag
 https://stackage.org/nightly	stackage-nightly	latest nightly Stackage snapshot of packages, using a semi-recent GHC	lambdabot
 https://status.haskell.org	status	<http://auto-status.haskell.org/>,<https://twitter.com/haskellstatus>	lambdabot
 https://typeclasses.com/phrasebook	haskell-phrasebook		lambdabot
+https://typeclasses.com/phrasebook	phrasebook	- cursory overview of selected Haskell features, jumping-off points for further reading, and recommendations to help get you writing programs as soon as possible	lambdabot
 https://typeclasses.com/phrasebook	thp	The Haskell Phrasebook - free quick-start guide by Julie Moronukie/Chris Martin, 2019 -  ... 	lambdabot
 https://ucsd-progsys.github.io/liquidhaskell-blog/	liquidhaskell	"LiquidHaskell (LH) _refines_ Haskell's types with logical predicates that let you enforce critical properties at _compile time_."  ... <https://github.com/ucsd-progsys/liquidhaskell>,<http://hackage.haskell.org/package/liquidhaskell>	lambdabot
 https://view.matrix.org/?query=haskell	matrix-logs	logs of matrix rooms matching "haskell" with public history	lambdabot
