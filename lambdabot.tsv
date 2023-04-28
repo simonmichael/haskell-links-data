@@ -869,6 +869,7 @@ https://github.com/ekmett/lens/wiki/FAQ	lens-faq		lambdabot
 https://github.com/gtache/intellij-lsp/issues/125	ghcide-intellij		lambdabot
 https://github.com/haskell-learning-group/haskell-learning-group	mentor		lambdabot
 https://github.com/haskell-learning-group/haskell-learning-group	mentors		lambdabot
+https://github.com/jonascarpay/calligraphy	call-graph	https://jonascarpay.com/posts/2022-04-26-calligraphy-tutorial.html	lambdabot
 https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source	source	The fixed database for the `src' lambdabot command is at  ... 	lambdabot
 https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source	src	The fixed database for the `src' lambdabot command is at  ... 	lambdabot
 https://github.com/lspitzner/exference	exference	Djinn on steroids: recursive types, typeclasses, etc.  ... or in #haskell: :exf "Monad m => m (m a) -> m a"	lambdabot
