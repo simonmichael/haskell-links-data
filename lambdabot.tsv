@@ -832,6 +832,7 @@ https://bpa.st/	paste2		lambdabot
 https://bugs.archlinux.org/task/54561	arch-ld-bug		lambdabot
 https://cabal.readthedocs.io	cabal-guide	Cabal User Guide	lambdabot
 https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run	cabal-script	single-file Haskell scripts with cabal	lambdabot
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3014	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at "icfp-2002.pdf"  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
 https://code.world	codeworld	and https://code.world/haskell - web-based haskell-like and haskell coding and learning environment	lambdabot
 https://cs.au.dk/~mis/typeinf.p(s|df)	polymorphic-type-inference	"Polymorphic Type Inference" by Michael I. Schwartzbach in 1995-03 at  ... <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.1493>	lambdabot
 https://docs.haskellstack.org/en/stable/GUIDE	stack-guide	Stack User Guide	lambdabot
@@ -948,7 +949,6 @@ https://ucsd-progsys.github.io/liquidhaskell-blog/	liquidhaskell	"LiquidHaskell 
 https://view.matrix.org/?query=haskell	matrix-logs	logs of matrix rooms matching "haskell" with public history	lambdabot
 https://view.matrix.org/alias/%23haskell:matrix.org	matrix-logs-haskell	log of the main haskell matrix chat room, #haskell:matrix.org	lambdabot
 https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/	zen-tales	"Tales of Zen Master Greg" (in 2001 ??) at  ... 	lambdabot
-https://web.archive.org/web/20091114092258/http://www.carlssonia.org/~magnus/ogi/papers/icfp-2002.pdf	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
 https://web.archive.org/web/20201108001845/https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf	mtss	"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at  ... 	lambdabot
 https://web.archive.org/web/20210917054102/https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf	pfds	"Purely Functional Data Structures" by Chris Okasaki : Ph. D. thesis in 1996-09 at  ... ; book in ((1st ed.) 1998-04-13 -) 1999-06-13 at <https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504>	lambdabot
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
