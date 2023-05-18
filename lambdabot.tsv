@@ -842,6 +842,7 @@ https://docs.haskellstack.org/en/stable/yaml_configuration/#system-ghc	to use on
 https://downloads.haskell.org/~ghc/7.4.1/docs/html/libraries/ghc-prim-0.2.0.0/src/GHC-Tuple.html	manuel		lambdabot
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide	ghc-guide		lambdabot
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/type-class-extensions.html#functional-dependencies	fundep		lambdabot
+https://drive.google.com/file/d/1OfcnkoTCxWUaTGc570oV-D8fWx30Lvtx/view	adaptive	"Adaptive Functional Programming" by Umut Acar,Blelloch,Harper in 2002 (POPL) at  ... <https://web.archive.org/web/20211028132646/http://www.umut-acar.org/publications/popl2002.pdf> and in 2006 (TOPLAS) at	lambdabot
 https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours	scheme		lambdabot
 https://fplab.bitbucket.io/posts.html	fplunch		lambdabot
 https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling	crosscompilation		lambdabot
@@ -950,7 +951,6 @@ https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/gre
 https://web.archive.org/web/20091114092258/http://www.carlssonia.org/~magnus/ogi/papers/icfp-2002.pdf	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
 https://web.archive.org/web/20201108001845/https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf	mtss	"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at  ... 	lambdabot
 https://web.archive.org/web/20210917054102/https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf	pfds	"Purely Functional Data Structures" by Chris Okasaki : Ph. D. thesis in 1996-09 at  ... ; book in ((1st ed.) 1998-04-13 -) 1999-06-13 at <https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504>	lambdabot
-https://web.archive.org/web/20211028132646/http://www.umut-acar.org/publications/popl2002.pdf	adaptive	"Adaptive Functional Programming" by Umut Acar,Blelloch,Harper in 2002 (POPL) at  ... and in 2006 (TOPLAS) at <https://web.archive.org/web/20211028132646/http://www.umut-acar.org/publications/toplas2006.pdf>	lambdabot
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
 https://wiki.haskell.org/Base_package	ghc-base		lambdabot
 https://wiki.haskell.org/FAQ	faq	The general Haskell FAQ. See https://haskell-links.org/?q=faq for others	lambdabot
