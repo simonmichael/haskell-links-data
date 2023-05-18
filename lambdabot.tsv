@@ -843,7 +843,7 @@ https://docs.haskellstack.org/en/stable/yaml_configuration/#system-ghc	to use on
 https://downloads.haskell.org/~ghc/7.4.1/docs/html/libraries/ghc-prim-0.2.0.0/src/GHC-Tuple.html	manuel		lambdabot
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide	ghc-guide		lambdabot
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/type-class-extensions.html#functional-dependencies	fundep		lambdabot
-https://drive.google.com/file/d/1OfcnkoTCxWUaTGc570oV-D8fWx30Lvtx/view	adaptive	"Adaptive Functional Programming" by Umut Acar,Blelloch,Harper in 2002 (POPL) at  ... <https://web.archive.org/web/20211028132646/http://www.umut-acar.org/publications/popl2002.pdf> and in 2006 (TOPLAS) at	lambdabot
+https://drive.google.com/file/d/1OfcnkoTCxWUaTGc570oV-D8fWx30Lvtx/view	adaptive	"Adaptive Functional Programming" by Umut Acar,Blelloch,Harper in 2002 (POPL) at  ... and in 2006 (TOPLAS) at <https://drive.google.com/file/d/1bAYubdbZ9VjO_y5-DoYXKSiuyid0sX4Z/view>; <https://www.umut-acar.org/publications>	lambdabot
 https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours	scheme		lambdabot
 https://fplab.bitbucket.io/posts.html	fplunch		lambdabot
 https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling	crosscompilation		lambdabot
