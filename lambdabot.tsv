@@ -845,6 +845,7 @@ https://downloads.haskell.org/~ghc/latest/docs/html/users_guide	ghc-guide		lambd
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/type-class-extensions.html#functional-dependencies	fundep		lambdabot
 https://drive.google.com/file/d/1OfcnkoTCxWUaTGc570oV-D8fWx30Lvtx/view	adaptive	"Adaptive Functional Programming" by Umut Acar,Blelloch,Harper in 2002 (POPL) at  ... and in 2006 (TOPLAS) at <https://drive.google.com/file/d/1bAYubdbZ9VjO_y5-DoYXKSiuyid0sX4Z/view>; <https://www.umut-acar.org/publications>	lambdabot
 https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours	scheme		lambdabot
+https://errors.haskell.org	errors	the Haskell Error Index	lambdabot
 https://fplab.bitbucket.io/posts.html	fplunch		lambdabot
 https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling	crosscompilation		lambdabot
 https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling	crosscompiling		lambdabot
