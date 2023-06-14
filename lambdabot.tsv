@@ -800,6 +800,7 @@ http://www.vex.net/~trebla/haskell/cont-monad.xhtml	setjmp		lambdabot
 http://www.vex.net/~trebla/haskell/crossroad.xhtml	crossroad		lambdabot
 http://www.vex.net/~trebla/haskell/haskell-platform.xhtml	haskell-platform.xhtml		lambdabot
 http://www.vex.net/~trebla/haskell/lazy.xhtml	lazy	"Lazy Evaluation of Haskell" by monochrom at  ... ; "The Incomplete Guide to Lazy Evaluation (in Haskell)" by apfelmus in 2015-03-07 at <https://apfelmus.nfshost.com/articles/lazy-eval.html>; "Laziness, strictness, guarded recursion" by bitemyapp at <https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md#user-content-laziness-strictness-guarded-recursion>	lambdabot
+http://www.vex.net/~trebla/haskell/prerequisite.xhtml	prereqs		lambdabot
 http://www.vex.net/~trebla/haskell/prerequisite.xhtml	prerequisite	"Prerequisite for Learning Haskell"  ... 	lambdabot
 http://www.vex.net/~trebla/haskell/siCp.xhtml	cobol-install	"Storage and Identification of COBOLized Packages" at  ... 	lambdabot
 http://www.vex.net/~trebla/haskell/sicp.xhtml	sicp-cabal		lambdabot
