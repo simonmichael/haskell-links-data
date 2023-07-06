@@ -854,6 +854,7 @@ https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling	crosscompiling		la
 https://ghc.haskell.org/trac/ghc/wiki/Commentary	commentary		lambdabot
 https://ghc.haskell.org/trac/ghc/wiki/LanguagePragmaHistory	pragma-history		lambdabot
 https://gist.github.com/merijn/8152d561fb8b011f9313c48d876ceb07	cabal-stack-disambiguation	"The Cabal/Stack Disambiguation Guide" at  ... by Merijn	lambdabot
+https://gist.github.com/pervognsen/0e1be3b683d62b16fd81381c909bf67e	array-views	"Multi-dimensional array views for systems programmers" by pervognsen (Per Vognsen) at 2019-01-20(?) - 2019-04-30 at  ... 	lambdabot
 https://gist.github.com/simonmichael/7c7004bf3f462fdc95e79d72779e4431	chatgpt-parsec	transcript of a ChatGPT-assisted parsec programming session	lambdabot
 https://git-scm.com/book/en	gitbook		lambdabot
 https://git.tomsmeding.com/yahb2	yahb2		lambdabot
