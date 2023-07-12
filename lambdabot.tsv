@@ -1005,6 +1005,7 @@ https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2	e
 https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2	exporting		lambdabot
 https://www.haskellfromtheverybeginning.com/	hftvb	"Haskell from the Very Beginning" by John Whitington in 2019-09-30 at  ... 	lambdabot
 https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html	myth-of-ram	"The Myth of RAM" by Emil Ernerfeldt in 2014-04-(21,28,29),2015-02-09 at  ... <https://www.ilikebigbits.com/2014_04_28_myth_of_ram_2.html>,<https://www.ilikebigbits.com/2014_04_29_myth_of_ram_3.html>,<https://www.ilikebigbits.com/2015_02_09_myth_of_ram_4.html>	lambdabot
+https://www.linusakesson.net/programming/kernighans-lever/index.php	kernighans-lever	"Kernighan's lever" by Linus Åkesson in 2012-12-111 at  ... . See also quotes `Kernighan'sLaw',`Kernighan&Plauger'	lambdabot
 https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-a-practical-approach-to-generic-programming/	syb-papers	<https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-with-class/>,<http://www.sigplan.org/Awards/ICFP/#2014_Ralf_L%C3%A4mmel_and_Simon_Peyton_Jones>	lambdabot
 https://www.mit.edu/~jcb/tact.html	tact-filters	"Tact Filters" by Jeff Bigler in 1996,2006 at  ... . Also see `fanspeak'	lambdabot
 https://www.reddit.com/r/haskell/comments/dwkehu/thoughts_on_hie/f7nj2e1/	ghcide-emacs		lambdabot
