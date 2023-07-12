@@ -409,6 +409,7 @@ http://sequence.complete.org	sequence		lambdabot
 http://shootout.alioth.debian.org/	shootout		lambdabot
 http://sigfpe.blogspot.com/	sigfpe		lambdabot
 http://sigfpe.blogspot.com/2006/01/eleven-reasons-to-use-haskell-as.html	haskell-for-mathematicians		lambdabot
+http://sl4.org/crocker.html	crockers-rules	"Crocker's Rules"  ... . See also `tact-filters',(quote) `Postel'sLaw'	lambdabot
 http://snapframework.com/	snap	#snapframework	lambdabot
 http://sneezy.cs.nott.ac.uk/containers/	containers		lambdabot
 http://sneezy.cs.nott.ac.uk/darcs/epigram/	epigram2		lambdabot
@@ -631,6 +632,7 @@ http://www.eecs.tufts.edu/~rdocki01/lambda/	lambdashell	darcs get  ... 	lambdabo
 http://www.eecs.tufts.edu/~rdocki01/shellac/	shellac		lambdabot
 http://www.equational.org/darcs-server	darcs-server		lambdabot
 http://www.esat.kuleuven.ac.be/~cpoucet/	vincenz		lambdabot
+http://www.fantasymaps.com/stuff/fanspeak.html	fanspeak	"Fanspeak" by Cally Soukupa in 1999 at  ... 	lambdabot
 http://www.fh-wedel.de/~si/HXmlToolbox/	hxt		lambdabot
 http://www.flippac.org/projects/flippi/	flippi		lambdabot
 http://www.google-melange.com/gsoc/org/google/gsoc2013/haskell	gsoc	#haskell-gsoc |  ... 	lambdabot
@@ -1004,6 +1006,7 @@ https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2	e
 https://www.haskellfromtheverybeginning.com/	hftvb	"Haskell from the Very Beginning" by John Whitington in 2019-09-30 at  ... 	lambdabot
 https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html	myth-of-ram	"The Myth of RAM" by Emil Ernerfeldt in 2014-04-(21,28,29),2015-02-09 at  ... <https://www.ilikebigbits.com/2014_04_28_myth_of_ram_2.html>,<https://www.ilikebigbits.com/2014_04_29_myth_of_ram_3.html>,<https://www.ilikebigbits.com/2015_02_09_myth_of_ram_4.html>	lambdabot
 https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-a-practical-approach-to-generic-programming/	syb-papers	<https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-with-class/>,<http://www.sigplan.org/Awards/ICFP/#2014_Ralf_L%C3%A4mmel_and_Simon_Peyton_Jones>	lambdabot
+https://www.mit.edu/~jcb/tact.html	tact-filters	"Tact Filters" by Jeff Bigler in 1996,2006 at  ... . Also see `fanspeak'	lambdabot
 https://www.reddit.com/r/haskell/comments/dwkehu/thoughts_on_hie/f7nj2e1/	ghcide-emacs		lambdabot
 https://www.reddit.com/r/haskell/comments/egc8d0/a_few_haskell_highlights_of_2019/fcjr4tv/	cabal-and-stack		lambdabot
 https://www.reddit.com/r/haskell/comments/use5bt/what_are_the_rationales_of_the_functor	symbols-explain	What are the rationales of the functor, applicative, monad operator symbols ?	lambdabot
