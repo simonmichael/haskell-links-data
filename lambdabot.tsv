@@ -871,6 +871,7 @@ https://github.com/chrisdone/hindent/	hindent		lambdabot
 https://github.com/chrisdone/structured-haskell-mode	shm		lambdabot
 https://github.com/data61/fp-course	data61	Data61 Functional Programming Course  ... <https://qfpl.io/links/2017-october-fp-course/> by Tony Morris,Mark Hibberd. Also see the channel #qfpl	lambdabot
 https://github.com/dnikolovv/practical-haskell	practical-haskell-bits		lambdabot
+https://github.com/dwmkerr/hacker-laws	hacker-laws	(quotes) `Kernighan'sLaw',`Kernighan&Plauger',`Postel'sLaw',`Wadler'sLaw'. cf.  ... 	lambdabot
 https://github.com/ekmett/lens/wiki/FAQ	lens-faq		lambdabot
 https://github.com/gtache/intellij-lsp/issues/125	ghcide-intellij		lambdabot
 https://github.com/haskell-learning-group/haskell-learning-group	mentor		lambdabot
