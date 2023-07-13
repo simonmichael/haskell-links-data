@@ -961,6 +961,7 @@ https://view.matrix.org/alias/%23haskell:matrix.org	matrix-logs-haskell	log of t
 https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/	zen-tales	"Tales of Zen Master Greg" (in 2001 ??) at  ... 	lambdabot
 https://web.archive.org/web/20201108001845/https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf	mtss	"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at  ... 	lambdabot
 https://web.archive.org/web/20210917054102/https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf	pfds	"Purely Functional Data Structures" by Chris Okasaki : Ph. D. thesis in 1996-09 at  ... ; book in ((1st ed.) 1998-04-13 -) 1999-06-13 at <https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504>	lambdabot
+https://web.archive.org/web/20221208185730/https://www-users.mat.umk.pl/~fly/materialy/fp/haskell-doc/Monads.html	hell-monads	"What the hell are Monads?" by Noel Winstanley in 1999-02 at  ... <https://web.archive.org/web/19991018214519/http://www.dcs.gla.ac.uk/~nww/Monad.html>. Possibly the first (non-paper) general monad tutorial	lambdabot
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
 https://wiki.haskell.org/Base_package	ghc-base		lambdabot
 https://wiki.haskell.org/FAQ	faq	The general Haskell FAQ. See https://haskell-links.org/?q=faq for others	lambdabot
@@ -976,7 +977,6 @@ https://wiki.haskell.org/Monomorphism_restriction	monomorphismrestriction		lambd
 https://wiki.haskell.org/ScopedTypeVariables	scopedtypevariables	(remember to add "forall")	lambdabot
 https://wiki.haskell.org/Template_Haskell	templatehaskell		lambdabot
 https://wiki.haskell.org/Time	time		lambdabot
-https://www-users.mat.umk.pl/~fly/materialy/fp/haskell-doc/Monads.html	hell-monads	"What the hell are Monads?" by Noel Winstanley in 1999-02 at  ... . Possibly the first (non-paper) general monad tutorial	lambdabot
 https://www.cis.upenn.edu/~bcpierce/attapl/	attapl	"Advanced Topics in Types and Programming Languages" edited by Benjamin C. Pierce in 2004-12-23 at  ... 	lambdabot
 https://www.cis.upenn.edu/~bcpierce/tapl/	tapl	"Types and Programming Languages" by Benjamin C. Pierce in 2002-02-01 at  ... 	lambdabot
 https://www.cs.indiana.edu/eopl/	eopl	Essentials of Programming Languages by Friedman, Wand and Haynes in 2001  ... 	lambdabot
