@@ -891,6 +891,7 @@ https://github.com/xmonad/xmonad/issues/174#issuecomment-1118020397	kde		lambdab
 https://gitlab.haskell.org/ghc/ghc/-/wikis/building/hadrian	hadrian		lambdabot
 https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history	boot-libs-versions		lambdabot
 https://hackage.haskell.org/package/cabal-plan	cabal-plan		lambdabot
+https://hackage.haskell.org/package/doctest	doctest		lambdabot
 https://hackage.haskell.org/package/lambdabot	lambdabot	https://github.com/lambdabot/lambdabot	lambdabot
 https://hackage.haskell.org/package/lens-4.15.4/docs/Control-Lens-Plated.html	plated		lambdabot
 https://hackage.haskell.org/package/recursion-schemes	recursion-schemes	. Also see "Functional Programming with Bananas, Lenses, and Barbed Wire" by Erik Meijer,Maarten Fokkinga,Ross Paterson in 1991 at <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125>,`AoP'	lambdabot
