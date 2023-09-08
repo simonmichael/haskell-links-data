@@ -782,7 +782,7 @@ http://www.prometheus-music.com/audio/eternalflame.mp3	eternalflame	"The Eternal
 http://www.pugscode.org/	pugs		lambdabot
 http://www.randomhacks.net/articles/2007/03/10/haskell-8-ways-to-report-errors	error		lambdabot
 http://www.realworldhaskell.org/	realworldhaskell		lambdabot
-http://www.realworldhaskell.org/blog/	rwh	http://book.realworldhaskell.org/read/	lambdabot
+http://www.realworldhaskell.org/blog/	rwh	http://book.realworldhaskell.org/read/ https://github.com/tssm/up-to-date-real-world-haskell	lambdabot
 http://www.reddit.com/r/programming/comments/7cf4r/monoids_in_my_programming_language/c06adnx	monoids	comment on "Monoids? In my programming language?" by Cale in 2008 (or 2009 ?) at  ... about a use of `instance Monoid a => Monoid (rho -> a)'	lambdabot
 http://www.reddit.com/tb/agkls	hinam		lambdabot
 http://www.seas.upenn.edu/~cis194/lectures.html	yorgey		lambdabot
