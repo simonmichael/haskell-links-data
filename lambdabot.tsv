@@ -890,6 +890,7 @@ https://github.com/treblacy/cabalgc	cabalgc		lambdabot
 https://github.com/xmonad/xmonad/issues/174#issuecomment-1118020397	kde		lambdabot
 https://gitlab.haskell.org/ghc/ghc/-/wikis/building/hadrian	hadrian		lambdabot
 https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history	boot-libs-versions		lambdabot
+https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history	versions		lambdabot
 https://hackage.haskell.org/package/cabal-plan	cabal-plan		lambdabot
 https://hackage.haskell.org/package/doctest	doctest		lambdabot
 https://hackage.haskell.org/package/lambdabot	lambdabot	https://github.com/lambdabot/lambdabot	lambdabot
