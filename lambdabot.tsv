@@ -642,7 +642,6 @@ http://www.grammaticalframework.org/	gf	Grammatical Framework, dependently typed
 http://www.haskell.org/alex/	alex		lambdabot
 http://www.haskell.org/all_about_monads/html/introduction.html	mtm		lambdabot
 http://www.haskell.org/arrows/	arrows		lambdabot
-http://www.haskell.org/cabal	cabal	Flexible haskell build tool for all platforms:  ... 	lambdabot
 http://www.haskell.org/crypto	crypto		lambdabot
 http://www.haskell.org/ghc/	ghc-api		lambdabot
 http://www.haskell.org/ghc/dist/current/docs/users_guide/sec-using-smp.html	smp		lambdabot
@@ -833,6 +832,7 @@ https://blog.plover.com/prog/haskell/numbers.html	numbers	A map of Haskell's num
 https://blogs.msdn.microsoft.com/ralflammel/2008/09/19/strategometatheory/	stratego	<https://userpages.uni-koblenz.de/~laemmel/isabelle2/>	lambdabot
 https://bpa.st/	paste2		lambdabot
 https://bugs.archlinux.org/task/54561	arch-ld-bug		lambdabot
+https://cabal.readthedocs.io	cabal	flexible haskell build tool	lambdabot
 https://cabal.readthedocs.io	cabal-guide	Cabal User Guide	lambdabot
 https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run	cabal-script	single-file Haskell scripts with cabal	lambdabot
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3014	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at "icfp-2002.pdf"  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
