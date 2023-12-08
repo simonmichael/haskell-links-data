@@ -905,6 +905,7 @@ https://haskell-links.org	links	collected Haskell links and search tools, includ
 https://haskell-via-sokoban.nomeata.de	sokoban	- learn Haskell by building a Sokoban game	lambdabot
 https://haskell.foundation/hs-opt-handbook.github.io/contents.html	hs-opt-handbook	Haskell Optimization Handbook	lambdabot
 https://haskell.fpcomplete.com/school	soh	School of Haskell  ... 	lambdabot
+https://haskellstack.org	stack	all-in-one haskell installer/reproducible build tool, an alternative to cabal-install	lambdabot
 https://homepages.inf.ed.ac.uk/wadler/topics/agda.html#plfa	plfa	"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Jeremy G. Siek,Philip Wadler in 2018-(01-06) at  ... <https://plfa.inf.ed.ac.uk/>,<https://plfa.github.io/>,<https://github.com/plfa/plfa.github.io/>	lambdabot
 https://homepages.inf.ed.ac.uk/wadler/topics/monads.html	wadler-monads	Monad(ic (, idiomatic/applicative and arrow) effects) introduction papers by Philip Wadler in 1992-01 - 2010 at  ... . Start from oldest. Perhaps skip the ones touching upon composable continuations, idioms, constraints, arrows, on a first read	lambdabot
 https://hoogle.haskell.org	hoogle		lambdabot
@@ -997,7 +998,6 @@ https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html	oplss2
 https://www.cs.uoregon.edu/research/summerschool/summerYEAR/curriculum.html)	oplss	you can find original OPLSS videos here ( ... by replacing YEAR with a two-digit year (starting with 05). you can also find many videos on youtube. years 2010 to 2014 are also stored in @where (eg @where oplss2012).	lambdabot
 https://www.destroyallsoftware.com/talks/wat	wat		lambdabot
 https://www.extrema.is/articles/haskell-books	books	is the best list of Haskell books. See also: LYAH, HTAC, RWH, PH, YAHT, SOE, HR, PIH, TFwH, wikibook, PCPH, HPFFP, FSAF, HftVB, TwT, FoP, PFAD, WYAH, non-haskell-books	lambdabot
-https://www.fpcomplete.com/haskell/get-started	stack	All-in-one haskell installer/reproducible build tool for all platforms:  ... 	lambdabot
 https://www.fpcomplete.com/haskell/tutorial/operators	operators		lambdabot
 https://www.haskell.org/documentation	doc	Doc starting points:  ... https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell	lambdabot
 https://www.haskell.org/documentation/	docs		lambdabot
