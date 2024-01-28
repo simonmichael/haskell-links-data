@@ -307,7 +307,7 @@ http://lens.github.io/	lens	#haskell-lens |  ... | https://github.com/ekmett/len
 http://lhc.seize.it/	lhc		lambdabot
 http://library.readscheme.org/servlets/cite.ss?pattern=Ste-77	tail-recursion		lambdabot
 http://lists.schmorp.de/pipermail/rxvt-unicode/2008q1/000552.html	urxvt-transparency		lambdabot
-http://logitext.mit.edu/logitext.fcgi/tutorial	logitext	"Interactive Tutorial of the Sequent Calculus" by ezyang at  ... <http://logitext.mit.edu/logitext.fcgi/main>,<http://blog.ezyang.com/2012/05/an-interactive-tutorial-of-the-sequent-calculus/>	lambdabot
+http://logitext.mit.edu/logitext.fcgi/tutorial	logitext	"Interactive Tutorial of the Sequent Calculus" by ezyang at  ... <http://logitext.mit.edu/logitext.fcgi/main>,<http://blog.ezyang.com/2012/05/an-interactive-tutorial-of-the-sequent-calculus/>. Also cf. `semantic-tableaux'	lambdabot
 http://lpaste.net/	lpaste		lambdabot
 http://lpaste.net/8063137500022964224	longcat		lambdabot
 http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf	on-understanding	"On Understanding Types, Data Abstraction, and Polymorphism" by Luca Cardelli,Peter Wegner in 1985-12 at  ... 	lambdabot
@@ -1022,6 +1022,7 @@ https://www.reddit.com/r/haskell/new/	reddit		lambdabot
 https://www.safaribooksonline.com/library/view/parallel-and-concurrent/9781449335939/	parconc		lambdabot
 https://www.stephendiehl.com/posts/docs.html	wiwik-status		lambdabot
 https://www.tweag.io/blog/2022-05-12-strict-vs-lazy	strict-vs-lazy	Comparing Strict and Lazy	lambdabot
+https://www.umsu.de/trees/	semantic-tableaux	"Tree Proof Generator" by Wolfgang Schwartz in 2001 - 2023-07-15 at  ... <https://github.com/wo/tpg>,<https://www.umsu.de/blog/2021/722>	lambdabot
 https://www.vex.net/~trebla/haskell/IO.xhtml	iotut		lambdabot
 https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/	ski-links	<http://www.medellin.unal.edu.co/~curmat/matdiscretas/doc/Epp.pdf>	lambdabot
 https://www.yesodweb.com/book	yesod-book		lambdabot
