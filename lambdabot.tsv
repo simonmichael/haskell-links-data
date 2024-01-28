@@ -312,7 +312,6 @@ http://lpaste.net/	lpaste		lambdabot
 http://lpaste.net/8063137500022964224	longcat		lambdabot
 http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf	on-understanding	"On Understanding Types, Data Abstraction, and Polymorphism" by Luca Cardelli,Peter Wegner in 1985-12 at  ... 	lambdabot
 http://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/	antipattern		lambdabot
-http://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/	existential-antipattern	"Haskell Antipattern: Existential Typeclass" by Luke Palmer at  ... 	lambdabot
 http://mainisusuallyafunction.blogspot.de/2010/10/typing-mathematical-characters-in-x.html	compose		lambdabot
 http://malde.org/~ketil/	rbr		lambdabot
 http://mapcar.org/haskell/shim/	shim	http://mawercer.de/~publicrepos/shim/	lambdabot
@@ -967,6 +966,7 @@ https://view.matrix.org/alias/%23haskell:matrix.org	matrix-logs-haskell	log of t
 https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/	zen-tales	"Tales of Zen Master Greg" (in 2001 ??) at  ... 	lambdabot
 https://web.archive.org/web/20201108001845/https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf	mtss	"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at  ... 	lambdabot
 https://web.archive.org/web/20210917054102/https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf	pfds	"Purely Functional Data Structures" by Chris Okasaki : Ph. D. thesis in 1996-09 at  ... ; book in ((1st ed.) 1998-04-13 -) 1999-06-13 at <https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504>	lambdabot
+https://web.archive.org/web/20220121105027/https://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/	existential-antipattern	"Haskell Antipattern: Existential Typeclass" by Luke Palmer at  ... 	lambdabot
 https://web.archive.org/web/20221208185730/https://www-users.mat.umk.pl/~fly/materialy/fp/haskell-doc/Monads.html	hell-monads	"What the hell are Monads?" by Noel Winstanley in 1999-02 at  ... <https://web.archive.org/web/19991018214519/http://www.dcs.gla.ac.uk/~nww/Monad.html>. Possibly the first (non-paper) general monad tutorial	lambdabot
 https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
 https://wiki.haskell.org/Base_package	ghc-base		lambdabot
