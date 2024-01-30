@@ -725,7 +725,7 @@ http://www.haskell.org/onlinereport/standard-prelude.html	prelude		lambdabot
 http://www.haskell.org/onlinereport/standard-prelude.html	standard-prelude		lambdabot
 http://www.haskell.org/pipermail/cvs-ghc/	cvs-ghc		lambdabot
 http://www.haskell.org/pipermail/glasgow-haskell-users/	glasgow-haskell-users		lambdabot
-http://www.haskell.org/pipermail/haskell/2004-June/014134.html	topology	"topology in Haskell"  ... and "Synthetic topology of data types and classical spaces" <http://www.cs.bham.ac.uk/~mhe/papers/entcs87.(pdf|dvi|ps)> by Martn Escard	lambdabot
+http://www.haskell.org/pipermail/haskell/2004-June/014134.html	topology	"topology in Haskell"  ... and "Synthetic topology of data types and classical spaces" <http://www.cs.bham.ac.uk/~mhe/papers/entcs87.(pdf|dvi|ps)> by Martín Escardó	lambdabot
 http://www.haskell.org/pipermail/haskell/2006-August/018355.html	type-level-lambda-calculus		lambdabot
 http://www.haskell.org/pipermail/haskell/2009-November/021750.html	h10.announcement		lambdabot
 http://www.haskell.org/pipermail/haskell/2011-January/022497.html	nodatatypecontexts		lambdabot
