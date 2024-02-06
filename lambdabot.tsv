@@ -135,7 +135,6 @@ http://elmprogramming.com/	elm	"Beginning Elm: a gentle introduction to Elm prog
 http://eloquentscience.com/wp-content/uploads/2010/02/bobsqu.gif	thwap	"Bob the Angry Flower's Quick Guide to" : "the apostrophe" in 2010-02 at  ... "its and it's" in 2010-03 at <http://eloquentscience.com/wp-content/uploads/2010/03/angry-flower-guide-to-its.gif> )	lambdabot
 http://emorehouse.web.wesleyan.edu/silliness/burrito_monads.pdf	burritos		lambdabot
 http://en.wikibooks.org/wiki/Haskell	wikibook		lambdabot
-http://en.wikibooks.org/wiki/Haskell/Strictness	strictness		lambdabot
 http://en.wikibooks.org/wiki/Haskell/YAHT	yaht-web		lambdabot
 http://en.wikipedia.org/wiki/Brainfuck	bf		lambdabot
 http://en.wikipedia.org/wiki/File:Fold-diagrams.svg	folds	<https://cale.l5.ca/share/Folds.svg>	lambdabot
@@ -999,6 +998,7 @@ https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html	oplss2
 https://www.cs.uoregon.edu/research/summerschool/summerYEAR/curriculum.html)	oplss	you can find original OPLSS videos here ( ... by replacing YEAR with a two-digit year (starting with 05). you can also find many videos on youtube. years 2010 to 2014 are also stored in @where (eg @where oplss2012).	lambdabot
 https://www.destroyallsoftware.com/talks/wat	wat		lambdabot
 https://www.extrema.is/articles/haskell-books	books	is the best list of Haskell books. See also: LYAH, HTAC, RWH, PH, YAHT, SOE, HR, PIH, TFwH, wikibook, PCPH, HPFFP, FSAF, HftVB, TwT, FoP, PFAD, WYAH, non-haskell-books	lambdabot
+https://www.fpcomplete.com/haskell/tutorial/all-about-strictness	strictness		lambdabot
 https://www.fpcomplete.com/haskell/tutorial/operators	operators		lambdabot
 https://www.haskell.org/documentation	doc	Doc starting points:  ... https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell	lambdabot
 https://www.haskell.org/documentation/	docs		lambdabot
