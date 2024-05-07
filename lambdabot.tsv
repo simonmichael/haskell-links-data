@@ -901,7 +901,7 @@ https://haskell-haddock.readthedocs.io	haddock-guide		lambdabot
 https://haskell-links.org	- searchable Haskell links, collected with @where
 https://haskell-links.org	links	collected Haskell links and search tools, including @where links	lambdabot
 https://haskell-via-sokoban.nomeata.de	sokoban	- learn Haskell by building a Sokoban game	lambdabot
-https://haskell.foundation	haskell-foundation		lambdabot
+https://haskell.foundation	foundation		lambdabot
 https://haskell.foundation/hs-opt-handbook.github.io/contents.html	hs-opt-handbook	Haskell Optimization Handbook	lambdabot
 https://haskell.fpcomplete.com/school	soh	School of Haskell  ... 	lambdabot
 https://haskell.godbolt.org	godbolt	paste code snippets/files, see them compiled by different ghc versions	lambdabot
