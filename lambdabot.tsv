@@ -908,6 +908,7 @@ https://haskell.godbolt.org	godbolt	paste code snippets/files, see them compiled
 https://haskell.org/haskellwiki/Haskell/Pointfree	pointfree	<https://pointfree.io/>	lambdabot
 https://haskell.org/haskellwiki/Haskell/Pointfree	pointless	<https://pointfree.io/>	lambdabot
 https://haskellstack.org	stack	all-in-one haskell installer/reproducible build tool, an alternative to cabal-install	lambdabot
+https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html	ultimate-string-guide		lambdabot
 https://homepages.inf.ed.ac.uk/wadler/topics/agda.html#plfa	plfa	"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Jeremy G. Siek,Philip Wadler in 2018-(01-06) at  ... <https://plfa.inf.ed.ac.uk/>,<https://plfa.github.io/>,<https://github.com/plfa/plfa.github.io/>	lambdabot
 https://homepages.inf.ed.ac.uk/wadler/topics/monads.html	wadler-monads	Monad(ic (, idiomatic/applicative and arrow) effects) introduction papers by Philip Wadler in 1992-01 - 2010 at  ... . Start from oldest. Perhaps skip the ones touching upon composable continuations, idioms, constraints, arrows, on a first read	lambdabot
 https://hoogle.haskell.org	hoogle		lambdabot
