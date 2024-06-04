@@ -1,1 +1,19 @@
 URL	ID	DESCRIPTION	SOURCE
+http://agda.xelpaste.org/	agdapaste		lambdabot
+http://arcanux.org/lambdacats.html	\cats		lambdabot
+http://katmat.math.uni-bremen.de/acc/	acc	"Abstract and Concrete Categories (The Joy of Cats)", J. Adámek, H. Herrlich, G. E. Strecker:  ... 	lambdabot
+http://patch-tag.com/r/stepcut/agdabot	agdabot		lambdabot
+http://petdance.com/ack/	ack		lambdabot
+http://research.microsoft.com/~simonpj/papers/history-of-haskell/index.htm	ahoh		lambdabot
+http://wiki.portal.chalmers.se/agda/	agda	Agda2, proof assistant / dependently typed FPL, at  ... -- Agda1, earlier incarnation, at (broken) <http://www.cse.chalmers.se/~catarina/agda/>,<http://web.archive.org/web/*/http://www.cs.chalmers.se/~catarina/agda/>. Also see `Alfa',`Cayenne'	lambdabot
+http://www.catb.org/~esr/jargon/html/koans.html	ai-koans	"Some AI Koans" by Danny Hillis at  ... (in The Jargon File). Also <https://www.netfunny.com/rhf/jokes/89q1/koans.285.html>	lambdabot
+http://www.cs.uu.nl/wiki/HUT/AttributeGrammarSystem	ag		lambdabot
+http://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf	agdatut		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/runtime-control.html#rts-options-debugging	-xc		lambdabot
+http://www.haskell.org/haskellwiki/All_About_Monads	aam		lambdabot
+http://www.haskell.org/haskellwiki/Bottom	_|_		lambdabot
+http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems	99		lambdabot
+http://www.haskell.org/haskellwiki/Learn_Haskell_in_10_minutes	10minutes		lambdabot
+http://www.haskell.org/haskellwiki/The_Monad.Reader/Issue4/Why_Attribute_Grammars_Matter	agmatters		lambdabot
+https://drive.google.com/file/d/1OfcnkoTCxWUaTGc570oV-D8fWx30Lvtx/view	adaptive	"Adaptive Functional Programming" by Umut Acar,Blelloch,Harper in 2002 (POPL) at  ... and in 2006 (TOPLAS) at <https://drive.google.com/file/d/1bAYubdbZ9VjO_y5-DoYXKSiuyid0sX4Z/view>; <https://www.umut-acar.org/publications>	lambdabot
+https://phabricator.haskell.org/w/projects/haskell.org_infrastructure/server_admin_log/	adminlog		lambdabot
