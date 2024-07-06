@@ -374,7 +374,6 @@ http://quux.org/devel/hdbc	hdbc		lambdabot
 http://quux.org/devel/missingh	missingh		lambdabot
 http://racket-lang.org/	racket		lambdabot
 http://rafb.net/paste	paste-rafb		lambdabot
-http://rafb.net/paste	pastebin		lambdabot
 http://rafb.net/paste	rafb		lambdabot
 http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html	reading-list		lambdabot
 http://repa.ouroborus.net/	repa	REgular PArallel arrays  ... 	lambdabot
@@ -943,6 +942,7 @@ https://news.ycombinator.com/item?id=31664490	haskell-apps-2022	list of apps wri
 https://nicolaspouillard.fr/publis/nameless-painless.pdf	nameless	Nameless, Painless:  ... 	lambdabot
 https://oeis.org/	oeis		lambdabot
 https://paste.tomsmeding.com	paste	Help us help you: please paste full code, input and/or output at e.g.  ... 	lambdabot
+https://paste.tomsmeding.com	pastebin	Help us help you: please paste full code, input and/or output at e.g.  ... 	lambdabot
 https://paste.tomsmeding.com	pastecabalstack	Help us help you: at  ... https://gist.github.com or https://termbin.com, please paste your failing command, full output, and .cabal, package.yaml and/or stack.yaml files	lambdabot
 https://paste.tomsmeding.com/	paste3	tomsmeding's proof that programming > discussing:  ... 	lambdabot
 https://patrickmn.com/software/the-haskell-pyramid/	haskell-pyramid		lambdabot
