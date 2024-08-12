@@ -834,9 +834,9 @@ https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run	cabal-scrip
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3014	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at "icfp-2002.pdf"  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
 https://code.world	codeworld	and https://code.world/haskell - web-based haskell-like and haskell coding and learning environment	lambdabot
 https://cs.au.dk/~mis/typeinf.p(s|df)	polymorphic-type-inference	"Polymorphic Type Inference" by Michael I. Schwartzbach in 1995-03 at  ... <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.1493>	lambdabot
-https://docs.haskellstack.org/en/stable/GUIDE	stack-guide	Stack User Guide	lambdabot
+https://docs.haskellstack.org	stack-guide		lambdabot
 https://docs.haskellstack.org/en/stable/faq	stack-faq		lambdabot
-https://docs.haskellstack.org/en/stable/scripts	stack-script	single-file Haskell shebang scripts with stack	lambdabot
+https://docs.haskellstack.org/en/stable/topics/scripts	stack-script		lambdabot
 https://docs.haskellstack.org/en/stable/yaml_configuration/#system-ghc	stack-system-ghc	to use only system/ghcup GHC, configure system-ghc:true, install-ghc:false	lambdabot
 https://docs.haskellstack.org/en/stable/yaml_configuration/#system-ghc	to use only system/ghcup GHC, configure system-ghc:true, install-ghc:false in ~/.stack/config.yaml
 https://downloads.haskell.org/~ghc/7.4.1/docs/html/libraries/ghc-prim-0.2.0.0/src/GHC-Tuple.html	manuel		lambdabot
