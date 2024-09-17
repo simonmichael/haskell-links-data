@@ -1,1 +1,1040 @@
 URL	ID	DESCRIPTION	SOURCE
+http://ab-initio.mit.edu/meep/	meep		lambdabot
+http://adam.chlipala.net/cpdt/	cpdt	"Certified Programming with Dependent Types" by Adam Chlipala (aka Smerdyakov) (in progress) at  ... "about practical engineering with the Coq proof assistant"	lambdabot
+http://adrinael.net/wrong.jpg	wrong		lambdabot
+http://agda.xelpaste.org/	agdapaste		lambdabot
+http://ai-contest.com/profile.php?user_id=3888	jmcarthur		lambdabot
+http://aima.cs.berkeley.edu/	aima	"Artificial Intelligence: A Modern Approach" by Stuart Russell,Peter Norvig in 1995,2003,2009-12-11 at  ... <https://people.eecs.berkeley.edu/~russell/aima1e.html> (1st ed.)	lambdabot
+http://alistair.cockburn.us/Characterizing+people+as+non-linear	characterizing	+first-order+components+in+software+development	lambdabot
+http://andrew.bromage.org/darcs/freetheorems	free		lambdabot
+http://antti-juhani.kaijanaho.fi/newblog	ibid		lambdabot
+http://antti-juhani.kaijanaho.fi/planet-haskell/	planet-haskell		lambdabot
+http://antti-juhani.kaijanaho.fi/planet-haskell/	planethaskell		lambdabot
+http://aosabook.org/	aosa	The Architecture of Open Source Applications  ... 	lambdabot
+http://aprove.informatik.rwth-aachen.de/	aprove		lambdabot
+http://arcanux.org/lambdacats.html	\cats		lambdabot
+http://arxiv.org/abs/cs/0509027	oohaskell		lambdabot
+http://awesome.naquadah.org/	awesome		lambdabot
+http://bitemyapp.com/posts/2014-12-31-functional-education.html	whycourse		lambdabot
+http://blog.bjrn.se/2008/09/speeding-up-haskell-with-c-very-short.html	c-dct		lambdabot
+http://blog.bjrn.se/2008/09/speeding-up-haskell-with-c-very-short.html	ffi-dct		lambdabot
+http://blog.codeslower.com/static/CheatSheet.pdf	cheatsheet		lambdabot
+http://blog.ezyang.com/2012/08/applicative-functors/	monoidal-applicatives		lambdabot
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	invented		lambdabot
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	invented-monads	"You Could Have Invented Monads! (And Maybe You Already Have.)" by dpiponi in 2006-08-07 at  ... 	lambdabot
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	sigfpe_monads		lambdabot
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	ychim		lambdabot
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html	you_could_have_invented_monads		lambdabot
+http://bm380.user.srcf.net/prettyparsetree.cgi	lispifier	Haskell Lispifier  ... -- Fully brackets an expression	lambdabot
+http://bnfc.digitalgrammars.com/	bnfc	BNF Converter,  ... 	lambdabot
+http://book.realworldhaskell.org/	brutal		lambdabot
+http://book.realworldhaskell.org/read/	real	<-- the comprehensive xmonad configuration syntax reference	lambdabot
+http://book.realworldhaskell.org/read/interfacing-with-c-the-ffi.html	rwh-ffi		lambdabot
+http://book.realworldhaskell.org/read/monads.html#monads.do	do-notation		lambdabot
+http://brage.info/~svein/no.jpg	no		lambdabot
+http://braincrater.wordpress.com	pyxm		lambdabot
+http://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/	burrito		lambdabot
+http://byorgey.wordpress.com/2010/04/03/haskell-anti-pattern-incremental-ad-hoc-parameter-abstraction/	incremental-parameter-antipattern	"Haskell anti-pattern: incremental ad-hoc parameter abstraction" by Brent Yorgey at  ... 	lambdabot
+http://c2.com/xp/YouArentGonnaNeedIt.html	yagni		lambdabot
+http://cale.yi.org/index.php/Fold_Diagrams	fold-diagrams		lambdabot
+http://cale.yi.org/index.php/Fold_Diagrams	fold.diagrams		lambdabot
+http://cale.yi.org/index.php/Fold_Diagrams	fold_diagrams		lambdabot
+http://cale.yi.org/index.php/Main_Page	calewiki		lambdabot
+http://canonical.org/~kragen/tao-of-programming.html	programming-tao	"The Tao Of Programming" by Geoffrey James,Duke Hillard,Anupam Trivedi,Sajitha Tampi,Meghshyam Jagannath (ed. by Kragen Javier Sitaker) in 1996-04-10 (or earlier) at  ... 	lambdabot
+http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.3729	stg		lambdabot
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.233.3357	compos	"A pattern for almost compositional functions" by Björn Bringert,Aarne Ranta in 2008 at  ... 	lambdabot
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4656	expressive-power	"On the Expressive Power of Programming Languages" by Matthias Felleisen in 1990 at  ... 	lambdabot
+http://clemens.endorphin.org/liskell	liskell	a SExp syntax for Haskell, by therp :  ... (broken),<https://web.archive.org/web/20081105133119/http://clemens.endorphin.org/liskell>,<http://clemens.endorphin.org/ILC07-Liskell-draft.pdf>,<https://web.archive.org/web/20120609122549/http://www.liskell.org/>	lambdabot
+http://cm.bell-labs.com/who/ken/trust.html	trusting-trust	the classic "Reflections on Trusting Trust" Turing Award lecture by Ken Thompson in 1984 at  ... <http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf>	lambdabot
+http://code.google.com/p/ai-contest/issues/list	issues		lambdabot
+http://code.google.com/p/ai-contest/wiki/HowToContribute.	commit	Please read and abide by this:  ... Never commit to trunk. Always use branches, as described.	lambdabot
+http://code.google.com/p/scalacheck/	scalacheck		lambdabot
+http://code.google.com/p/scalaz	scalaz		lambdabot
+http://code.google.com/p/simple-build-tool/	sbt		lambdabot
+http://code.google.com/p/slinky2	slinky	Slinky is a Scala web framework  ... 	lambdabot
+http://code.google.com/p/xmonad/issues/list	xmonad-bugs		lambdabot
+http://code.haskell.org/XMonadContrib	xmc	darcs get  ... 	lambdabot
+http://code.haskell.org/bzlib/	bzlib		lambdabot
+http://code.haskell.org/hackage-server/	hackage2		lambdabot
+http://code.haskell.org/xmonad	xm	darcs get  ... 	lambdabot
+http://code.haskell.org/zlib/	zlib		lambdabot
+http://code.haskell.org/~arossato/xmobar/	xmobar		lambdabot
+http://code.haskell.org/~dons/code/hs-plugins	hs-plugins		lambdabot
+http://code.haskell.org/~shepheb/xmonad-light/	xmonad-light		lambdabot
+http://code.haskell.org/~shepheb/xmonad-light/	xmonad-lite		lambdabot
+http://code.haskell.org/~shepheb/xmonad-light/	xmonadlight		lambdabot
+http://codepad.org	codepad		lambdabot
+http://codersbase.com/index.php/DarcsSim	darcssim		lambdabot
+http://community.haskell.org/~ndm/catch/	catch		lambdabot
+http://community.haskell.org/~ndm/hlint/	hlint		lambdabot
+http://community.haskell.org/~simonmar/papers/ext-exceptions.pdf	exception		lambdabot
+http://community.haskell.org/~simonmar/papers/ext-exceptions.pdf	exceptions		lambdabot
+http://community.haskell.org/~simonmar/pcph/	pcph	"Parallel and Concurrent Programming in Haskell" by Simon Marlow in 2013 at  ... <http://chimera.labs.oreilly.com/books/1230000000929/>,<https://web.archive.org/web/20180117194842/http://chimera.labs.oreilly.com/books/1230000000929>,<https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/>	lambdabot
+http://community.haskell.org/~simonmar/slides/cadarache2012/	concpar		lambdabot
+http://community.schemewiki.org/?composable-continuations-tutorial	composable-continuations		lambdabot
+http://community.schemewiki.org/?object-oriented-programming	object-oriented		lambdabot
+http://comonad.com/reader/	edwardk		lambdabot
+http://comonad.com/reader/2008/deriving-strength-from-laziness/	strength		lambdabot
+http://comonad.com/reader/2015/free-monoids-in-haskell/	free-monoids	"Free Monoids in Haskell" by Dan Doel in 2015-02-21 at  ... 	lambdabot
+http://conal.net	conal		lambdabot
+http://conal.net/Pan	pan		lambdabot
+http://conal.net/blog/posts/everything-is-a-function-in-haskell	everything-is-a-function		lambdabot
+http://conal.net/blog/posts/everything-is-a-function-in-haskell	everything-is-not-a-function		lambdabot
+http://conal.net/blog/posts/everything-is-a-function-in-haskell	function		lambdabot
+http://conal.net/blog/posts/semantic-editor-combinators/	sec		lambdabot
+http://conal.net/fran/	frp	<http://conal.net/papers/push-pull-frp/>,<https://stackoverflow.com/questions/5875929/specification-for-a-functional-reactive-programming-language#5878525>	lambdabot
+http://conal.net/papers/Eros	eros		lambdabot
+http://conal.net/papers/type-class-morphisms/	tcm		lambdabot
+http://conal.net/phooey/	phooey		lambdabot
+http://conferences.oreillynet.com/pub/w/58/presentations.html	taste		lambdabot
+http://contemplatecode.blogspot.com/	hwn	Haskell Weekly News  ... For older posts, see http://sequence.complete.org/	lambdabot
+http://coq.inria.fr/	coq		lambdabot
+http://cs.anu.edu.au/Student/comp1100/haskell/tourofsyntax.html	syntax		lambdabot
+http://cs.anu.edu.au/Student/comp1100/haskell/tourofsyntax.html	syntax-tour		lambdabot
+http://cvs.haskell.org/darcs/ghc	darcs-ghc	darcs get  ... 	lambdabot
+http://cvs.haskell.org/darcs/haskore/	haskore		lambdabot
+http://cvs.haskell.org/darcs/libraries	darcs-libs	darcs get  ... 	lambdabot
+http://darcs.augustsson.net/Darcs/CReal/CReal.hs	creal	and http://darcs.augustsson.net/Darcs/CReal/CRealI.hs	lambdabot
+http://darcs.augustsson.net/Darcs/Djinn	djinn	darcs get  ... 	lambdabot
+http://darcs.complete.org/missingpy/	missingpy		lambdabot
+http://darcs.haskell.org/X11	x11-dev	darcs get  ... 	lambdabot
+http://darcs.haskell.org/X11	x11-unstable	darcs get  ... 	lambdabot
+http://darcs.haskell.org/happy/	happy-darcs	darcs get  ... 	lambdabot
+http://darcs.haskell.org/packages/X11/	x11-darcs		lambdabot
+http://darcs.haskell.org/packages/base/Control/Applicative.hs	applicative		lambdabot
+http://darcs.haskell.org/packages/ndp/Data/Array/Parallel/	ndp	http://www.cse.unsw.edu.au/~chak/project/dph http://haskell.org/haskellwiki/GHC/Data_Parallel_Haskell	lambdabot
+http://darcs.haskell.org/packages/regex-dfa/	regex-dfa		lambdabot
+http://darcs.haskell.org/packages/regex-parsec/	regex-parsec		lambdabot
+http://darcs.haskell.org/packages/regex-pcre/	regex-pcre		lambdabot
+http://darcs.haskell.org/packages/regex-tre/	regex-tre		lambdabot
+http://darcs.haskell.org/~lemmih/cabal-test	cabal-test		lambdabot
+http://darcs.haskell.org/~lemmih/conjure	conjure-alt		lambdabot
+http://darcs.haskell.org/~lemmih/conjure/	conjure		lambdabot
+http://darcs.haskell.org/~lemmih/hsSDL	hssdl		lambdabot
+http://darcs.haskell.org/~lemmih/hxweb	hxweb		lambdabot
+http://darcs.haskell.org/~sjanssen/X11-extras	x11-extras		lambdabot
+http://darcs.haskell.org/~sjanssen/XMonadContrib/	xmonadcontrib		lambdabot
+http://darcs.haskell.org/~sjanssen/xmonad/	xmonad-darcs		lambdabot
+http://darcs.net/	darcs	#darcs |  ... 	lambdabot
+http://darcsden.com/	darcsden		lambdabot
+http://darcswatch.nomeata.de/	darcswatch		lambdabot
+http://davidmercer.nfshost.com/projects/shaskell/shaskell.html	shaskell		lambdabot
+http://dev.stephendiehl.com/fun/	wyah	"Write You a Haskell" (unfinished) by Stephen Diehl in 2015- at  ... 	lambdabot
+http://dev.stephendiehl.com/hask/#eightfold-path-to-monad-satori	eightfold		lambdabot
+http://dis.um.es/~alberto/GSLHaskell/	gslhaskell		lambdabot
+http://disciple.ouroborus.net/	ddc	The Disciplined Disciple Compiler at  ... 	lambdabot
+http://dkeenan.com/Lambda/	mockingbird	"To mock a mockingbird : and other logic puzzles including an amazing adventure in combinatory logic" by R. M. Smullyan, "To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus with Animated Reduction" at  ... by David C. Keenan. Also see `smullyan'	lambdabot
+http://dl.acm.org/citation.cfm?id=70931.70934	io	Raphael L. Levien's language with continuations as fundamental structure, described in his paper "Io: a new programming notation" (1989-09-10) at  ... and in chapter 2 of Raphael A. Finkel's book `APLD', implementations `Amalthea',`Ganymede' - (perhaps you were looking for `@wiki Introduction to IO' ?)	lambdabot
+http://donsbot.wordpress.com	dons		lambdabot
+http://donsbot.wordpress.com/2007/11/14/no-more-exceptions-debugging-haskell-code-with-ghci/	debugger		lambdabot
+http://downforeveryoneorjustme.com/	down		lambdabot
+http://dwm.suckless.org/	dwm		lambdabot
+http://dzen.geekmode.org/dwiki/doku.php	dzen-wiki		lambdabot
+http://elmprogramming.com/	elm	"Beginning Elm: a gentle introduction to Elm programming language"  ... 	lambdabot
+http://eloquentscience.com/wp-content/uploads/2010/02/bobsqu.gif	thwap	"Bob the Angry Flower's Quick Guide to" : "the apostrophe" in 2010-02 at  ... "its and it's" in 2010-03 at <http://eloquentscience.com/wp-content/uploads/2010/03/angry-flower-guide-to-its.gif> )	lambdabot
+http://emorehouse.web.wesleyan.edu/silliness/burrito_monads.pdf	burritos		lambdabot
+http://en.wikibooks.org/wiki/Haskell	wikibook		lambdabot
+http://en.wikibooks.org/wiki/Haskell/YAHT	yaht-web		lambdabot
+http://en.wikipedia.org/wiki/Brainfuck	bf		lambdabot
+http://en.wikipedia.org/wiki/File:Fold-diagrams.svg	folds	<https://cale.l5.ca/share/Folds.svg>	lambdabot
+http://en.wikipedia.org/wiki/Impredicative	impredicative		lambdabot
+http://en.wikipedia.org/wiki/Where_Is_Love%3F	love		lambdabot
+http://en.wikiquote.org/wiki/Rasmus_Lerdorf	lerdorf		lambdabot
+http://enfranchisedmind.com/blog/posts/problems-with-hash-tables/	hash-tables		lambdabot
+http://ertes.eu/tutorial/foldr.html	foldrtut		lambdabot
+http://es.wikipedia.org/wiki/Uruguay	uy		lambdabot
+http://examples.oreilly.com/9780596514983/rwh-examples2.zip	rwh-examples		lambdabot
+http://examples.oreilly.com/9780596514983/rwh-examples2.zip	rwh-source-code		lambdabot
+http://existentialtype.wordpress.com/2011/03/15/boolean-blindness/	boolean-blindness		lambdabot
+http://floating-point-gui.de/	floating-point	"What Every Programmer Should Know About Floating-Point Arithmetic" at  ... and "What Every Computer Scientist Should Know About Floating-Point Arithmetic" by David Goldberg in 1991 at <http://docs.sun.com/source/806-3568/ncg_goldberg.html> and <http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.102.244>	lambdabot
+http://foldr.org/~michaelw/hmpi/	hmpi		lambdabot
+http://functionaljava.org/	functionaljava		lambdabot
+http://funstoo.blogspot.com/2011/02/rarr-i-am-dinosaur-hat-delightful.html	raptors		lambdabot
+http://ghcformacosx.github.io/	ghcformac		lambdabot
+http://github.com	github		lambdabot
+http://github.com/DanielVF/Planet-Wars-Canvas-Visualizer	visualizer		lambdabot
+http://github.com/data61/lets-lens	lets-lens		lambdabot
+http://github.com/jaspervdj/BlazeHtml	blazehtml		lambdabot
+http://github.com/jaspervdj/planet-wars-haskell	haskell-starter		lambdabot
+http://github.com/nominolo/scion	scion		lambdabot
+http://github.com/ulope/planetwars-python-kit	python-starter-unofficial		lambdabot
+http://golf.shinh.org/	anagol		lambdabot
+http://gotmor.googlepages.com/dzen	dzen		lambdabot
+http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/	sicpvideos		lambdabot
+http://groups.google.com/group/bahaskell	bahaskell		lambdabot
+http://groups.google.com/group/comp.lang.functional/about?hl=e	comp.lang.functional		lambdabot
+http://h2.jaguarpaw.co.uk/posts/demystifying-dlist/	dlist		lambdabot
+http://hackage.factisresearch.com/	hackagemirror		lambdabot
+http://hackage.haskell.org/ModHackage/Hackage.hs?action=home	hackagedb		lambdabot
+http://hackage.haskell.org/cgi-bin/hackage-scripts/package/Takusen	takusen		lambdabot
+http://hackage.haskell.org/cgi-bin/hackage-scripts/package/X11	x11		lambdabot
+http://hackage.haskell.org/package/Ganymede	ganymede	Implementation by BMeph of the (continuation-based) `Io' language at  ... 	lambdabot
+http://hackage.haskell.org/package/HList	hlist		lambdabot
+http://hackage.haskell.org/package/cabal-nirvana	nirvana	Hack cabal-install to use only Father Snoyman's blessed versions  ... 	lambdabot
+http://hackage.haskell.org/package/helm	helm		lambdabot
+http://hackage.haskell.org/package/iteratee	iteratees	http://cdsmith.wordpress.com/2010/05/23/iteratees-step-by-step-part-1/	lambdabot
+http://hackage.haskell.org/package/pipes	pipes		lambdabot
+http://hackage.haskell.org/package/reflection	reflection		lambdabot
+http://hackage.haskell.org/package/uglymemo	uglymemo		lambdabot
+http://hackage.haskell.org/packages	hackage	also see `revdeps',`status'	lambdabot
+http://hackage.haskell.org/packages/archive/comonad/latest/doc/html/Control-Comonad.html	comonad	| http://comonad.com/	lambdabot
+http://hackage.haskell.org/packages/archive/split/latest/doc/html/Data-List-Split.html	data.list.split		lambdabot
+http://hackage.haskell.org/packages/archive/split/latest/doc/html/Data-List-Split.html	split		lambdabot
+http://hackage.haskell.org/platform/	hp		lambdabot
+http://hackage.haskell.org/platform/	platform		lambdabot
+http://hackage.haskell.org/trac/ghc/newticket?type=bug	trac		lambdabot
+http://hackage.haskell.org/trac/ghc/wiki/ReportABug	bugs		lambdabot
+http://hackage.haskell.org/trac/hackage/ticket/576	revdeps-old	"Show reverse dependencies" at  ... "Hackage with Reverse Dependencies" by Roel van Dijk at <http://bifunctor.homelinux.net/~roel/hackage/packages/hackage.html>,"Reverse Dependencies" at <http://bifunctor.homelinux.net/~roel/hackage/packages/archive/revdeps-list.html>,<http://packdeps.haskellers.com/reverse> -- `bifunctor.homelinux.net' is broken, use `81.26.216.99' instead	lambdabot
+http://hackage.haskell.org/trac/hackage/wiki/CabalInstall	cabal-install		lambdabot
+http://hackage.haskell.org/trac/haskell-prime	haskell'		lambdabot
+http://hackage.haskell.org/trac/haskell-prime	haskell-prime		lambdabot
+http://hackage.haskell.org/trac/haskell-prime/ticket/114	lambda-match		lambdabot
+http://hackage.haskell.org/trac/haskell-prime/wiki/AssociatedTypes	ats		lambdabot
+http://hackage.haskell.org/trac/haskell-prime/wiki/HaskellExtensions	haskell-exts		lambdabot
+http://hackage.haskell.org/trac/haskell-prime/wiki/HaskellExtensions	haskellexts		lambdabot
+http://hackage.haskell.org/trac/haskell-prime/wiki/TypeDirectedNameResolution	tdnr		lambdabot
+http://hackage.haskell.org/trac/summer-of-code/	soc		lambdabot
+http://hackage.haskell.org/~paolo/darcs/ByteStringParser	bytestringparser		lambdabot
+http://hackage.haskell.org/~paolo/darcs/ByteStringParser	fps-parsec		lambdabot
+http://halvm.org/wiki/	halvm		lambdabot
+http://happs.org	happs		lambdabot
+http://happstack.com/	web	#haskell-web | #happs -  ... | #snapframework - http://snapframework.com/ | #yesod - http://yesodweb.com/	lambdabot
+http://haskell-for-readers.nomeata.de	haskell-for-readers		lambdabot
+http://haskell.galois.com/~paolo/nymphaea	nymphaea		lambdabot
+http://haskell.org	haskell		lambdabot
+http://haskell.org/Blobs	blobs		lambdabot
+http://haskell.org/HOpenGL/	hopengl		lambdabot
+http://haskell.org/HaXml	haxml		lambdabot
+http://haskell.org/fruit/	fruit		lambdabot
+http://haskell.org/ghc	ghc		lambdabot
+http://haskell.org/ghc/docs/latest/html/libraries/	lib		lambdabot
+http://haskell.org/ghc/docs/latest/html/libraries/index.html	haskelldocs		lambdabot
+http://haskell.org/ghc/docs/latest/html/libraries/index.html	hier		lambdabot
+http://haskell.org/ghc/docs/latest/html/libraries/index.html	libs		lambdabot
+http://haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#pattern-guards	pattern-guard		lambdabot
+http://haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#pattern-guards	patternguard		lambdabot
+http://haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#pattern-guards	patternguards		lambdabot
+http://haskell.org/graphics/index.html	hgl		lambdabot
+http://haskell.org/gtk2hs/	cairo		lambdabot
+http://haskell.org/gtk2hs/	gtk2hs		lambdabot
+http://haskell.org/haskellwiki/AngloHaskell	anglohaskell		lambdabot
+http://haskell.org/haskellwiki/Cabal/FAQ	cabal-faq		lambdabot
+http://haskell.org/haskellwiki/GHC/Data_Parallel_Haskell	dph		lambdabot
+http://haskell.org/haskellwiki/GHC/GHCi#GHCi_on_Acid	goa		lambdabot
+http://haskell.org/haskellwiki/Ghci/Debugger	ghci.debugger		lambdabot
+http://haskell.org/haskellwiki/HAC	hac		lambdabot
+http://haskell.org/haskellwiki/HIDE	hide		lambdabot
+http://haskell.org/haskellwiki/Hac_2007	hac07		lambdabot
+http://haskell.org/haskellwiki/Haiku	haiku		lambdabot
+http://haskell.org/haskellwiki/Haskell_Quiz	haskell-quiz		lambdabot
+http://haskell.org/haskellwiki/Haskell_mode_for_Emacs	emacs		lambdabot
+http://haskell.org/haskellwiki/Haskell_mode_for_Emacs	haskell-mode		lambdabot
+http://haskell.org/haskellwiki/Hpaste.el	hpaste.el		lambdabot
+http://haskell.org/haskellwiki/Koans	haskell-koans	-- in another sense, see <https://github.com/hskoans/hskoans>	lambdabot
+http://haskell.org/haskellwiki/Koans	koan		lambdabot
+http://haskell.org/haskellwiki/Mailing_lists	mailinglist		lambdabot
+http://haskell.org/haskellwiki/Performance	performance		lambdabot
+http://haskell.org/haskellwiki/Software_transactional_memory	stm	| http://book.realworldhaskell.org/read/software-transactional-memory.html | http://chimera.labs.oreilly.com/books/1230000000929/ch10.html	lambdabot
+http://haskell.org/haskellwiki/Tutorials	tutorials		lambdabot
+http://haskell.org/haskellwiki/User:ConradParker/InstantInsanity	insanity		lambdabot
+http://haskell.org/haskellwiki/Video_presentations	video		lambdabot
+http://haskell.org/haskellwiki/Xmonad/Config_archive/John_Goerzen%27s_Configuration	jgct		lambdabot
+http://haskell.org/haskellwiki/Xmonad/Frequently_asked_questions	xmonad-faq		lambdabot
+http://haskell.org/haskellwiki/Xmonad/Guided_tour_of_the_xmonad_source	xmonad-design		lambdabot
+http://haskell.org/haskellwiki/Xmonad/Notable_changes_since_0.8#EwmhDesktops_0.9_config_updates	ewmhdesktops		lambdabot
+http://haskell.org/hawiki/	hawiki		lambdabot
+http://haskell.org/hdirect/	hdirect		lambdabot
+http://haskell.org/hmake	hmake		lambdabot
+http://haskell.org/hugs	hugs		lambdabot
+http://haskell.org/mailman/listinfo/beginners	beginners		lambdabot
+http://haskell.org/nhc98	nhc		lambdabot
+http://haskell.org/nhc98	nhc98		lambdabot
+http://haskell.org/onlinereport/	h98		lambdabot
+http://haskell.org/onlinereport/	haskell98		lambdabot
+http://haskell.org/onlinereport/lexemes.html#sect2.7	layout		lambdabot
+http://haskell.org/~duncan/soegtk/	soe-gtk		lambdabot
+http://haskell.org/~duncan/soegtk/	soegtk		lambdabot
+http://haskell.org/~gentoo/hackport/	hackport		lambdabot
+http://haskell.org/~kolmodin/code/hinotify/	hinotify		lambdabot
+http://haskell.reddit.com	haskellreddit		lambdabot
+http://haskellbook.com	haskellbook		lambdabot
+http://haskellbook.com/	book		lambdabot
+http://haskellbook.com/	hpffp	"Haskell Programming: from first principles - Pure functional programming without fear or frustration" by Chistopher Allen (bitemyapp),Julie Moronuki at  ... #haskell-beginners	lambdabot
+http://haskelldb.sourceforge.net/	haskelldb		lambdabot
+http://hasp.cs.pdx.edu/habit-report-Nov2010.pdf	habit	The preliminary Habit report:  ... 	lambdabot
+http://haste.dyndns.org:8080/	haste		lambdabot
+http://haxe.org/	haxe		lambdabot
+http://hayoo.fh-wedel.de/	hayoo	-- See also Hoogle: http://haskell.org/hoogle http://fpcomplete.com/hoogle	lambdabot
+http://hdiff.luite.com/	hdiff		lambdabot
+http://hdiff.luite.com/packages/archive/	hackage-mirror	remote-repo: hdiff.luite.com: ... 	lambdabot
+http://hoc.sourceforge.net/	hoc		lambdabot
+http://home.agh.edu.pl/~gpolak/hslua	hslua		lambdabot
+http://home.sandiego.edu/~shulman/papers/index.html	shulman		lambdabot
+http://homepages.cwi.nl/~jve/HR/	hr	"The Haskell Road to Logic, Maths and Programming", by Kees Doets,Jan van Eijck, at  ... (broken ?),<https://web.archive.org/web/20190528043209/https://homepages.cwi.nl/~jve/HR/>	lambdabot
+http://homepages.cwi.nl/~tromp/cl/lazy-k.html	lazy-k		lambdabot
+http://homepages.inf.ed.ac.uk/wadler/	wadler		lambdabot
+http://homepages.inf.ed.ac.uk/wadler/papers/arrows-and-idioms/arrows-and-idioms.pdf	oblivious		lambdabot
+http://homepages.inf.ed.ac.uk/wadler/papers/essence/essence.ps	essencefp		lambdabot
+http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf	monads		lambdabot
+http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf	prettier		lambdabot
+http://homepages.inf.ed.ac.uk/wadler/topics/blame.html#blame-esop	blame	"Well-typed programs can't be blamed" at  ... by Philip Wadler,Robert Bruce Findler in 2009	lambdabot
+http://homotopytypetheory.org/book/	hott		lambdabot
+http://hope.bringert.net/	hope		lambdabot
+http://hpaste.org/	hpaste		lambdabot
+http://hpaste.org/	hpaste2		lambdabot
+http://htoolkit.sourceforge.net	hsql		lambdabot
+http://hunit.sourceforge.net/	hunit		lambdabot
+http://icfpcontest.org/	icfp2006		lambdabot
+http://idris-lang.org/	idris	#idris  ... 	lambdabot
+http://ifdb.tads.org/viewgame?id=fn8r65rg7upfff0o	enlightenment		lambdabot
+http://iki.fi/tuomov/riot/	riot		lambdabot
+http://joyridelabs.de/game/	nikki		lambdabot
+http://jpg.artige.no/store/9871.jpg	horror		lambdabot
+http://katmat.math.uni-bremen.de/acc/	acc	"Abstract and Concrete Categories (The Joy of Cats)", J. Adámek, H. Herrlich, G. E. Strecker:  ... 	lambdabot
+http://katmat.math.uni-bremen.de/acc/	joc		lambdabot
+http://kejo.be/ELIS/haskell-blahSouthPark.html	boegel		lambdabot
+http://kuribas.hcoop.net/haskell-indentation.el	kuribas-indentation		lambdabot
+http://kuribas.hcoop.net/haskell-indentation.el	kuribas-mode		lambdabot
+http://lambda-the-ultimate.org/	ltu		lambdabot
+http://lambdabot.codersbase.com	lambdaweb		lambdabot
+http://lambdacats.org	lambdacats		lambdabot
+http://learn.hfm.io	learn-hfm		lambdabot
+http://learnyouahaskell.com/listmonster.png	listmonster		lambdabot
+http://legacy.cs.uu.nl/daan/parsec.html	parsec		lambdabot
+http://lens.github.io/	lens	#haskell-lens |  ... | https://github.com/ekmett/lens | http://www.youtube.com/watch?v=cefnmjtAolY&hd=1	lambdabot
+http://lhc.seize.it/	lhc		lambdabot
+http://library.readscheme.org/servlets/cite.ss?pattern=Ste-77	tail-recursion		lambdabot
+http://lists.schmorp.de/pipermail/rxvt-unicode/2008q1/000552.html	urxvt-transparency		lambdabot
+http://logitext.mit.edu/logitext.fcgi/tutorial	logitext	"Interactive Tutorial of the Sequent Calculus" by ezyang at  ... <http://logitext.mit.edu/logitext.fcgi/main>,<http://blog.ezyang.com/2012/05/an-interactive-tutorial-of-the-sequent-calculus/>. Also cf. `semantic-tableaux'	lambdabot
+http://lpaste.net/	lpaste		lambdabot
+http://lpaste.net/8063137500022964224	longcat		lambdabot
+http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf	on-understanding	"On Understanding Types, Data Abstraction, and Polymorphism" by Luca Cardelli,Peter Wegner in 1985-12 at  ... 	lambdabot
+http://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/	antipattern		lambdabot
+http://mainisusuallyafunction.blogspot.de/2010/10/typing-mathematical-characters-in-x.html	compose		lambdabot
+http://malde.org/~ketil/	rbr		lambdabot
+http://mapcar.org/haskell/shim/	shim	http://mawercer.de/~publicrepos/shim/	lambdabot
+http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/	impossible	<http://math.andrej.com/2008/11/21/a-haskell-monad-for-infinite-search-in-finite-time/>	lambdabot
+http://mauke.ath.cx/tmp/2009-10-19-hackage-archive.torrent	hackage-torrent		lambdabot
+http://mauke.ath.cx/tmp/2009-10-19-hackage-archive.torrent	hackagetorrent		lambdabot
+http://members.cox.net/stefanor/vty/	vty	darcs get  ... 	lambdabot
+http://memegenerator.net/instance/7710889	wtfmonad		lambdabot
+http://mitpress.mit.edu/sicm/	sicm		lambdabot
+http://mitpress.mit.edu/sicp/	sicp	"Structure and Interpretation of Computer Programs"  ... <http://swiss.csail.mit.edu/classes/6.001/abelson-sussman-lectures/>,<https://github.com/sarabander/sicp-pdf> | "Storage and Identification of Cabalized Packages" <http://www.vex.net/~trebla/haskell/sicp.xhtml>	lambdabot
+http://modeemi.cs.tut.fi/~tuomov/ion/	ion		lambdabot
+http://moonpatio.com/repos/lunabot/	lunabot	{- currently just the bare bot + ghc-api-eval + eval-rlimit-sandboxed-stdin->stdout (and no docs) -}	lambdabot
+http://moonpatio.com/vacuum/	vacuum		lambdabot
+http://moonpatio.com:8080/fastcgi/hpaste.fcgi/new	hpastetwo		lambdabot
+http://mumble.net/~campbell/blag.txt	blag	Riastradh's (Taylor R. Campbell's) blag  ... RSS <http://www.ccil.org/~cowan/blag.xml>	lambdabot
+http://mumble.net/~campbell/emacs/paredit.html	paredit	Minor Emacs mode for editing parentheses at  ... <http://mumble.net/~campbell/emacs/paredit.el> by Taylor R. Campbell (Riastradh)	lambdabot
+http://mvanier.livejournal.com/3917.html	yamt		lambdabot
+http://naesten.mooo.com:8080/repos/ZMachine	zmachine		lambdabot
+http://nealar.livejournal.com/	alar		lambdabot
+http://nickmudge.info/	mudge		lambdabot
+http://nixos.org/	nix		lambdabot
+http://nixos.org/	nixos		lambdabot
+http://norvig.com/21-days.html	years	"Teach Yourself Programming in Ten Years" at  ... by Peter Norvig	lambdabot
+http://okmij.org/ftp/	oleg		lambdabot
+http://okmij.org/ftp/Haskell/dependent-types.html#Prepose	configurations		lambdabot
+http://okmij.org/ftp/Haskell/perfect-shuffle.txt	shuffle		lambdabot
+http://okmij.org/ftp/Haskell/types.html#Prepose	prepose	"Implicit configurations -- or, type classes reflect the values of types" by Oleg Kiselyov,Chung-chieh Shan in 2004-08 at  ... <http://mauke.dyndns.org/stuff/papers/prepose.pdf>	lambdabot
+http://okmij.org/ftp/Haskell/types.html#polyvar-fn	polyvariadic		lambdabot
+http://openbsd.org/	openbsd		lambdabot
+http://packdeps.haskellers.com/reverse	revdeps	<http://packdeps.haskellers.com/>,<http://www.yesodweb.com/blog/2011/02/reverse-packdeps>	lambdabot
+http://packdeps.haskellers.com/reverse	reverse	reverse deps	lambdabot
+http://packdeps.haskellers.com/reverse	reversedeps		lambdabot
+http://packdeps.haskellers.com/reverse	reversehackage		lambdabot
+http://paste.lisp.org/new/darcs	darcs-paste		lambdabot
+http://paste.lisp.org/new/haskell.hr	lisppaste	<http://paste.lisp.org/new>	lambdabot
+http://paste.lisp.org/new/haskell.hr	paste-hr		lambdabot
+http://paste.lisp.org/new/haskell.hr	paste.hr		lambdabot
+http://patch-tag.com/r/stepcut/agdabot	agdabot		lambdabot
+http://pdos.csail.mit.edu/~baford/packrat/thesis/	pappy		lambdabot
+http://people.cs.uu.nl/doaitse/Papers/2003/p224-swierstra.pdf	polish		lambdabot
+http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html	object-closure-koan	"RE: What's so cool about Scheme?" (Teachings of venerable master Qc Na) by Anton van Straaten in 2003-06-04 at  ... (cf. "RE: accumulator generator (Java)" by ibid in 2002-05-23 at <msg01488.html> (same site)) (Also see "Six of One, a Half Dozen of the Other" by Glenn Vanderburg in 2004-03-29 at <https://vanderburg.org/blog/2004/03/29/koan.html>)	lambdabot
+http://perlcabal.org/~nothingmuch/harrorth/	harrorth		lambdabot
+http://personal.cis.strath.ac.uk/~conor/pub/she/	she		lambdabot
+http://petdance.com/ack/	ack		lambdabot
+http://php.net	php		lambdabot
+http://planet.haskell.org	waldo		lambdabot
+http://planet.haskell.org/	planet		lambdabot
+http://pll.cpsc.ucalgary.ca/charity1/www/home.html	charity		lambdabot
+http://pllab.is.ocha.ac.jp/~asai/papers/papers.html	black		lambdabot
+http://programatica.cs.pdx.edu/House/	house		lambdabot
+http://projecteuler.net	euler		lambdabot
+http://projecteuler.net/	pe		lambdabot
+http://projecteuler.net/	projecteuler		lambdabot
+http://projects.codersbase.com/repos/nehe-tuts/	nehe-tuts	darcs get  ... 	lambdabot
+http://projects.haskell.org/camp/	camp		lambdabot
+http://projects.haskell.org/diagrams/	diagrams		lambdabot
+http://purelytheoretical.com/sywtltt.html	learntt		lambdabot
+http://purelytheoretical.com/sywtltt.html	sywtltt		lambdabot
+http://qthaskell.berlios.de/	qthaskell		lambdabot
+http://quux.org/devel/hdbc	hdbc		lambdabot
+http://quux.org/devel/missingh	missingh		lambdabot
+http://racket-lang.org/	racket		lambdabot
+http://rafb.net/paste	paste-rafb		lambdabot
+http://rafb.net/paste	rafb		lambdabot
+http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html	reading-list		lambdabot
+http://repa.ouroborus.net/	repa	REgular PArallel arrays  ... 	lambdabot
+http://repetae.net/computer/frisby/	frisby		lambdabot
+http://repetae.net/john/computer/ginsu/	ginsu		lambdabot
+http://repetae.net/john/computer/haskell/DrIFT/	drift		lambdabot
+http://repetae.net/john/computer/haskell/JRegex/	jregex		lambdabot
+http://repetae.net/john/computer/jhc/	jhc	<https://github.com/jimcrayne/jhc>,<http://repetae.net/computer/jhc/jhc.shtml#the-story-of-jhc>	lambdabot
+http://research.microsoft.com/Users/simonpj/Papers/weak.htm	weak		lambdabot
+http://research.microsoft.com/en-us/projects/threadscope/	threadscope		lambdabot
+http://research.microsoft.com/en-us/um/people/simonpj/Papers/cpr/index.htm	cpr		lambdabot
+http://research.microsoft.com/en-us/um/people/simonpj/Papers/history-of-haskell/history.pdf	being.lazy.with.class		lambdabot
+http://research.microsoft.com/en-us/um/people/simonpj/Papers/inlining/	inlining		lambdabot
+http://research.microsoft.com/en-us/um/people/simonpj/papers/eval-apply/index.htm	eval-apply		lambdabot
+http://research.microsoft.com/en-us/um/people/simonpj/papers/eval-apply/index.htm	fast-curry		lambdabot
+http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/index.htm	historyofhaskell		lambdabot
+http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/	ifpl		lambdabot
+http://research.microsoft.com/fsharp/fsharp.aspx	f#		lambdabot
+http://research.microsoft.com/~simonpj/papers/history-of-haskell/index.htm	ahoh		lambdabot
+http://research.microsoft.com/~simonpj/papers/ptr-tag/index.htm	ptr-tag		lambdabot
+http://ruby-lang.org	ruby		lambdabot
+http://sam.zoy.org/wtfpl/	wtfpl		lambdabot
+http://scannedinavian.com/~boegel/HaskLS/	haskls		lambdabot
+http://scannedinavian.com/~lemmih/hasp	hasp		lambdabot
+http://scannedinavian.org/~lemmih/ghc-src	ghc-src		lambdabot
+http://semantic.org/hnop/	hnop		lambdabot
+http://sequence.complete.org	sequence		lambdabot
+http://shootout.alioth.debian.org/	shootout		lambdabot
+http://sigfpe.blogspot.com/	sigfpe		lambdabot
+http://sigfpe.blogspot.com/2006/01/eleven-reasons-to-use-haskell-as.html	haskell-for-mathematicians		lambdabot
+http://sl4.org/crocker.html	crockers-rules	"Crocker's Rules"  ... . See also `tact-filters',(quote) `Postel'sLaw'	lambdabot
+http://snapframework.com/	snap	#snapframework	lambdabot
+http://sneezy.cs.nott.ac.uk/containers/	containers		lambdabot
+http://sneezy.cs.nott.ac.uk/darcs/epigram/	epigram2		lambdabot
+http://sneezy.cs.nott.ac.uk/fun/	fita		lambdabot
+http://software.complete.org/hsh	hsh		lambdabot
+http://software.complete.org/software/projects/show/listlike	listlike		lambdabot
+http://softwaresimply.blogspot.de/2012/04/hopefully-fair-and-useful-comparison-of.html	web-frameworks		lambdabot
+http://sophos.berkeley.edu/macfarlane/pandoc/	pandoc		lambdabot
+http://sourceforge.net/projects/jvm-bridge/	jvm-bridge		lambdabot
+http://sourceforge.net/projects/lazy-regex	lazy-regex		lambdabot
+http://sourceforge.net/projects/lazy-regex	textregexlazy		lambdabot
+http://sourceforge.net/projects/ranged-sets/	ranged-sets		lambdabot
+http://stackoverflow.com/questions/210835/what-is-referential-transparency	uday-reddy-on-referential-transparency	<https://www.reddit.com/r/haskell/comments/x8rr6/uday_reddy_on_referential_transparency_and_fp/>,<http://www.reddit.com/r/haskell/comments/xgq27/uday_reddy_sharpens_up_referential_transparency/>	lambdabot
+http://standards.freedesktop.org/wm-spec/wm-spec-1.3.html	ewmh		lambdabot
+http://strictlypositive.org/Idiom-abort.pdf	idiom	"A trail told by an idiom" (aborted) by Conor McBride at  ... ;"Idioms: applicative programming with effects" ("too long") by ibid,Ross Paterson at <http://strictlypositive.org/Idiom.pdf>;"Applicative programming with effects" by ibid in 2008 at <http://strictlypositive.org/IdiomLite.pdf>,<http://www.staff.city.ac.uk/~ross/papers/Applicative.html>	lambdabot
+http://strictlypositive.org/view.ps.gz	tvftl		lambdabot
+http://sup.rubyforge.org	sup		lambdabot
+http://svn.openfoundry.org/pugs/third-party/HsSyck/	hssyck		lambdabot
+http://swapoff.org/wiki/DevTodo	devtodo		lambdabot
+http://t0rch.org/	kmc		lambdabot
+http://thecorememory.com/Next_700.pdf	next-700	"The Next 700 Programming Languages" by Peter J. Landin in 1965-08 at  ... <https://dl.acm.org/citation.cfm?id=365257>	lambdabot
+http://themonadreader.wordpress.com/	tmr		lambdabot
+http://timber-lang.org/home.html	timber	concurrent, reactive, event-driven language that was inspired by O'Haskell,  ... . also see `O'Haskell'	lambdabot
+http://timmaxwell.org/pages/monad-embed/	monad-embed		lambdabot
+http://tinyurl.com/lambdacats	cats		lambdabot
+http://tinyurl.com/lambdacats	lolcats		lambdabot
+http://tinyurl.com/y5kvdq	haskell-search		lambdabot
+http://trac.haskell.org/network/	network		lambdabot
+http://tronche.com/gui/x/icccm/	icccm		lambdabot
+http://tronche.com/gui/x/xlib/	tronche		lambdabot
+http://tryhaskell.org/	tryhaskell		lambdabot
+http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf	theorems.for.free		lambdabot
+http://twan.home.fmf.nl/blog/haskell/non-regular1.details	funlist	twanvl's "A non-regular data type challenge" at  ... and "http://twan.home.fmf.nl/blog/haskell/non-regular2.details" at <http://twan.home.fmf.nl/blog/haskell/non-regular2.details>	lambdabot
+http://twan.home.fmf.nl/blog/haskell/simple-reflection-of-expressions.details	expr		lambdabot
+http://twan.home.fmf.nl/blog/haskell/simple-reflection-of-expressions.details	simplereflect		lambdabot
+http://twan.home.fmf.nl/compact-string/	compactstring		lambdabot
+http://twanvl.nl/blog/haskell/overloading-functional-references	lenses	<http://cdsmith.wordpress.com/2011/04/26/composing-state-with-functions-and-lenses/>,<http://patternsinfp.wordpress.com/2011/01/31/lenses-are-the-coalgebras-for-the-costate-comonad/>,<http://stackoverflow.com/questions/5767129/lenses-fclabels-data-accessor-which-library-for-structure-access-and-mutation>	lambdabot
+http://twanvl.nl/blog/haskell/simple-reflection-of-expressions	simple-reflect		lambdabot
+http://uebb.cs.tu-berlin.de/harpy/	harpy		lambdabot
+http://ugcs.net/~keegan/talks/high-level-ffi/talk.pdf	high-level-ffi		lambdabot
+http://ugcs.net/~keegan/talks/why-learn-haskell/talk.pdf	why-learn-haskell		lambdabot
+http://uhsure.com/xmonad-log-applet.html	xmonad-log-applet		lambdabot
+http://ulf.wiger.net/weblog/2008/02/29/simon-peyton-jones-composing-contracts-an-adventure-in-financial-engineering/	pudding		lambdabot
+http://unknownparallel.com/monads.php	zamt	The Dead Simple, No Chit Chat, Zero-Analogy Haskell Monad Tutorial:  ... 	lambdabot
+http://urchin.earth.li/darcs/ian/bts/	bark		lambdabot
+http://urchin.earth.li/mailman/listinfo/debian-haskell	debian-haskell		lambdabot
+http://urchin.earth.li/~ian/style/haskell.html	style	http://snapframework.com/docs/style-guide https://github.com/chrisdone/haskell-style-guide	lambdabot
+http://urchin.earth.li/~ian/vim/haskell.vim	haskell.vim		lambdabot
+http://use.perl.org/~autrijus/journal/	autrijus		lambdabot
+http://users.auriga.wearlab.de/~alb/darcsweb/	darcsweb		lambdabot
+http://users.ece.cmu.edu/~allbery/lambdabot/COMMANDS	commands		lambdabot
+http://vimperator.mozdev.org/	vimperator		lambdabot
+http://w3m.sourceforge.net/	w3m		lambdabot
+http://web.archive.org/web/20041012103936/http://www.bagley.org/~doug/ocaml/Notes/okoans.shtml	fp-koans	"Functional Programming Koans, in OCaml" by Doug Bagley in 2002 - 2003-02-03 at  ... . Cf. "Functional Koans: a dynamic programmer responds" by pozorvlak in 2006-05-15 at <https://pozorvlak.livejournal.com/15822.html>	lambdabot
+http://web.archive.org/web/20051126141834/http://haskell.org/hawiki/IndirectComposite	indirectcomposite		lambdabot
+http://web.archive.org/web/20051126143527/http://haskell.org/hawiki/DecoratingStructures	decoratingstructures		lambdabot
+http://web.archive.org/web/20070703001910/http://www.cs.chalmers.se/~augustss/pics/haskel.gif	haskel		lambdabot
+http://web.archive.org/web/20080206034614/http://www.reciprocality.org/Reciprocality/	reciprocality	"The Reciprocality Project" by Alan Carter,et al. at  ... <https://web.archive.org/web/20140807154248/http://www.buildfreedom.com/content/reciprocality/>, cf. <http://wiki.c2.com/?ReciprocalityTheory>	lambdabot
+http://web.archive.org/web/20080918051833/http://mbishop.esoteriq.org/stuff/books.txt	book-acronyms	mbishop's "List of popular programming book acronyms" at  ... 	lambdabot
+http://web.archive.org/web/20090421080714/http://www.cpax.org.uk/prg/portable/c/c++/rfe00000.html	c/c++	"C/C++ : A new language for the new Millennium" by Richard Heathfield in 2005-02 at  ... 	lambdabot
+http://web.archive.org/web/20090517021445/http://www.cs.chalmers.se/~nordland/ohaskell/	o'haskell	extension to Haskell adding subtyping and records, plus non-blocking reactive communication, by Johan Nordlander, Magnus Carlsson, and Bjrn von Sydow, at  ... also see `Timber'	lambdabot
+http://web.archive.org/web/20091106041222/http://www.guldheden.com/~sandin/amalthea.html	amalthea	Implementation made by Martin Sandin of the (continuation-based) `Io' language at  ... 	lambdabot
+http://web.archive.org/web/20100103222945/http://www.cs.chalmers.se/~augustss/cayenne/eqproof.ps	eqproof	"Equality proofs in Cayenne" by Lennart Augustsson in 1998 or 1999 at  ... 	lambdabot
+http://web.archive.org/web/20100328151143/http://www.cs.caltech.edu/courses/cs11/material/haskell/index.html	cs11		lambdabot
+http://web.cecs.pdx.edu/~kennyg/house/	lighthouse		lambdabot
+http://web.cecs.pdx.edu/~mpj/thih/	thih		lambdabot
+http://web.engr.oregonstate.edu/~erwig/diet/	diet		lambdabot
+http://web.engr.oregonstate.edu/~erwig/pfp/	pfp		lambdabot
+http://wiki.darcs.net/index.html/DarcsDeps	darcsdeps		lambdabot
+http://wiki.di.uminho.pt/twiki/bin/view/Research/PURe/HaGLR	haglr		lambdabot
+http://wiki.di.uminho.pt/wiki/bin/view/PURe/PUReSoftware	minho		lambdabot
+http://wiki.portal.chalmers.se/agda/	agda	Agda2, proof assistant / dependently typed FPL, at  ... -- Agda1, earlier incarnation, at (broken) <http://www.cse.chalmers.se/~catarina/agda/>,<http://web.archive.org/web/*/http://www.cs.chalmers.se/~catarina/agda/>. Also see `Alfa',`Cayenne'	lambdabot
+http://worrydream.com/refs/Backus-CanProgrammingBeLiberated.pdf	liberated		lambdabot
+http://ww2.cs.mu.oz.au/172/Haskell/tourofprelude.html	tourofprelude		lambdabot
+http://www-2.cs.cmu.edu/~rwh/plbook/	plbook		lambdabot
+http://www-cs-staff.stanford.edu/~knuth/taocp.html	taocp	"The Art of Computer Programming" by Donald E. Knuth in 1962 – (ongoing) at  ... 	lambdabot
+http://www-users.cs.york.ac.uk/~mfn/hacle/	hacle		lambdabot
+http://www-users.cs.york.ac.uk/~mfn/sparsecheck/	sparsecheck		lambdabot
+http://www-users.cs.york.ac.uk/~ndm/filepath/	filepath		lambdabot
+http://www-users.cs.york.ac.uk/~ndm/guihaskell/	guihaskell		lambdabot
+http://www-users.cs.york.ac.uk/~ndm/projects/hat.php	hat-gui		lambdabot
+http://www-users.cs.york.ac.uk/~ndm/projects/winhaskell.php	winhaskell		lambdabot
+http://www-users.cs.york.ac.uk/~ndm/tagsoup/	tagsoup		lambdabot
+http://www.altocumulus.org/Fudgets/	fudgets	GUI using X, by Thomas Hallgren and Magnus Carlsson, at  ... <http://www.carlssonia.org/ogi/ProdArrows/>. Also see `Alfa'	lambdabot
+http://www.amazon.com/Introduction-Functional-Programming-Haskell-Edition/dp/0134843460	bird		lambdabot
+http://www.annodex.net/~conrad/software/hogg/	hogg		lambdabot
+http://www.benzedrine.cx/planetwars/	tcpserver		lambdabot
+http://www.carlssonia.org/ogi/mdo-callcc.pdf	monadfix_cont	"Value recursion in the continuation monad" by Magnus Carlsson in 2003-01-07 at  ... (there's also slides at <http://www.carlssonia.org/ogi/mdo-callcc-slides.pdf>)	lambdabot
+http://www.catb.org/jargon/html/M/mu.html	mu		lambdabot
+http://www.catb.org/~esr/faqs/loginataka.html	loginataka	"The Loginataka: Dialogue between a Guru and a Newbie" (aka "So You Want To Be A Wizard?") by Eric S. Raymond at  ... 	lambdabot
+http://www.catb.org/~esr/jargon/html/koans.html	ai-koans	"Some AI Koans" by Danny Hillis at  ... (in The Jargon File). Also <https://www.netfunny.com/rhf/jokes/89q1/koans.285.html>	lambdabot
+http://www.catb.org/~esr/writings/taoup/html/unix_koans.html	unix-koans	"Rootless Root - The Unix Koans of Master Foo" by Eric S. Raymond (esr) in 2003 at  ... 	lambdabot
+http://www.catonmat.net/blog/on-functors/	on-functors	"On Functors" (in C++,Standard ML,Haskell,Prolog) by Peteris Krumins in 2010-05-17 at  ... 	lambdabot
+http://www.charvolant.org/~doug/xkb/html/index.html	xkb		lambdabot
+http://www.cis.upenn.edu/~bcpierce/sf/	sf	"Software Foundations" by Pierce,Casinghino,Greenberg,Sjöberg,Yorgey in 2011-06 at  ... about "the mathematical theory of programming and programming languages", "It develops basic concepts of functional programming, logic, operational semantics, lambda-calculus, and static type systems, using the Coq proof assistant."	lambdabot
+http://www.cis.upenn.edu/~byorgey/papers/species-pearl.pdf	species	byorgey's paper : "Species and Functors and Types, Oh My!" at  ... by Brent Yorgey in 2010-09 [feel free to add more interesting papers]	lambdabot
+http://www.city5.org/haskellprog/qdbm/	qdbm		lambdabot
+http://www.cl.cam.ac.uk/users/rje33/software.html	hasktags		lambdabot
+http://www.cl.cam.ac.uk/~nx200/	esc		lambdabot
+http://www.cl.cam.ac.uk/~nx200/	xu		lambdabot
+http://www.cliff.biffle.org/esoterica/hq9plus.html	hq9+		lambdabot
+http://www.codersbase.com/Projects	lispyprojects		lambdabot
+http://www.codersbase.com/Quake3	lispq3		lambdabot
+http://www.codersbase.com/index.php/helisp	helisp		lambdabot
+http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/	plai		lambdabot
+http://www.cs.chalmers.se/Cs/Research/Functional/MultiLib/koen/Parsek.hs	parsek		lambdabot
+http://www.cs.chalmers.se/~boquist/ifl96-abstract.html	grin		lambdabot
+http://www.cs.chalmers.se/~bringert/darcs/QuickCheck/	qc2	darcs get  ... 	lambdabot
+http://www.cs.chalmers.se/~bringert/darcs/haskell-cgi/	haskell-cgi		lambdabot
+http://www.cs.chalmers.se/~bringert/darcs/haskell-fastcgi/doc/	fastcgi		lambdabot
+http://www.cs.chalmers.se/~bringert/darcs/haskell-xhtml	xhtml		lambdabot
+http://www.cs.chalmers.se/~d00nibro/harp	harp		lambdabot
+http://www.cs.chalmers.se/~d00nibro/haskell-src-exts/	hsx		lambdabot
+http://www.cs.chalmers.se/~d00nibro/hsp	hsp		lambdabot
+http://www.cs.chalmers.se/~hallgren/Alfa/Tutorial/GFplugin.html	cayenne	Dependently typed FPL with turing-complete type system, by Lennart Augustsson (augustss), at (broken)  ... <http://web.archive.org/web/*/www.cs.chalmers.se/~augustss/cayenne/index.html>. Also see `Agda'	lambdabot
+http://www.cs.chalmers.se/~rjmh/QuickCheck/	quickcheck		lambdabot
+http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/syntax/haskell/0.html	yalehaskell	Yale Haskell, implemented in Lisp, at  ... <http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/syntax/haskell/src_205.tgz>,<http://groups.google.com/group/comp.lang.functional/msg/5b929ac0223a6212?dmode=source&hl=en>	lambdabot
+http://www.cs.cmu.edu/~rwh/plbook/book.pdf	pfpl	"Practical Foundations for Programming Languages" by Robert Harper at  ... <https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf>	lambdabot
+http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf	okasaki		lambdabot
+http://www.cs.cmu.edu/~twelf/	twelf		lambdabot
+http://www.cs.helsinki.fi/u/ekarttun/SerTH/	serth		lambdabot
+http://www.cs.helsinki.fi/u/ekarttun/hs-fltk/	hs-fltk		lambdabot
+http://www.cs.helsinki.fi/u/ekarttun/hs-fltk/	hsfltk		lambdabot
+http://www.cs.helsinki.fi/u/ekarttun/hsgnutls	hsgnutls		lambdabot
+http://www.cs.helsinki.fi/u/ekarttun/network-alt/	network-alt		lambdabot
+http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf	sieve		lambdabot
+http://www.cs.indiana.edu/~sabry/papers/purelyFunctional.ps	purelyfunctional	"What is a Purely Functional Language?" at  ... by Amr Sabry, 1998	lambdabot
+http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/	ttfp		lambdabot
+http://www.cs.kent.ac.uk/people/staff/sjt/craft2e/	cofp		lambdabot
+http://www.cs.kent.ac.uk/projects/ofa/chp/	chp		lambdabot
+http://www.cs.kent.ac.uk/projects/pivotal	pivotal		lambdabot
+http://www.cs.kent.ac.uk/projects/refactor-fp/	hare		lambdabot
+http://www.cs.kent.ac.uk/projects/vital/	vital	"Vital is a document-centered implementation of Haskell","The Vital project (acronym: Visual Interactive Typed Applicative Language) is investigating a /document-centered/ approach to functional programming with an emphasis on the display and /direct manipulation/ of complex data structures." (cf. spreadsheets)  ... <https://web.archive.org/web/20090529010107/http://www.cs.kent.ac.uk:80/projects/vital/>	lambdabot
+http://www.cs.kent.ac.uk/pubs/2001/1152/	fad		lambdabot
+http://www.cs.kuleuven.be/~dtai/projects/CHR/	chr	Constraint Handling Rules at  ... 	lambdabot
+http://www.cs.lth.se/EDA120/TwoDozenLessons/	twodozen		lambdabot
+http://www.cs.mu.oz.au/~bjpop/buddha/	buddha		lambdabot
+http://www.cs.mu.oz.au/~bjpop/timeline/timeline.5.png	timeline		lambdabot
+http://www.cs.nott.ac.uk/~mjj/pubs/mmt/mmt.pdf	mmt		lambdabot
+http://www.cs.nott.ac.uk/~pszgmh/pih.html	pih	"Programming in Haskell" by Graham Hutton in 2007-01-15,2016-09-01 at  ... 	lambdabot
+http://www.cs.nott.ac.uk/~wss/repos/IOSpec/	iospec		lambdabot
+http://www.cs.orst.edu/~erwig/fgl/	fgl		lambdabot
+http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/acmmpc-calcfp.pdf	calcfp		lambdabot
+http://www.cs.princeton.edu/~rdockins/edison/home/	edison		lambdabot
+http://www.cs.ru.nl/E.Poll/papers/durham97.pdf	erikpoll	"Subtyping and Inheritance for Inductive Types" in 1997 at  ... "Subtyping and Inheritance for Categorical Datatypes" in 1997 at <http://www.cs.ru.nl/E.Poll/papers/kyoto97.pdf>,"A Coalgebraic Semantics of Subtyping" in 2000 at <http://www.cs.ru.nl/E.Poll/papers/cmcs00.pdf>,later version of that in 2001 at <http://www.cs.ru.nl/E.Poll/papers/ita01.pdf>	lambdabot
+http://www.cs.tufts.edu/~nr/cs257/archive/peter-sestoft/ref-trans.pdf	referential-transparency	"Referential Transparency, Definiteness and Unfoldability" by Harald Søndergaard,Peter Sestoft in 1987-11-30 - 1990-01-04 at  ... ; see also `uday-reddy-on-referential-transparency'	lambdabot
+http://www.cs.utah.edu/~hal/htut/	yaht	"Yet Another Haskell Tutorial", Hal Daume III, ... <http://en.wikibooks.org/wiki/Haskell/YAHT>,<http://hal3.name/docs/daume02yaht.p(df|s)>,<http://darcs.haskell.org/yaht/yaht.p(df|s)>	lambdabot
+http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf	on-understanding-revisited	"On Understanding Data Abstraction, Revisited" by William R. Cook in 2009-10 at  ... 	lambdabot
+http://www.cs.uu.nl/research/projects/generic-haskell/	generichaskell	<https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#generic-classes>,<https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#generic-programming>	lambdabot
+http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-044.pdf	parsing		lambdabot
+http://www.cs.uu.nl/wiki/HUT/AttributeGrammarSystem	ag		lambdabot
+http://www.cs.uu.nl/wiki/HUT/AttributeGrammarSystem	uuag		lambdabot
+http://www.cs.uu.nl/wiki/UHC	uhc	The Utrecht Haskell Compiler, implemented using attribute grammars, at  ... 	lambdabot
+http://www.cs.uu.nl/~andres/lhs2tex	lhs2tex		lambdabot
+http://www.cs.uu.nl/~daan/morrow/	morrow		lambdabot
+http://www.cs.yale.edu/homes/hudak/SOE/	soe	"The Haskell School of Expression: Learning Functional Programming through Multimedia" by Paul Hudak in 2000 at  ... <http://haskell.org/soe/> [broken]	lambdabot
+http://www.cs.york.ac.uk/fp/cpphs/	cpphs		lambdabot
+http://www.cs.york.ac.uk/fp/darcs/derive	derive		lambdabot
+http://www.cs.york.ac.uk/fp/darcs/drhaskell/	drhaskell		lambdabot
+http://www.cs.york.ac.uk/fp/darcs/filepath	system.filepath		lambdabot
+http://www.cs.york.ac.uk/fp/darcs/hscolour/	hscolour		lambdabot
+http://www.cs.york.ac.uk/fp/darcs/proplang	proplang		lambdabot
+http://www.cs.york.ac.uk/fp/haddock/safe/Safe.html	safe		lambdabot
+http://www.cs.york.ac.uk/fp/polyparse/	polyparse		lambdabot
+http://www.cs.york.ac.uk/fp/reduceron/	reduceron		lambdabot
+http://www.cs.york.ac.uk/fp/smallcheck0.2.tar	smallcheck		lambdabot
+http://www.cs.york.ac.uk/~ndm/	ndm		lambdabot
+http://www.cs.york.ac.uk/~ndm/projects/winhugs.php	winhugs		lambdabot
+http://www.cs.york.ac.uk/~ndm/proposition/	proposition		lambdabot
+http://www.cs.york.ac.uk/~ndm/yhc	yhc		lambdabot
+http://www.cse.chalmers.se/~hallgren/Alfa/	alfa	Proof editor, using Agda1 proof engine/checker, at  ... (broken) <http://www.cs.chalmers.se/~hallgren/untested>,<http://ogi.altocumulus.org/~hallgren/untested>,<http://ogi.altocumulus.org/~hallgren/untested/for_Linux/alfa-041029-bin-i386-Linux-RedHat9.tar.gz>,<http://ogi.altocumulus.org/~hallgren/untested/Source_code/alfa-050126.src.tar.gz>. Also see `Agda',`Fudgets',`GF'	lambdabot
+http://www.cse.chalmers.se/~nad/publications/danielsson-et-al-popl2006.html	fast-and-loose	"Fast and Loose Reasoning is Morally Correct" by Nils Anders Danielsson,John Hughes,Patrik Jansson,Jeremy Gibbons in 2006 at  ... 	lambdabot
+http://www.cse.chalmers.se/~patrikj/poly/	polytypic	<http://www.cse.chalmers.se/~patrikj/poly/svenska.html>	lambdabot
+http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html	whyfp	"Why Functional Programming Matters" by John Hughes in 1984 at  ... 	lambdabot
+http://www.cse.chalmers.se/~russo/publications_files/haskell11-ext.pdf	lio		lambdabot
+http://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf	agdatut		lambdabot
+http://www.cse.ogi.edu/~diatchki/monadLib/	monadlib		lambdabot
+http://www.cse.ogi.edu/~mpj/goferarc/	gofer		lambdabot
+http://www.cse.unsw.edu.au/~chak/	chakravarty		lambdabot
+http://www.cse.unsw.edu.au/~chak/haskell/c2hs/	c2hs		lambdabot
+http://www.cse.unsw.edu.au/~chak/haskell/idoc/	idoc		lambdabot
+http://www.cse.unsw.edu.au/~chak/haskell/lambdaFeed/	lambdafeed		lambdabot
+http://www.cse.unsw.edu.au/~chak/haskell/ports/	ports		lambdabot
+http://www.cse.unsw.edu.au/~chak/project/fc/	fc		lambdabot
+http://www.cse.unsw.edu.au/~dons/binary.html	binary		lambdabot
+http://www.cse.unsw.edu.au/~dons/code/caths/	caths		lambdabot
+http://www.cse.unsw.edu.au/~dons/code/goa/	ghci-on-acid		lambdabot
+http://www.cse.unsw.edu.au/~dons/code/hbc	hbc	The Chalmers Haskell-B Compiler by Lennart Augustsson (augustss) at (darcs get)  ... <http://darcs.augustsson.net/Darcs/hbc> -- Alternatively, the Hierarchical Bayes Compiler <http://www.cs.utah.edu/~hal/HBC/>	lambdabot
+http://www.cse.unsw.edu.au/~dons/code/hwn/archives/	hwn-archives		lambdabot
+http://www.cse.unsw.edu.au/~dons/code/mkcabal	mkcabal	darcs get  ... 	lambdabot
+http://www.cse.unsw.edu.au/~dons/code/newpopen	newpopen	darcs get  ... 	lambdabot
+http://www.cse.unsw.edu.au/~dons/code/streams/ChasingBottoms/	chasingbottoms		lambdabot
+http://www.cse.unsw.edu.au/~dons/code/typeof/	typeof		lambdabot
+http://www.cse.unsw.edu.au/~dons/code/urlcheck	urlcheck	darcs get  ... 	lambdabot
+http://www.cse.unsw.edu.au/~dons/code/yi+gtk	yi+gtk		lambdabot
+http://www.cse.unsw.edu.au/~dons/darcs-graph.html	darcs-graph		lambdabot
+http://www.cse.unsw.edu.au/~dons/fps.html	bytestring		lambdabot
+http://www.cse.unsw.edu.au/~dons/fps.html	fps		lambdabot
+http://www.cse.unsw.edu.au/~dons/h4sh.html	h4sh		lambdabot
+http://www.cse.unsw.edu.au/~dons/haskell-1990-2006/msg00737.html	wadlers_law		lambdabot
+http://www.cse.unsw.edu.au/~dons/hmp3.html	hmp3		lambdabot
+http://www.cse.unsw.edu.au/~dons/hs-plugins/	hsplugins		lambdabot
+http://www.cse.unsw.edu.au/~dons/hs-plugins/	plugins		lambdabot
+http://www.cse.unsw.edu.au/~dons/irc/	stats		lambdabot
+http://www.cse.unsw.edu.au/~dons/irc/darcs/	darcs-logs		lambdabot
+http://www.cse.unsw.edu.au/~dons/irc/haskell-07.html	stats-07		lambdabot
+http://www.cse.unsw.edu.au/~dons/loch.html	loch		lambdabot
+http://www.cse.unsw.edu.au/~dons/nobench.html	nobench		lambdabot
+http://www.cse.unsw.edu.au/~dons/pqc.html	pqc		lambdabot
+http://www.cse.unsw.edu.au/~dons/streams.html	stream-fusion		lambdabot
+http://www.cse.unsw.edu.au/~dons/um.html	um		lambdabot
+http://www.cse.unsw.edu.au/~pls/repos/phrac/	phrac		lambdabot
+http://www.cse.unsw.edu.auc/~chak/haskell/ctk/index.html	ctk		lambdabot
+http://www.cwru.edu/artsci/math/wells/pub/ttt.html	ttt	Toposes, Triples and Theories:  ... 	lambdabot
+http://www.dcs.gla.ac.uk/~partain/haskerl.html	haskerl		lambdabot
+http://www.doc.ic.ac.uk/~tora/irulan/	irulan		lambdabot
+http://www.dtek.chalmers.se/~kolmodin/	kolmodin		lambdabot
+http://www.e-pig.org/	epigram		lambdabot
+http://www.eecs.tufts.edu/~rdocki01/lambda/	lambdashell	darcs get  ... 	lambdabot
+http://www.eecs.tufts.edu/~rdocki01/shellac/	shellac		lambdabot
+http://www.equational.org/darcs-server	darcs-server		lambdabot
+http://www.esat.kuleuven.ac.be/~cpoucet/	vincenz		lambdabot
+http://www.fantasymaps.com/stuff/fanspeak.html	fanspeak	"Fanspeak" by Cally Soukupa in 1999 at  ... 	lambdabot
+http://www.fh-wedel.de/~si/HXmlToolbox/	hxt		lambdabot
+http://www.flippac.org/projects/flippi/	flippi		lambdabot
+http://www.google-melange.com/gsoc/org/google/gsoc2013/haskell	gsoc	#haskell-gsoc |  ... 	lambdabot
+http://www.google.com	googl		lambdabot
+http://www.google.com/coop/cse?cx=015832023690232952875%3Acunmubfghzq	haskellsearch		lambdabot
+http://www.grammaticalframework.org/	gf	Grammatical Framework, dependently typed FPL, categorial grammar formalism, supporting multilingual grammar applications for e.g. natural language processing, at  ... . (An old `Alfa' interface is at <http://web.archive.org/web/*/http://www.cs.chalmers.se/~hallgren/Alfa/Tutorial/GFplugin.html>)	lambdabot
+http://www.haskell.org/alex/	alex		lambdabot
+http://www.haskell.org/all_about_monads/html/introduction.html	mtm		lambdabot
+http://www.haskell.org/arrows/	arrows		lambdabot
+http://www.haskell.org/crypto	crypto		lambdabot
+http://www.haskell.org/ghc/	ghc-api		lambdabot
+http://www.haskell.org/ghc/dist/current/docs/users_guide/sec-using-smp.html	smp		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/building/sec-cvs.html	fptools		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/libraries/	hhl		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/libraries/index.html	stdlib		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/data-type-extensions.html#gadt	gadt		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/flag-reference.html	flags		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/flag-reference.html#id472118	language+		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/flag-reference.html#id472118	languages	command line flag `--supported-languages' and  ... 	lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/hsc2hs.html	hsc2hs		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/profiling.html	profiling		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/runtime-control.html#rts-options-debugging	-xc		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/safe-haskell.html	safehaskell	<https://ghc.haskell.org/trac/ghc/wiki/SafeHaskell>,<http://safehaskell.scs.stanford.edu/>	lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/separate-compilation.html#orphan-modules	orphans		lambdabot
+http://www.haskell.org/ghc/reportabug	ghc-bugs		lambdabot
+http://www.haskell.org/haddock/	haddock		lambdabot
+http://www.haskell.org/halfs	halfs		lambdabot
+http://www.haskell.org/happy/	happy		lambdabot
+http://www.haskell.org/haskellwiki/All_About_Monads	aam		lambdabot
+http://www.haskell.org/haskellwiki/AusHac2010	aushack		lambdabot
+http://www.haskell.org/haskellwiki/Bottom	_|_		lambdabot
+http://www.haskell.org/haskellwiki/FAQ#How_do_I_make_a_list_with_elements_of_different_types.3F	dynamic		lambdabot
+http://www.haskell.org/haskellwiki/Frag	frag		lambdabot
+http://www.haskell.org/haskellwiki/GHC:FAQ#Does_GHC_do_common_subexpression_elimination.3F	cse		lambdabot
+http://www.haskell.org/haskellwiki/Game_Development	game	#haskell-game |  ... | http://hackage.haskell.org/packages/archive/pkg-list.html#cat:game | https://github.com/haskell-game	lambdabot
+http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems	99		lambdabot
+http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems	exercises	https://github.com/bitemyapp/learnhaskell http://www.reddit.com/r/dailyprogrammer/ http://www.reddit.com/r/programmingchallenges/	lambdabot
+http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems	h-99		lambdabot
+http://www.haskell.org/haskellwiki/Hac_2008	hac08		lambdabot
+http://www.haskell.org/haskellwiki/Hackathon	hackathon		lambdabot
+http://www.haskell.org/haskellwiki/HaskellUserLocations	map		lambdabot
+http://www.haskell.org/haskellwiki/Haskell_Communities_and_Activities_Report	communities		lambdabot
+http://www.haskell.org/haskellwiki/Haskell_Equational_Reasoning_Assistant	hera		lambdabot
+http://www.haskell.org/haskellwiki/Haskell_Program_Coverage	hpc		lambdabot
+http://www.haskell.org/haskellwiki/Haskell_in_industry	industry		lambdabot
+http://www.haskell.org/haskellwiki/Hp2any	hp2any		lambdabot
+http://www.haskell.org/haskellwiki/Humor	humor		lambdabot
+http://www.haskell.org/haskellwiki/Implementations	implementations	. Also see `GHC',`Hugs',`Helium',`UHC',`DDC',`LHC',`JHC',`YHC',`NHC',`HBC',`UHC',`YaleHaskell',`Brisk'	lambdabot
+http://www.haskell.org/haskellwiki/Import_modules_properly	imports		lambdabot
+http://www.haskell.org/haskellwiki/Language_Pragmas	pragmas		lambdabot
+http://www.haskell.org/haskellwiki/Learn_Haskell_in_10_minutes	10minutes		lambdabot
+http://www.haskell.org/haskellwiki/Learn_Haskell_in_10_minutes	intro		lambdabot
+http://www.haskell.org/haskellwiki/Ministg	ministg		lambdabot
+http://www.haskell.org/haskellwiki/MonadPlus	monadplus	or http://www.haskell.org/haskellwiki/MonadPlus_reform_proposal	lambdabot
+http://www.haskell.org/haskellwiki/Monad_Laws	monadlaws		lambdabot
+http://www.haskell.org/haskellwiki/Monad_Transformer_Library	mtl		lambdabot
+http://www.haskell.org/haskellwiki/Monomorphism_restriction	dmr		lambdabot
+http://www.haskell.org/haskellwiki/Monomorphism_restriction	mr		lambdabot
+http://www.haskell.org/haskellwiki/Monomorphism_restriction	tdmr		lambdabot
+http://www.haskell.org/haskellwiki/Parallel	parallel		lambdabot
+http://www.haskell.org/haskellwiki/Pattern_guard	pattern	guard  ... 	lambdabot
+http://www.haskell.org/haskellwiki/Pattern_guard	pattern-guards		lambdabot
+http://www.haskell.org/haskellwiki/Physical_units	units		lambdabot
+http://www.haskell.org/haskellwiki/Sudoku	sudoku		lambdabot
+http://www.haskell.org/haskellwiki/TV	tv	"TV is a library for composing /tangible values/, i.e., values that carry along external interfaces. In particular, TVs can be composed to create new TVs, /and/ they can be directly executed with a friendly GUI, a process that reads and writes character streams, or many other kinds interfaces. Values and interfaces are /combined/ for direct use, and /separable/ for composition."  ... 	lambdabot
+http://www.haskell.org/haskellwiki/The_Monad.Reader/Issue4/Why_Attribute_Grammars_Matter	agmatters		lambdabot
+http://www.haskell.org/haskellwiki/Typeclassopedia	typeclassopedia		lambdabot
+http://www.haskell.org/haskellwiki/VirtuaHac	virtuahac		lambdabot
+http://www.haskell.org/haskellwiki/Xmonad/Notable_changes_since_0.8	notable		lambdabot
+http://www.haskell.org/haskellwiki/Xmonad/Notable_changes_since_0.8	xmonad-changelog		lambdabot
+http://www.haskell.org/haskellwiki/Yi	yi		lambdabot
+http://www.haskell.org/haskellwiki/Zipper	zipper		lambdabot
+http://www.haskell.org/hat	hat-anim		lambdabot
+http://www.haskell.org/hat	hat-detect		lambdabot
+http://www.haskell.org/hat	hat-observe		lambdabot
+http://www.haskell.org/hat	pretty-hat		lambdabot
+http://www.haskell.org/hat/	hat		lambdabot
+http://www.haskell.org/himerge/	himerge		lambdabot
+http://www.haskell.org/http/	http		lambdabot
+http://www.haskell.org/mailman/listinfo/haskell	haskell@		lambdabot
+http://www.haskell.org/mailman/listinfo/haskell-cafe	haskell-cafe		lambdabot
+http://www.haskell.org/mailman/listinfo/haskell-cafe	haskell-cafe@		lambdabot
+http://www.haskell.org/onlinereport/	rtfr		lambdabot
+http://www.haskell.org/onlinereport/haskell2010/	h10		lambdabot
+http://www.haskell.org/onlinereport/haskell2010/	h2010		lambdabot
+http://www.haskell.org/onlinereport/haskell2010/	haskell2010		lambdabot
+http://www.haskell.org/onlinereport/haskell2010/	report	(more: http://www.haskell.org/haskellwiki/Definition)	lambdabot
+http://www.haskell.org/onlinereport/haskell2010/haskellch2.html#x7-210002.7	layout2010		lambdabot
+http://www.haskell.org/onlinereport/haskell2010/haskellch3.html#x8-480003.14	do	The rules of do notation:  ... (Note that "do { v <- m; ... }" is the same as "m >>= \v -> do { ... }" when v is a variable, rather than a more complex pattern.)	lambdabot
+http://www.haskell.org/onlinereport/haskell2010/haskellch8.html	ffi		lambdabot
+http://www.haskell.org/onlinereport/haskell2010/haskellch8.html	ﬃ		lambdabot
+http://www.haskell.org/onlinereport/standard-prelude.html	prelude		lambdabot
+http://www.haskell.org/onlinereport/standard-prelude.html	standard-prelude		lambdabot
+http://www.haskell.org/pipermail/cvs-ghc/	cvs-ghc		lambdabot
+http://www.haskell.org/pipermail/glasgow-haskell-users/	glasgow-haskell-users		lambdabot
+http://www.haskell.org/pipermail/haskell/2004-June/014134.html	topology	"topology in Haskell"  ... and "Synthetic topology of data types and classical spaces" <http://www.cs.bham.ac.uk/~mhe/papers/entcs87.(pdf|dvi|ps)> by Martín Escardó	lambdabot
+http://www.haskell.org/pipermail/haskell/2006-August/018355.html	type-level-lambda-calculus		lambdabot
+http://www.haskell.org/pipermail/haskell/2009-November/021750.html	h10.announcement		lambdabot
+http://www.haskell.org/pipermail/haskell/2011-January/022497.html	nodatatypecontexts		lambdabot
+http://www.haskell.org/pipermail/xmonad/2009-November/009060.html	xmonad-0.9-ubuntu	[karmic]  ... | [older ubuntu releases] https://launchpad.net/~gspreemann/+archive/haskell	lambdabot
+http://www.haskell.org/th	th		lambdabot
+http://www.haskell.org/tmrwiki/IssueSix	pronunciation		lambdabot
+http://www.haskell.org/tmrwiki/JoinHs	joinhs		lambdabot
+http://www.haskell.org/tmrwiki/WhyAttributeGrammarsMatter	attribute	grammars matter  ... 	lambdabot
+http://www.haskell.org/tutorial/	gentle		lambdabot
+http://www.haskell.org/tutorial/	tutorial		lambdabot
+http://www.haskell.org/yampa/	yampa		lambdabot
+http://www.hoovy.org/HaskellXcodePlugin/	xcode		lambdabot
+http://www.htdp.org/	htdp		lambdabot
+http://www.iai.uni-bonn.de/~loeh/exi/	exi		lambdabot
+http://www.ibiblio.org/zen/cgi-bin/koan-index.pl	gateless-gate	"The Gateless Gate/Barrier" by Ekai (called Mumon / Wumen Huikai) in early 1200s century at  ... 	lambdabot
+http://www.ibiblio.org/zen/cgi-bin/koan-index.pl	zen-koans	"The Gateless Gate/Barrier" by Ekai (called Mumon) in early 1200s century at  ... "Blue Cliff Record","Entangling Vines","Collection of Wings of the Blackbird"	lambdabot
+http://www.ieeeghn.org/wiki/images/b/bd/Memristor_chua_article.pdf	memristors		lambdabot
+http://www.imperialviolet.org/binary/bitsyntax/	bitsyntax		lambdabot
+http://www.impredicative.com/ur/	ur	Ur and Ur/Web by Adam Chlipala (aka Smerdyakov) at  ... and #ur -- Ur is a functional, pure, statically-typed, and strict programming language, supporting a powerful kind of metaprogramming based on row types. Ur/Web is Ur plus a special standard library and associated rules for parsing and optimization, supporting construction of dynamic web applications backed by SQL databases.	lambdabot
+http://www.info.ucl.ac.be/~pvr/book.html	ctm	"Concepts, Techniques, and Models of Computer Programming", by Peter Van Roy,Seif Haridi, at  ... 	lambdabot
+http://www.informatik.uni-freiburg.de/~thiemann/haskell/WASH/	wash		lambdabot
+http://www.informatik.uni-freiburg.de/~wehr/software/haskell/#hscurses	hscurses		lambdabot
+http://www.informatik.uni-kiel.de/~mh/curry/	curry		lambdabot
+http://www.inutile.ens.fr/estatis/falso/	falso		lambdabot
+http://www.jantar.org/lambdaTeX/	lambdatex		lambdabot
+http://www.joelonsoftware.com/articles/Unicode.html	unicode		lambdabot
+http://www.jsoftware.com	j	The J Programming language:  ... 	lambdabot
+http://www.lambdassociates.org/aboutqi.htm	qi		lambdabot
+http://www.learnyou.org/	lysa		lambdabot
+http://www.learnyouahaskell.com/	lyah		lambdabot
+http://www.leksah.org/	leksah		lambdabot
+http://www.lix.polytechnique.fr/~dale/lProlog/	lambdaprolog		lambdabot
+http://www.macs.hw.ac.uk/~sebc/hOp/	hop		lambdabot
+http://www.madore.org/~david/programs/unlambda/	unlambda		lambdabot
+http://www.mail-archive.com/haskell-cafe@haskell.org/msg21306.html	perils		lambdabot
+http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/Awodey.pdf	awodey		lambdabot
+http://www.mathbin.net/	mathbin		lambdabot
+http://www.mathbin.net/	mathpaste		lambdabot
+http://www.mathematik.uni-marburg.de/~eden/	eden	"Eden: Parallel Functional Programming with Haskell"  ... 	lambdabot
+http://www.mhs.ox.ac.uk/epact/picturel.asp?record=95&enumber=40428&level=overview&sort=InstrumentTypeWithoutMarkup&searchtext=	astrolabe		lambdabot
+http://www.mutantlemon.com/omegagb/	omegagb		lambdabot
+http://www.n-heptane.com/nhlab/repos/NewBinary	newbinary	darcs get  ... 	lambdabot
+http://www.nondot.org/sabre/Mirrored/AdvProgLangDesign/	apld	"Advanced Programming Language Design" by Raphael Finkel in 1996 at  ... 	lambdabot
+http://www.norvig.com/paip.html	paip	"Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp" by Peter Norvig in 1992 at  ... <http://www.norvig.com/paip/README.html>,<https://github.com/norvig/paip-lisp>	lambdabot
+http://www.piepalace.ca/blog/asperger-test-aq-test/	aqtest		lambdabot
+http://www.piepalace.ca/blog/asperger-test-aq-test/	asperger		lambdabot
+http://www.plnews.org	plnews		lambdabot
+http://www.programmersstone.com/	programmers-stone	"The Programmers Stone" by Alan Carten,Colston Sanger at ( ... )<https://web.archive.org/web/20170726213452/http://the-programmers-stone.com/about>,<http://web.archive.org/web/20000819042340/http://www.reciprocality.org/Reciprocality/r0/index.html>,<https://web.archive.org/web/19980627062945/http://www.melloworld.com/ProgStone/progstone.html>, cf. <http://wiki.c2.com/?ProgrammersStone>	lambdabot
+http://www.prometheus-music.com/audio/eternalflame.mp3	eternalflame	"The Eternal Flame" ("God Wrote in LISP Code"), lyrics by Bob Kanefsky, performed by Julia Ecklar, in 1996-07-29 at  ... <http://www.songworm.com/lyrics/songworm-parody/EternalFlame.html>,<http://www.songworm.com/db/songworm-parody/EternalFlame.html>,<http://www.prometheus-music.com/roundworm.html>	lambdabot
+http://www.pugscode.org/	pugs		lambdabot
+http://www.randomhacks.net/articles/2007/03/10/haskell-8-ways-to-report-errors	error		lambdabot
+http://www.realworldhaskell.org/	realworldhaskell		lambdabot
+http://www.realworldhaskell.org/blog/	rwh	http://book.realworldhaskell.org/read/ https://github.com/tssm/up-to-date-real-world-haskell	lambdabot
+http://www.reddit.com/r/programming/comments/7cf4r/monoids_in_my_programming_language/c06adnx	monoids	comment on "Monoids? In my programming language?" by Cale in 2008 (or 2009 ?) at  ... about a use of `instance Monoid a => Monoid (rho -> a)'	lambdabot
+http://www.reddit.com/tb/agkls	hinam		lambdabot
+http://www.seas.upenn.edu/~cis194/lectures.html	yorgey		lambdabot
+http://www.serpentine.com/blog/2008/02/06/the-basics-of-applicative-functors-put-to-practical-work/	applicativeparsec	and http://book.realworldhaskell.org/read/using-parsec.html#id652399	lambdabot
+http://www.serpentine.com/blog/2009/09/29/criterion-a-new-benchmarking-library-for-haskell/	criterion		lambdabot
+http://www.serpentine.com/software/mysql/	mysql		lambdabot
+http://www.serpentine.com/software/pcap/	pcap		lambdabot
+http://www.shirky.com/writings/ontology_overrated.html	ontology		lambdabot
+http://www.sourceforge.net/projects/qforeign/	qforeign		lambdabot
+http://www.spoj.pl/	spoj		lambdabot
+http://www.srcf.ucam.org/~bm380/cgi-bin/stepeval.cgi	stepeval	<https://github.com/bmillwood/stepeval>	lambdabot
+http://www.stefanwehr.de/darcs/HTF	htf		lambdabot
+http://www.uploadthis.co.uk/uploads/Twigathy/timetable.html	twig		lambdabot
+http://www.vex.net/~trebla/	trebla		lambdabot
+http://www.vex.net/~trebla/haskell/cabal-cabal.xhtml	cabal-cabal		lambdabot
+http://www.vex.net/~trebla/haskell/cont-monad.xhtml	setjmp		lambdabot
+http://www.vex.net/~trebla/haskell/crossroad.xhtml	crossroad		lambdabot
+http://www.vex.net/~trebla/haskell/haskell-platform.xhtml	haskell-platform.xhtml		lambdabot
+http://www.vex.net/~trebla/haskell/lazy.xhtml	lazy	"Lazy Evaluation of Haskell" by monochrom at  ... ; "The Incomplete Guide to Lazy Evaluation (in Haskell)" by apfelmus in 2015-03-07 at <https://apfelmus.nfshost.com/articles/lazy-eval.html>; "Laziness, strictness, guarded recursion" by bitemyapp at <https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md#user-content-laziness-strictness-guarded-recursion>	lambdabot
+http://www.vex.net/~trebla/haskell/prerequisite.xhtml	prereqs		lambdabot
+http://www.vex.net/~trebla/haskell/prerequisite.xhtml	prerequisite	"Prerequisite for Learning Haskell"  ... 	lambdabot
+http://www.vex.net/~trebla/haskell/siCp.xhtml	cobol-install	"Storage and Identification of COBOLized Packages" at  ... 	lambdabot
+http://www.vex.net/~trebla/haskell/sicp.xhtml	sicp-cabal		lambdabot
+http://www.vex.net/~trebla/haskell/sicp.xhtml	sicp.xhtml	/me . o O ( "Storage and Identification of Cabalized Packages" by Albert Y. C. Lai at  ... )	lambdabot
+http://www.vex.net/~trebla/haskell/sicp.xhtml#remove	uninstall	Uninstall, what's that ? -- Also see  ... 	lambdabot
+http://www.vex.net/~trebla/weblog/any-all-some.html	any		lambdabot
+http://www.videolan.org/	vlc		lambdabot
+http://www.vmware.com/	vmware		lambdabot
+http://www.willamette.edu/~fruehr/haskell/evolution.html	evolution		lambdabot
+http://www.xs4all.nl/~weegen/eelis/geordi/	geordi		lambdabot
+http://www.youtube.com/user/TheCatsters	catsters		lambdabot
+http://www.youtube.com/watch?v=eLS6GHXWMpA	music1		lambdabot
+http://www.youtube.com/watch?v=xaoLbKWMwoU	music2		lambdabot
+http://www2.macs.hw.ac.uk/~rahli/cgi-bin/slicer/	type_error_slicer	for SML	lambdabot
+http://wxhaskell.sourceforge.net/	wxhaskell		lambdabot
+http://xmonad.org/	xmonad	#xmonad |  ... 	lambdabot
+http://xmonad.org/xmonad-docs/xmonad-contrib/	xmonad-contrib		lambdabot
+http://xyproblem.info/	xy		lambdabot
+http://yesodweb.com/	yesod	Web Framework - #yesod -  ... <http://www.yesodweb.com/page/quickstart>,<http://www.yesodweb.com/book>	lambdabot
+http://zoo.cs.yale.edu/classes/cs490/03-04b/bartholomew.robinson/	wxfruit		lambdabot
+https://adventofcode.com/	aoc		lambdabot
+https://amturing.acm.org/award_winners/backus_0703524.cfm	backus	"Can Programming Be Liberated from the von Neumann Style?: A Functional Style and Its Algebra of Programs" (Turing Award lecture) by John Warner Backus in 1977-10-17 at  ... <http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf>	lambdabot
+https://apfelmus.nfshost.com/blog/2013/08/21-space-invariants.html	spaceleaks		lambdabot
+https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html	algebra-cheatsheet	A Brief Guide to A Few Algebraic Structures by Julie Moronuki	lambdabot
+https://arxiv.org/pdf/1302.6946.pdf	ski-papers		lambdabot
+https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/	ctfp	"Category Theory for Programmers" by Bartosz Milewski in 2018-10-21 at  ... <https://github.com/hmemcpy/milewski-ctfp-pdf>	lambdabot
+https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast	haskell-for-the-elm-enthusiast		lambdabot
+https://blog.plover.com/prog/haskell/numbers.html	numbers	A map of Haskell's numeric types	lambdabot
+https://blogs.msdn.microsoft.com/ralflammel/2008/09/19/strategometatheory/	stratego	<https://userpages.uni-koblenz.de/~laemmel/isabelle2/>	lambdabot
+https://bpa.st/	paste2		lambdabot
+https://bugs.archlinux.org/task/54561	arch-ld-bug		lambdabot
+https://cabal.readthedocs.io	cabal	flexible haskell build tool	lambdabot
+https://cabal.readthedocs.io	cabal-guide	Cabal User Guide	lambdabot
+https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run	cabal-script	single-file Haskell scripts with cabal	lambdabot
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3014	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at "icfp-2002.pdf"  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
+https://code.world	codeworld	and https://code.world/haskell - web-based haskell-like and haskell coding and learning environment	lambdabot
+https://cs.au.dk/~mis/typeinf.p(s|df)	polymorphic-type-inference	"Polymorphic Type Inference" by Michael I. Schwartzbach in 1995-03 at  ... <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.1493>	lambdabot
+https://docs.haskellstack.org	stack-guide		lambdabot
+https://docs.haskellstack.org/en/stable/faq	stack-faq		lambdabot
+https://docs.haskellstack.org/en/stable/topics/scripts	stack-script		lambdabot
+https://docs.haskellstack.org/en/stable/yaml_configuration/#system-ghc	to use only system/ghcup GHC, configure system-ghc:true, install-ghc:false in ~/.stack/config.yaml
+https://downloads.haskell.org/~ghc/7.4.1/docs/html/libraries/ghc-prim-0.2.0.0/src/GHC-Tuple.html	manuel		lambdabot
+https://downloads.haskell.org/~ghc/latest/docs/html/users_guide	ghc-guide		lambdabot
+https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/type-class-extensions.html#functional-dependencies	fundep		lambdabot
+https://drive.google.com/file/d/1OfcnkoTCxWUaTGc570oV-D8fWx30Lvtx/view	adaptive	"Adaptive Functional Programming" by Umut Acar,Blelloch,Harper in 2002 (POPL) at  ... and in 2006 (TOPLAS) at <https://drive.google.com/file/d/1bAYubdbZ9VjO_y5-DoYXKSiuyid0sX4Z/view>; <https://www.umut-acar.org/publications>	lambdabot
+https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours	scheme		lambdabot
+https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours	wyas		lambdabot
+https://errors.haskell.org	errors	the Haskell Error Index	lambdabot
+https://fplab.bitbucket.io/posts.html	fplunch		lambdabot
+https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling	crosscompilation		lambdabot
+https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling	crosscompiling		lambdabot
+https://ghc.haskell.org/trac/ghc/wiki/Commentary	commentary		lambdabot
+https://ghc.haskell.org/trac/ghc/wiki/LanguagePragmaHistory	pragma-history		lambdabot
+https://gist.github.com/merijn/8152d561fb8b011f9313c48d876ceb07	cabal-stack-disambiguation	"The Cabal/Stack Disambiguation Guide" at  ... by Merijn	lambdabot
+https://gist.github.com/pervognsen/0e1be3b683d62b16fd81381c909bf67e	array-views	"Multi-dimensional array views for systems programmers" by pervognsen (Per Vognsen) at 2019-01-20(?) - 2019-04-30 at  ... 	lambdabot
+https://gist.github.com/simonmichael/6f95f7d72048649a9ba05c7b31e44968	browser-keywords	time-saving Haskell-related url macros	lambdabot
+https://gist.github.com/simonmichael/7c7004bf3f462fdc95e79d72779e4431	chatgpt-parsec	transcript of a ChatGPT-assisted parsec programming session	lambdabot
+https://git-scm.com/book/en	gitbook		lambdabot
+https://git.tomsmeding.com/yahb2	yahb2		lambdabot
+https://github.com/DanBurton/sexy	sexy	- a Sexier Prelude (under development)	lambdabot
+https://github.com/Helium4Haskell/helium	helium	Haskell subset for beginners, improved diagnostics (incl. eDSLs). See  ... <https://hackage.haskell.org/package/helium>,<https://web.archive.org/web/20160624222240/http://foswiki.cs.uu.nl/foswiki/Helium/WebHome>,<https://web.archive.org/web/20210907032911/http://www.cs.uu.nl/research/projects/helium/>,<https://www.open.ou.nl/bhr/HeliumCompiler.html>	lambdabot
+https://github.com/bitemyapp/learnhaskell	guide		lambdabot
+https://github.com/bitemyapp/learnhaskell	to-begin		lambdabot
+https://github.com/bitemyapp/learnhaskell	to-start		lambdabot
+https://github.com/byorgey/haskell-course	cis194	<https://www.seas.upenn.edu/~cis194/spring13/lectures.html>	lambdabot
+https://github.com/chrisdone/chrisdone-emacs/tree/master/packages/lpaste	lpaste.el	chrisdone's `lpaste-region' for Emacs at  ... 	lambdabot
+https://github.com/chrisdone/hindent/	hindent		lambdabot
+https://github.com/chrisdone/structured-haskell-mode	shm		lambdabot
+https://github.com/data61/fp-course	data61	Data61 Functional Programming Course  ... <https://qfpl.io/links/2017-october-fp-course/> by Tony Morris,Mark Hibberd. Also see the channel #qfpl	lambdabot
+https://github.com/dnikolovv/practical-haskell	practical-haskell-bits		lambdabot
+https://github.com/dwmkerr/hacker-laws	hacker-laws	(quotes) `Kernighan'sLaw',`Kernighan&Plauger',`Postel'sLaw',`Wadler'sLaw'. cf.  ... 	lambdabot
+https://github.com/ekmett/lens/wiki/FAQ	lens-faq		lambdabot
+https://github.com/gtache/intellij-lsp/issues/125	ghcide-intellij		lambdabot
+https://github.com/haskell-learning-group/haskell-learning-group	mentor		lambdabot
+https://github.com/haskell-learning-group/haskell-learning-group	mentors		lambdabot
+https://github.com/jonascarpay/calligraphy	call-graph	https://jonascarpay.com/posts/2022-04-26-calligraphy-tutorial.html	lambdabot
+https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source	source	The fixed database for the `src' lambdabot command is at  ... 	lambdabot
+https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source	src	The fixed database for the `src' lambdabot command is at  ... 	lambdabot
+https://github.com/lspitzner/exference	exference	Djinn on steroids: recursive types, typeclasses, etc.  ... or in #haskell: :exf "Monad m => m (m a) -> m a"	lambdabot
+https://github.com/nicta/course	nicta		lambdabot
+https://github.com/paulmillr/happstack-imageboard	imageboard		lambdabot
+https://github.com/quchen/articles/blob/master/algebraic-blindness.md	algebraic-blindness		lambdabot
+https://github.com/quchen/articles/blob/master/loeb-moeb.md	loeb		lambdabot
+https://github.com/quchen/stgi	stgi		lambdabot
+https://github.com/sdiehl/wiwinwlh/blob/master/tutorial.md	wiwik	"What I Wish I Knew When Learning Haskell" by Stephen Diehl at  ... <https://web.archive.org/web/20220513191346/https://dev.stephendiehl.com/hask/>	lambdabot
+https://github.com/treblacy/cabalgc	cabalgc		lambdabot
+https://github.com/xmonad/xmonad/issues/174#issuecomment-1118020397	kde		lambdabot
+https://gitlab.com/benz0li/ghc-musl	ghc-musl		lambdabot
+https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status	ghc-status		lambdabot
+https://gitlab.haskell.org/ghc/ghc/-/wikis/building/hadrian	hadrian		lambdabot
+https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history	boot-libs-versions		lambdabot
+https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history	versions		lambdabot
+https://hackage.haskell.org/package/base	base		lambdabot
+https://hackage.haskell.org/package/cabal-plan	cabal-plan		lambdabot
+https://hackage.haskell.org/package/doctest	doctest		lambdabot
+https://hackage.haskell.org/package/lambdabot	lambdabot	https://github.com/lambdabot/lambdabot	lambdabot
+https://hackage.haskell.org/package/lens-4.15.4/docs/Control-Lens-Plated.html	plated		lambdabot
+https://hackage.haskell.org/package/recursion-schemes	recursion-schemes	. Also see "Functional Programming with Bananas, Lenses, and Barbed Wire" by Erik Meijer,Maarten Fokkinga,Ross Paterson in 1991 at <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125>,`AoP'	lambdabot
+https://hackage.haskell.org/package/syb	syb	<http://www.haskell.org/haskellwiki/Scrap_your_boilerplate>,<https://www.haskell.org/haskellwiki/Applications_and_libraries/Generic_programming/SyB>,`SYB-papers',<http://research.microsoft.com/en-us/um/people/simonpj/papers/hmap/>,<http://homepages.cwi.nl/~ralf/syb2/>,<http://homepages.cwi.nl/~ralf/syb3/>	lambdabot
+https://haskell-docs.netlify.app	hng	Haskell Newcomer Guide,  ... 	lambdabot
+https://haskell-game.dev	gamedev-site	a personal wiki presenting a selection of haskell games	lambdabot
+https://haskell-haddock.readthedocs.io	haddock-guide		lambdabot
+https://haskell-links.org	- searchable Haskell links, collected with @where
+https://haskell-links.org	links	collected Haskell links and search tools, including @where links	lambdabot
+https://haskell-via-sokoban.nomeata.de	sokoban	- learn Haskell by building a Sokoban game	lambdabot
+https://haskell.foundation	foundation		lambdabot
+https://haskell.foundation/hs-opt-handbook.github.io/contents.html	hs-opt-handbook	Haskell Optimization Handbook	lambdabot
+https://haskell.fpcomplete.com/school	soh	School of Haskell  ... 	lambdabot
+https://haskell.godbolt.org	godbolt	paste code snippets/files, see them compiled by different ghc versions	lambdabot
+https://haskell.org/haskellwiki/Haskell/Pointfree	pointfree	<https://pointfree.io/>	lambdabot
+https://haskell.org/haskellwiki/Haskell/Pointfree	pointless	<https://pointfree.io/>	lambdabot
+https://haskellstack.org	stack	all-in-one haskell installer/reproducible build tool, an alternative to cabal-install	lambdabot
+https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html	ultimate-string-guide		lambdabot
+https://homepages.inf.ed.ac.uk/wadler/topics/agda.html#plfa	plfa	"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Jeremy G. Siek,Philip Wadler in 2018-(01-06) at  ... <https://plfa.inf.ed.ac.uk/>,<https://plfa.github.io/>,<https://github.com/plfa/plfa.github.io/>	lambdabot
+https://homepages.inf.ed.ac.uk/wadler/topics/monads.html	wadler-monads	Monad(ic (, idiomatic/applicative and arrow) effects) introduction papers by Philip Wadler in 1992-01 - 2010 at  ... . Start from oldest. Perhaps skip the ones touching upon composable continuations, idioms, constraints, arrows, on a first read	lambdabot
+https://hoogle.haskell.org	hoogle		lambdabot
+https://hub.darcs.net/simon/cabal-install-tutorial	cabal-install-v1-tut	How to cabal install [2013, cabal v1]	lambdabot
+https://hub.darcs.net/simon/cabal-install-tutorial#when-it-wont-install-cabal-hell	cabal-hell	[2013]	lambdabot
+https://i.imgur.com/5d3ENYQ.gif	mrrogers		lambdabot
+https://i.pinimg.com/originals/14/f7/1a/14f71aa17a7ab289b3603e2a7272279d.jpg	partialcredit		lambdabot
+https://ircbrowse.tomsmeding.com	irc-logs	logs of some haskell IRC channels	lambdabot
+https://ircbrowse.tomsmeding.com	ircbrowse		lambdabot
+https://ircbrowse.tomsmeding.com/browse/lchaskell	logs	http://tunes.org/~nef/logs/haskell/ http://meme.b9.com/cdates.html?channel=haskell	lambdabot
+https://joyofhaskell.com	fsaf	"Finding Success And Failure" by Julie Moronukie,Chris Martin in 2019 for $25 at  ... 	lambdabot
+https://kbin.social/m/haskell/newest	kbin		lambdabot
+https://kowainik.github.io/posts/deriving	strategic-deriving	"Strategic Deriving" by Veronika Romashkina,Dmitrii Kovanikov in 2020-09-21 at  ... 	lambdabot
+https://launchpad.net/~gspreemann/+archive/haskell	xmonad-0.9-jaunty		lambdabot
+https://launchpad.net/~hvr/+archive/ubuntu/ghc	ppa		lambdabot
+https://leanpub.com/functional-design-and-architecture	fdaa	Functional Design and Architecture,  ... 	lambdabot
+https://leanpub.com/haskell-cookbook	htac	"Haskell Tutorial and Cookbook" by Mark Watson in 2017-09-04 at  ... 	lambdabot
+https://leanpub.com/production-haskell	ph	2023 book	lambdabot
+https://leanpub.com/thinking-with-types	twt	"Thinking with Types: Type-Level Programming in Haskell" by Sandy Maguire in 2019-01-10 at  ... 	lambdabot
+https://learnxinyminutes.com/docs/haskell	learnxinyminutes		lambdabot
+https://lemmy.world/search?q=haskell&type=Communities	lemmy		lambdabot
+https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/	parse-don't-validate	"Parse, don't validate" by lexi-lambda in 2019-11-05 at  ... 	lambdabot
+https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/	pdv	"Parse, don't validate" by lexi-lambda in 2019-11-05 at  ... 	lambdabot
+https://lexi-lambda.github.io/hackett/	hackett	"Haskell with a phased, hygienic macro system" by lexi-lambda at  ... <http://docs.racket-lang.org/hackett/index.html>,<https://lexi-lambda.github.io/tags/hackett.html>	lambdabot
+https://lhbg-book.link	lhbg	- Learn Haskell by building a blog generator, a highly-regarded learning resource	lambdabot
+https://limnoria.net	goodbot	Among sm[m]'s favourites:  ... 	lambdabot
+https://mail.haskell.org/pipermail/libraries/2012-February/017548.html	fairbairn		lambdabot
+https://neilmitchell.blogspot.se/2014/07/applicative-vs-monadic-build-systems.html	applicative-vs-monadic	"Applicative vs Monadic build systems" by ndm in 2014-07-23 at  ... . (cf. "static sequencing" vs. "dynamic sequencing")	lambdabot
+https://news.ycombinator.com/item?id=31664490	haskell-apps-2022	list of apps written in Haskell	lambdabot
+https://nicolaspouillard.fr/publis/nameless-painless.pdf	nameless	Nameless, Painless:  ... 	lambdabot
+https://oeis.org/	oeis		lambdabot
+https://paste.tomsmeding.com	paste	Help us help you: please paste full code, input and/or output at e.g.  ... 	lambdabot
+https://paste.tomsmeding.com	pastebin	Help us help you: please paste full code, input and/or output at e.g.  ... 	lambdabot
+https://paste.tomsmeding.com	pastecabalstack	Help us help you: at  ... https://gist.github.com or https://termbin.com, please paste your failing command, full output, and .cabal, package.yaml and/or stack.yaml files	lambdabot
+https://paste.tomsmeding.com/	paste3	tomsmeding's proof that programming > discussing:  ... 	lambdabot
+https://patrickmn.com/software/the-haskell-pyramid/	haskell-pyramid		lambdabot
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf	memory	"What Every Programmer Should Know About Memory" by Ulrich Drepper in 2007-11-21 at  ... ; see also <https://lwn.net/Articles/250967/>	lambdabot
+https://personal.cis.strath.ac.uk/conor.mcbride/pub/OAAO/LitOrn.pdf	oaao		lambdabot
+https://phabricator.haskell.org/w/projects/haskell.org_infrastructure/server_admin_log/	adminlog		lambdabot
+https://philipnilsson.github.io/Badness10k/escaping-hell-with-monads/	escaping-hell	(non-tutorial teaser) "Escaping Hell with Monads" by Philip Nillson in 2017-05-08 at  ... 	lambdabot
+https://play.haskell.org	playground	paste code snippets, see it compiled by different ghc versions	lambdabot
+https://pvp.haskell.org/	pvp		lambdabot
+https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html	zerotohero	Jargon-free language intro:  ... 	lambdabot
+https://raw.githubusercontent.com/mxswd/flip-plus/master/Control/FlipPlus.hs	flip-plus		lambdabot
+https://research.ibm.com/haifa/ponderthis/index.shtml	ponder		lambdabot
+https://ro-che.info/ccc/17	type-intersection	Euler diagram of intersections between "Proponents of static typing","Propoents of dynamic typing","People familiar with type theory" by Roman Cheplyaka,Maria Kovalyovain 2012-11-05 at  ... 	lambdabot
+https://silicon.int-e.eu/lambdabot/State/	state		lambdabot
+https://silicon.int-e.eu/lambdabot/State/Pristine.hs	l.hs	what lambdabot has in scope is at  ... 	lambdabot
+https://stackage.org/lts	stackage-lts	current stable Stackage snapshot of packages, using a not-too-cutting-edge GHC	lambdabot
+https://stackage.org/nightly	stackage-nightly	latest nightly Stackage snapshot of packages, using a semi-recent GHC	lambdabot
+https://status.haskell.org	status	<http://auto-status.haskell.org/>,<https://twitter.com/haskellstatus>	lambdabot
+https://typeclasses.com/phrasebook	haskell-phrasebook		lambdabot
+https://typeclasses.com/phrasebook	phrasebook	- cursory overview of selected Haskell features, jumping-off points for further reading, and recommendations to help get you writing programs as soon as possible	lambdabot
+https://typeclasses.com/phrasebook	thp	The Haskell Phrasebook - free quick-start guide by Julie Moronukie/Chris Martin, 2019 -  ... 	lambdabot
+https://ucsd-progsys.github.io/liquidhaskell-blog/	liquidhaskell	"LiquidHaskell (LH) _refines_ Haskell's types with logical predicates that let you enforce critical properties at _compile time_."  ... <https://github.com/ucsd-progsys/liquidhaskell>,<http://hackage.haskell.org/package/liquidhaskell>	lambdabot
+https://view.matrix.org/?query=haskell	matrix-logs	logs of matrix rooms matching "haskell" with public history	lambdabot
+https://view.matrix.org/alias/%23haskell:matrix.org	matrix-logs-haskell	log of the main haskell matrix chat room, #haskell:matrix.org	lambdabot
+https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/	zen-tales	"Tales of Zen Master Greg" (in 2001 ??) at  ... 	lambdabot
+https://web.archive.org/web/20201108001845/https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf	mtss	"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at  ... 	lambdabot
+https://web.archive.org/web/20210917054102/https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf	pfds	"Purely Functional Data Structures" by Chris Okasaki : Ph. D. thesis in 1996-09 at  ... ; book in ((1st ed.) 1998-04-13 -) 1999-06-13 at <https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504>	lambdabot
+https://web.archive.org/web/20220121105027/https://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/	existential-antipattern	"Haskell Antipattern: Existential Typeclass" by Luke Palmer at  ... 	lambdabot
+https://web.archive.org/web/20221208185730/https://www-users.mat.umk.pl/~fly/materialy/fp/haskell-doc/Monads.html	hell-monads	"What the hell are Monads?" by Noel Winstanley in 1999-02 at  ... <https://web.archive.org/web/19991018214519/http://www.dcs.gla.ac.uk/~nww/Monad.html>. Possibly the first (non-paper) general monad tutorial	lambdabot
+https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski	strafunski		lambdabot
+https://wiki.haskell.org/Base_package	ghc-base		lambdabot
+https://wiki.haskell.org/FAQ	faq	The general Haskell FAQ. See https://haskell-links.org/?q=faq for others	lambdabot
+https://wiki.haskell.org/GHC/FAQ	ghc-faq		lambdabot
+https://wiki.haskell.org/Haskell_Communities_and_Activities_Report	hcar		lambdabot
+https://wiki.haskell.org/Import	import		lambdabot
+https://wiki.haskell.org/Import	importing		lambdabot
+https://wiki.haskell.org/Introduction#Other_frequently-asked_questions	intro-faq		lambdabot
+https://wiki.haskell.org/Learning_Haskell	learn		lambdabot
+https://wiki.haskell.org/Learning_Haskell	learnhaskell		lambdabot
+https://wiki.haskell.org/Monomorphism_restriction	mmr		lambdabot
+https://wiki.haskell.org/Monomorphism_restriction	monomorphismrestriction		lambdabot
+https://wiki.haskell.org/ScopedTypeVariables	scopedtypevariables	(remember to add "forall")	lambdabot
+https://wiki.haskell.org/Template_Haskell	templatehaskell		lambdabot
+https://wiki.haskell.org/Time	time		lambdabot
+https://www.cis.upenn.edu/~bcpierce/attapl/	attapl	"Advanced Topics in Types and Programming Languages" edited by Benjamin C. Pierce in 2004-12-23 at  ... 	lambdabot
+https://www.cis.upenn.edu/~bcpierce/tapl/	tapl	"Types and Programming Languages" by Benjamin C. Pierce in 2002-02-01 at  ... 	lambdabot
+https://www.cs.indiana.edu/eopl/	eopl	Essentials of Programming Languages by Friedman, Wand and Haynes in 2001  ... 	lambdabot
+https://www.cs.indiana.edu/~sabry/papers/purelyFunctional.ps	purely-functional	"What is a Purely Functional Language?" by Amr Sabry in 1993-01 at  ... 	lambdabot
+https://www.cs.ox.ac.uk/news/237-full.html	pfad	"Pearls of Functional Algorithm Design" by Richard Bird in in 2010-09 at  ... 	lambdabot
+https://www.cs.ox.ac.uk/publications/books/algebra/	aop	"Algebra of Programming" by Richard Bird,Oege de Moor in 1996 at  ... <http://lambda-the-ultimate.org/node/1117>,<http://wiki.c2.com/?AlgebraOfProgramming>,<https://www.goodreads.com/book/show/2727190-algebra-of-programming>,&c.	lambdabot
+https://www.cs.ox.ac.uk/publications/books/fop/	fop	"The Fun of Programming" edited by Jeremy Gibbons,Oege de Moor in 2003-03-27 at  ... 	lambdabot
+https://www.cs.ox.ac.uk/publications/books/functional/	tfwh	"Thinking Functionally with Haskell" by Richard Bird in 2014-10 at  ... 	lambdabot
+https://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html	oplss2010		lambdabot
+https://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html	oplss2011		lambdabot
+https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html	oplss2012		lambdabot
+https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html	oplss2013		lambdabot
+https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html	oplss2014		lambdabot
+https://www.cs.uoregon.edu/research/summerschool/summerYEAR/curriculum.html)	oplss	you can find original OPLSS videos here ( ... by replacing YEAR with a two-digit year (starting with 05). you can also find many videos on youtube. years 2010 to 2014 are also stored in @where (eg @where oplss2012).	lambdabot
+https://www.destroyallsoftware.com/talks/wat	wat		lambdabot
+https://www.extrema.is/articles/haskell-books	books	is the best list of Haskell books. See also: LYAH, HTAC, RWH, PH, YAHT, SOE, HR, PIH, TFwH, wikibook, PCPH, HPFFP, FSAF, HftVB, TwT, FoP, PFAD, WYAH, non-haskell-books	lambdabot
+https://www.extrema.is/blog/2022/03/24/ghc-musl-part-1	static-musl-build-posts		lambdabot
+https://www.fpcomplete.com/blog/why-is-stack-not-cabal	why-stack	(2015)	lambdabot
+https://www.fpcomplete.com/haskell/syllabus	appliedhaskell	Applied Haskell syllabus	lambdabot
+https://www.fpcomplete.com/haskell/tutorial/all-about-strictness	strictness		lambdabot
+https://www.fpcomplete.com/haskell/tutorial/operators	operators		lambdabot
+https://www.haskell.org/documentation	doc	Doc starting points:  ... https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell	lambdabot
+https://www.haskell.org/documentation/	docs		lambdabot
+https://www.haskell.org/ghcup	ghcup	GHC/cabal installer for unix platforms:  ... 	lambdabot
+https://www.haskell.org/haskellwiki/Multiplate	multiplate	<https://hackage.haskell.org/package/multiplate>	lambdabot
+https://www.haskell.org/haskellwiki/Research_papers/Generics	generics	`SYB',`Compos',`uniplate',`multiplate',`Plated',`Stratego',`Strafunski',`recursion-schemes',`polytypic',`GenericHaskell', ... <https://www.haskell.org/haskellwiki/Applications_and_libraries/Generic_programming>	lambdabot
+https://www.haskell.org/haskellwiki/Uniplate	uniplate	<https://hackage.haskell.org/package/uniplate>,<http://community.haskell.org/~ndm/uniplate/>,<http://community.haskell.org/~ndm/darcs/uniplate/uniplate.htm>,<https://github.com/ndmitchell/uniplate>,<https://ndmitchell.com/#uniplate_09_oct_2013>,<http://www-users.cs.york.ac.uk/~ndm/uniplate/>	lambdabot
+https://www.haskell.org/onlinereport/haskell2010/haskellch4.html#x10-790004.3.4	defaulting	https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/interactive-evaluation.html#extended-default-rules	lambdabot
+https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2	export		lambdabot
+https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2	exporting		lambdabot
+https://www.haskellfromtheverybeginning.com/	hftvb	"Haskell from the Very Beginning" by John Whitington in 2019-09-30 at  ... 	lambdabot
+https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html	myth-of-ram	"The Myth of RAM" by Emil Ernerfeldt in 2014-04-(21,28,29),2015-02-09 at  ... <https://www.ilikebigbits.com/2014_04_28_myth_of_ram_2.html>,<https://www.ilikebigbits.com/2014_04_29_myth_of_ram_3.html>,<https://www.ilikebigbits.com/2015_02_09_myth_of_ram_4.html>	lambdabot
+https://www.linusakesson.net/programming/kernighans-lever/index.php	kernighans-lever	"Kernighan's lever" by Linus Åkesson in 2012-12-111 at  ... . See also quotes `Kernighan'sLaw',`Kernighan&Plauger'	lambdabot
+https://www.macs.hw.ac.uk/~fairouz/forest/papers/conference-publications/lsfa14.pdf	skalpel	"Skalpel: A Type Error Slicer for SML" by Vincent Rahli,Joe Wells,John Pirie,Fairouz Kamareddine in 2014 at  ... also see <https://web.archive.org/web/20220617202754/http://www.macs.hw.ac.uk/ultra/skalpel/>,<https://github.com/ultra-group/skalpel>	lambdabot
+https://www.manning.com/books/grokking-simplicity	grokkingsimplicity	- well-regarded intermediate/advanced guide to FP in plain language	lambdabot
+https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-a-practical-approach-to-generic-programming/	syb-papers	<https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-with-class/>,<http://www.sigplan.org/Awards/ICFP/#2014_Ralf_L%C3%A4mmel_and_Simon_Peyton_Jones>	lambdabot
+https://www.mit.edu/~jcb/tact.html	tact-filters	"Tact Filters" by Jeff Bigler in 1996,2006 at  ... . Also see `fanspeak'	lambdabot
+https://www.reddit.com/r/haskell/comments/dwkehu/thoughts_on_hie/f7nj2e1/	ghcide-emacs		lambdabot
+https://www.reddit.com/r/haskell/comments/egc8d0/a_few_haskell_highlights_of_2019/fcjr4tv/	cabal-and-stack		lambdabot
+https://www.reddit.com/r/haskell/comments/use5bt/what_are_the_rationales_of_the_functor	symbols-explain	What are the rationales of the functor, applicative, monad operator symbols ?	lambdabot
+https://www.reddit.com/r/haskell/new/	reddit		lambdabot
+https://www.safaribooksonline.com/library/view/parallel-and-concurrent/9781449335939/	parconc		lambdabot
+https://www.scannedinavian.com/	shapr		lambdabot
+https://www.stephendiehl.com/posts/docs.html	wiwik-status		lambdabot
+https://www.tweag.io/blog/2022-05-12-strict-vs-lazy	strict-vs-lazy	Comparing Strict and Lazy	lambdabot
+https://www.umsu.de/trees/	semantic-tableaux	"Tree Proof Generator" by Wolfgang Schwartz in 2001 - 2023-07-15 at  ... <https://github.com/wo/tpg>,<https://www.umsu.de/blog/2021/722>	lambdabot
+https://www.vex.net/~trebla/haskell/IO.xhtml	iotut		lambdabot
+https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/	ski-links	<http://www.medellin.unal.edu.co/~curmat/matdiscretas/doc/Epp.pdf>	lambdabot
+https://www.yesodweb.com/book	yesod-book		lambdabot
+https://www.youtube.com/watch?v=sRonIB8ZStw	stack-tutorial		lambdabot
+https://www.youtube.com/watch?v=zPY42kkRADc	hnan_agda	"Hönan Agda" ("Agda the Chicken") by singer-songwriter,poet Cornelis Vreeswijk at  ... 	lambdabot
+https://xtendo.org/monad#1	monad-fear	excellent slides demystifying IO and Monad	lambdabot
