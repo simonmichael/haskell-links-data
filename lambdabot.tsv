@@ -912,6 +912,7 @@ https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html	ultimate-
 https://homepages.inf.ed.ac.uk/wadler/topics/agda.html#plfa	plfa	"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Jeremy G. Siek,Philip Wadler in 2018-(01-06) at  ... <https://plfa.inf.ed.ac.uk/>,<https://plfa.github.io/>,<https://github.com/plfa/plfa.github.io/>	lambdabot
 https://homepages.inf.ed.ac.uk/wadler/topics/monads.html	wadler-monads	Monad(ic (, idiomatic/applicative and arrow) effects) introduction papers by Philip Wadler in 1992-01 - 2010 at  ... . Start from oldest. Perhaps skip the ones touching upon composable continuations, idioms, constraints, arrows, on a first read	lambdabot
 https://hoogle.haskell.org	hoogle		lambdabot
+https://hoogle.mangoiv.com	mhoogle		lambdabot
 https://hub.darcs.net/simon/cabal-install-tutorial	cabal-install-v1-tut	How to cabal install [2013, cabal v1]	lambdabot
 https://hub.darcs.net/simon/cabal-install-tutorial#when-it-wont-install-cabal-hell	cabal-hell	[2013]	lambdabot
 https://i.imgur.com/5d3ENYQ.gif	mrrogers		lambdabot
@@ -1030,6 +1031,7 @@ https://www.reddit.com/r/haskell/comments/use5bt/what_are_the_rationales_of_the_
 https://www.reddit.com/r/haskell/new/	reddit		lambdabot
 https://www.safaribooksonline.com/library/view/parallel-and-concurrent/9781449335939/	parconc		lambdabot
 https://www.scannedinavian.com/	shapr		lambdabot
+https://www.stackage.org	shoogle		lambdabot
 https://www.stephendiehl.com/posts/docs.html	wiwik-status		lambdabot
 https://www.tweag.io/blog/2022-05-12-strict-vs-lazy	strict-vs-lazy	Comparing Strict and Lazy	lambdabot
 https://www.umsu.de/trees/	semantic-tableaux	"Tree Proof Generator" by Wolfgang Schwartz in 2001 - 2023-07-15 at  ... <https://github.com/wo/tpg>,<https://www.umsu.de/blog/2021/722>	lambdabot
