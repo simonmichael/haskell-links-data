@@ -829,6 +829,7 @@ https://bugs.archlinux.org/task/54561	arch-ld-bug		lambdabot
 https://cabal.readthedocs.io	cabal	flexible haskell build tool	lambdabot
 https://cabal.readthedocs.io	cabal-guide	Cabal User Guide	lambdabot
 https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run	cabal-script	single-file Haskell scripts with cabal	lambdabot
+https://chrisdone.github.io/hell	hell	Haskell-like scripting language (2024)	lambdabot
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3014	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at "icfp-2002.pdf"  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
 https://code.world	codeworld	and https://code.world/haskell - web-based haskell-like and haskell coding and learning environment	lambdabot
 https://cs.au.dk/~mis/typeinf.p(s|df)	polymorphic-type-inference	"Polymorphic Type Inference" by Michael I. Schwartzbach in 1995-03 at  ... <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.1493>	lambdabot
@@ -857,6 +858,7 @@ https://git-scm.com/book/en	gitbook		lambdabot
 https://git.tomsmeding.com/yahb2	yahb2		lambdabot
 https://github.com/DanBurton/sexy	sexy	- a Sexier Prelude (under development)	lambdabot
 https://github.com/Helium4Haskell/helium	helium	Haskell subset for beginners, improved diagnostics (incl. eDSLs). See  ... <https://hackage.haskell.org/package/helium>,<https://web.archive.org/web/20160624222240/http://foswiki.cs.uu.nl/foswiki/Helium/WebHome>,<https://web.archive.org/web/20210907032911/http://www.cs.uu.nl/research/projects/helium/>,<https://www.open.ou.nl/bhr/HeliumCompiler.html>	lambdabot
+https://github.com/augustss/MicroHs	microhs	a small portable Haskell compiler (2024)	lambdabot
 https://github.com/bitemyapp/learnhaskell	guide		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-begin		lambdabot
 https://github.com/bitemyapp/learnhaskell	to-start		lambdabot
