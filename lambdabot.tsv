@@ -1013,6 +1013,7 @@ https://www.fpcomplete.com/haskell/tutorial/operators	operators		lambdabot
 https://www.haskell.org/documentation	doc	Doc starting points:  ... https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell	lambdabot
 https://www.haskell.org/documentation/	docs		lambdabot
 https://www.haskell.org/ghcup	ghcup	GHC/cabal installer for unix platforms:  ... 	lambdabot
+https://www.haskell.org/ghcup/guide/#stack-integration	stack-ghcup		lambdabot
 https://www.haskell.org/haskellwiki/Multiplate	multiplate	<https://hackage.haskell.org/package/multiplate>	lambdabot
 https://www.haskell.org/haskellwiki/Research_papers/Generics	generics	`SYB',`Compos',`uniplate',`multiplate',`Plated',`Stratego',`Strafunski',`recursion-schemes',`polytypic',`GenericHaskell', ... <https://www.haskell.org/haskellwiki/Applications_and_libraries/Generic_programming>	lambdabot
 https://www.haskell.org/haskellwiki/Uniplate	uniplate	<https://hackage.haskell.org/package/uniplate>,<http://community.haskell.org/~ndm/uniplate/>,<http://community.haskell.org/~ndm/darcs/uniplate/uniplate.htm>,<https://github.com/ndmitchell/uniplate>,<https://ndmitchell.com/#uniplate_09_oct_2013>,<http://www-users.cs.york.ac.uk/~ndm/uniplate/>	lambdabot
