@@ -41,7 +41,6 @@ http://cale.yi.org/index.php/Fold_Diagrams	fold.diagrams		lambdabot
 http://cale.yi.org/index.php/Fold_Diagrams	fold_diagrams		lambdabot
 http://cale.yi.org/index.php/Main_Page	calewiki		lambdabot
 http://canonical.org/~kragen/tao-of-programming.html	programming-tao	"The Tao Of Programming" by Geoffrey James,Duke Hillard,Anupam Trivedi,Sajitha Tampi,Meghshyam Jagannath (ed. by Kragen Javier Sitaker) in 1996-04-10 (or earlier) at  ... 	lambdabot
-http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.3729	stg		lambdabot
 http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.233.3357	compos	"A pattern for almost compositional functions" by Björn Bringert,Aarne Ranta in 2008 at  ... 	lambdabot
 http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4656	expressive-power	"On the Expressive Power of Programming Languages" by Matthias Felleisen in 1990 at  ... 	lambdabot
 http://clemens.endorphin.org/liskell	liskell	a SExp syntax for Haskell, by therp :  ... (broken),<https://web.archive.org/web/20081105133119/http://clemens.endorphin.org/liskell>,<http://clemens.endorphin.org/ILC07-Liskell-draft.pdf>,<https://web.archive.org/web/20120609122549/http://www.liskell.org/>	lambdabot
@@ -833,6 +832,7 @@ https://chrisdone.github.io/hell	hell	Haskell-like scripting language (2024)	lam
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3014	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at "icfp-2002.pdf"  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
 https://code.world	codeworld	and https://code.world/haskell - web-based haskell-like and haskell coding and learning environment	lambdabot
 https://cs.au.dk/~mis/typeinf.p(s|df)	polymorphic-type-inference	"Polymorphic Type Inference" by Michael I. Schwartzbach in 1995-03 at  ... <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.1493>	lambdabot
+https://dl.acm.org/doi/pdf/10.1145/99370.99385	stg		lambdabot
 https://docs.haskellstack.org	stack-guide		lambdabot
 https://docs.haskellstack.org/en/stable/faq	stack-faq		lambdabot
 https://docs.haskellstack.org/en/stable/topics/scripts	stack-script		lambdabot
