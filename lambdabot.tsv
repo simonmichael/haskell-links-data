@@ -284,9 +284,7 @@ http://htoolkit.sourceforge.net	hsql		lambdabot
 http://hunit.sourceforge.net/	hunit		lambdabot
 http://icfpcontest.org/	icfp2006		lambdabot
 http://idris-lang.org/	idris	#idris  ... 	lambdabot
-http://ifdb.tads.org/viewgame?id=fn8r65rg7upfff0o	enlightenment		lambdabot
 http://iki.fi/tuomov/riot/	riot		lambdabot
-http://joyridelabs.de/game/	nikki		lambdabot
 http://jpg.artige.no/store/9871.jpg	horror		lambdabot
 http://katmat.math.uni-bremen.de/acc/	acc	"Abstract and Concrete Categories (The Joy of Cats)", J. Adámek, H. Herrlich, G. E. Strecker:  ... 	lambdabot
 http://katmat.math.uni-bremen.de/acc/	joc		lambdabot
@@ -879,6 +877,7 @@ https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source	source
 https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source	src	The fixed database for the `src' lambdabot command is at  ... 	lambdabot
 https://github.com/lspitzner/exference	exference	Djinn on steroids: recursive types, typeclasses, etc.  ... or in #haskell: :exf "Monad m => m (m a) -> m a"	lambdabot
 https://github.com/nicta/course	nicta		lambdabot
+https://github.com/nikki-and-the-robots/nikki	nikki		lambdabot
 https://github.com/paulmillr/happstack-imageboard	imageboard		lambdabot
 https://github.com/quchen/articles/blob/master/algebraic-blindness.md	algebraic-blindness		lambdabot
 https://github.com/quchen/articles/blob/master/loeb-moeb.md	loeb		lambdabot
