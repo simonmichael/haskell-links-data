@@ -792,7 +792,6 @@ http://www.vex.net/~trebla/haskell/lazy.xhtml	lazy	"Lazy Evaluation of Haskell" 
 http://www.vex.net/~trebla/haskell/prerequisite.xhtml	prereqs		lambdabot
 http://www.vex.net/~trebla/haskell/prerequisite.xhtml	prerequisite	"Prerequisite for Learning Haskell"  ... 	lambdabot
 http://www.vex.net/~trebla/haskell/siCp.xhtml	cobol-install	"Storage and Identification of COBOLized Packages" at  ... 	lambdabot
-http://www.vex.net/~trebla/haskell/sicp.xhtml	sicp-cabal		lambdabot
 http://www.vex.net/~trebla/haskell/sicp.xhtml	sicp.xhtml	/me . o O ( "Storage and Identification of Cabalized Packages" by Albert Y. C. Lai at  ... )	lambdabot
 http://www.vex.net/~trebla/haskell/sicp.xhtml#remove	uninstall	Uninstall, what's that ? -- Also see  ... 	lambdabot
 http://www.vex.net/~trebla/weblog/any-all-some.html	any		lambdabot
@@ -940,7 +939,7 @@ https://lexi-lambda.github.io/hackett/	hackett	"Haskell with a phased, hygienic 
 https://lhbg-book.link	lhbg	- Learn Haskell by building a blog generator, a highly-regarded learning resource	lambdabot
 https://limnoria.net	goodbot	Among sm[m]'s favourites:  ... 	lambdabot
 https://mail.haskell.org/pipermail/libraries/2012-February/017548.html	fairbairn		lambdabot
-https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html	sicp	"Structure and Interpretation of Computer Programs"  ... <https://web.mit.edu/6.001/6.037/sicp.pdf>,<https://github.com/sarabander/sicp-pdf>,<https://www.neilvandyke.org/sicp-texi/>,<https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/> | "Storage and Identification of Cabalized	lambdabot
+https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html	sicp	"Structure and Interpretation of Computer Programs",Harold Abelsson,Gerald Jay Sussman(,Julie Sussman),1996, ... <https://web.mit.edu/6.001/6.037/sicp.pdf>,<https://github.com/sarabander/sicp-pdf>,<https://www.neilvandyke.org/sicp-texi/>,<https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/> | See also `SICP-cabal'	lambdabot
 https://neilmitchell.blogspot.se/2014/07/applicative-vs-monadic-build-systems.html	applicative-vs-monadic	"Applicative vs Monadic build systems" by ndm in 2014-07-23 at  ... . (cf. "static sequencing" vs. "dynamic sequencing")	lambdabot
 https://news.ycombinator.com/item?id=31664490	haskell-apps-2022	list of apps written in Haskell	lambdabot
 https://nicolaspouillard.fr/publis/nameless-painless.pdf	nameless	Nameless, Painless:  ... 	lambdabot
@@ -1042,6 +1041,7 @@ https://www.stephendiehl.com/posts/docs.html	wiwik-status		lambdabot
 https://www.tweag.io/blog/2022-05-12-strict-vs-lazy	strict-vs-lazy	Comparing Strict and Lazy	lambdabot
 https://www.umsu.de/trees/	semantic-tableaux	"Tree Proof Generator" by Wolfgang Schwartz in 2001 - 2023-07-15 at  ... <https://github.com/wo/tpg>,<https://www.umsu.de/blog/2021/722>	lambdabot
 https://www.vex.net/~trebla/haskell/IO.xhtml	iotut		lambdabot
+https://www.vex.net/~trebla/haskell/sicp.xhtml	sicp-cabal	"Storage and Identification of Cabalized Packages"  ... 	lambdabot
 https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/	ski-links	<http://www.medellin.unal.edu.co/~curmat/matdiscretas/doc/Epp.pdf>	lambdabot
 https://www.yesodweb.com/book	yesod-book		lambdabot
 https://www.youtube.com/playlist?list=PLD8gywOEY4HauPWPfH0pJPIYUWqi0Gg10	welltypedcourse	Well-Typed's Introduction To Haskell course	lambdabot
