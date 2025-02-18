@@ -940,6 +940,7 @@ https://lhbg-book.link	lhbg	- Learn Haskell by building a blog generator, a high
 https://limnoria.net	goodbot	Among sm[m]'s favourites:  ... 	lambdabot
 https://mail.haskell.org/pipermail/libraries/2012-February/017548.html	fairbairn		lambdabot
 https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html	sicp	"Structure and Interpretation of Computer Programs",Harold Abelsson,Gerald Jay Sussman,1996, ... <https://web.mit.edu/6.001/6.037/sicp.pdf>,<https://sicpebook.wordpress.com/>,<https://github.com/sarabander/sicp-pdf>,<https://www.neilvandyke.org/sicp-texi/>,<https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/>	lambdabot
+https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html	sicp-html	<https://sarabander.github.io/sicp/>,<https://github.com/sarabander/sicp>	lambdabot
 https://neilmitchell.blogspot.se/2014/07/applicative-vs-monadic-build-systems.html	applicative-vs-monadic	"Applicative vs Monadic build systems" by ndm in 2014-07-23 at  ... . (cf. "static sequencing" vs. "dynamic sequencing")	lambdabot
 https://news.ycombinator.com/item?id=31664490	haskell-apps-2022	list of apps written in Haskell	lambdabot
 https://nicolaspouillard.fr/publis/nameless-painless.pdf	nameless	Nameless, Painless:  ... 	lambdabot
