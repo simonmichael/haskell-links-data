@@ -825,6 +825,7 @@ https://cabal.readthedocs.io	cabal-guide	Cabal User Guide	lambdabot
 https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run	cabal-script	single-file Haskell scripts with cabal	lambdabot
 https://chrisdone.github.io/hell	hell	Haskell-like scripting language (2024)	lambdabot
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.3014	incremental	"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at "icfp-2002.pdf"  ... <https://web.archive.org/web/20091114092258/http://www.carlssonia.org/ogi/Adaptive/>,<https://hackage.haskell.org/package/Adaptive>	lambdabot
+https://clash-lang.org/	clash		lambdabot
 https://code.world	codeworld	and https://code.world/haskell - web-based haskell-like and haskell coding and learning environment	lambdabot
 https://cs.au.dk/~mis/typeinf.p(s|df)	polymorphic-type-inference	"Polymorphic Type Inference" by Michael I. Schwartzbach in 1995-03 at  ... <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.1493>	lambdabot
 https://dl.acm.org/doi/pdf/10.1145/99370.99385	stg		lambdabot
