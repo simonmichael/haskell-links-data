@@ -24,6 +24,7 @@ http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4656	expressive-power
 http://code.google.com/p/ai-contest/wiki/HowToContribute.	commit	Please read and abide by this:  ... Never commit to trunk. Always use branches, as described.	lambdabot
 http://code.haskell.org/bzlib/	bzlib		lambdabot
 http://code.haskell.org/hackage-server/	hackage2		lambdabot
+http://code.haskell.org/~dons/code/hs-plugins	hs-plugins		lambdabot
 http://codepad.org	codepad		lambdabot
 http://codersbase.com/index.php/DarcsSim	darcssim		lambdabot
 http://community.haskell.org/~ndm/catch/	catch		lambdabot
@@ -51,6 +52,7 @@ http://darcs.haskell.org/packages/base/Control/Applicative.hs	applicative		lambd
 http://darcs.haskell.org/~lemmih/cabal-test	cabal-test		lambdabot
 http://darcs.haskell.org/~lemmih/conjure	conjure-alt		lambdabot
 http://darcs.haskell.org/~lemmih/conjure/	conjure		lambdabot
+http://darcs.haskell.org/~lemmih/hsSDL	hssdl		lambdabot
 http://darcs.net/	darcs	#darcs |  ... 	lambdabot
 http://darcsden.com/	darcsden		lambdabot
 http://darcswatch.nomeata.de/	darcswatch		lambdabot
@@ -147,6 +149,7 @@ http://haxe.org/	haxe		lambdabot
 http://hdiff.luite.com/	hdiff		lambdabot
 http://hdiff.luite.com/packages/archive/	hackage-mirror	remote-repo: hdiff.luite.com: ... 	lambdabot
 http://hoc.sourceforge.net/	hoc		lambdabot
+http://home.agh.edu.pl/~gpolak/hslua	hslua		lambdabot
 http://homepages.cwi.nl/~jve/HR/	hr	"The Haskell Road to Logic, Maths and Programming", by Kees Doets,Jan van Eijck, at  ... (broken ?),<https://web.archive.org/web/20190528043209/https://homepages.cwi.nl/~jve/HR/>	lambdabot
 http://homepages.inf.ed.ac.uk/wadler/papers/essence/essence.ps	essencefp		lambdabot
 http://homepages.inf.ed.ac.uk/wadler/topics/blame.html#blame-esop	blame	"Well-typed programs can't be blamed" at  ... by Philip Wadler,Robert Bruce Findler in 2009	lambdabot
@@ -154,6 +157,7 @@ http://homotopytypetheory.org/book/	hott		lambdabot
 http://hope.bringert.net/	hope		lambdabot
 http://hpaste.org/	hpaste		lambdabot
 http://hpaste.org/	hpaste2		lambdabot
+http://htoolkit.sourceforge.net	hsql		lambdabot
 http://jpg.artige.no/store/9871.jpg	horror		lambdabot
 http://katmat.math.uni-bremen.de/acc/	acc	"Abstract and Concrete Categories (The Joy of Cats)", J. Adámek, H. Herrlich, G. E. Strecker:  ... 	lambdabot
 http://kejo.be/ELIS/haskell-blahSouthPark.html	boegel		lambdabot
@@ -195,7 +199,9 @@ http://sl4.org/crocker.html	crockers-rules	"Crocker's Rules"  ... . See also `ta
 http://sneezy.cs.nott.ac.uk/containers/	containers		lambdabot
 http://sneezy.cs.nott.ac.uk/darcs/epigram/	epigram2		lambdabot
 http://sneezy.cs.nott.ac.uk/fun/	fita		lambdabot
+http://software.complete.org/hsh	hsh		lambdabot
 http://standards.freedesktop.org/wm-spec/wm-spec-1.3.html	ewmh		lambdabot
+http://svn.openfoundry.org/pugs/third-party/HsSyck/	hssyck		lambdabot
 http://swapoff.org/wiki/DevTodo	devtodo		lambdabot
 http://tinyurl.com/lambdacats	cats		lambdabot
 http://tinyurl.com/y5kvdq	haskell-search		lambdabot
@@ -238,8 +244,12 @@ http://www.cs.chalmers.se/~boquist/ifl96-abstract.html	grin		lambdabot
 http://www.cs.chalmers.se/~bringert/darcs/haskell-cgi/	haskell-cgi		lambdabot
 http://www.cs.chalmers.se/~bringert/darcs/haskell-fastcgi/doc/	fastcgi		lambdabot
 http://www.cs.chalmers.se/~d00nibro/harp	harp		lambdabot
+http://www.cs.chalmers.se/~d00nibro/haskell-src-exts/	hsx		lambdabot
+http://www.cs.chalmers.se/~d00nibro/hsp	hsp		lambdabot
 http://www.cs.chalmers.se/~hallgren/Alfa/Tutorial/GFplugin.html	cayenne	Dependently typed FPL with turing-complete type system, by Lennart Augustsson (augustss), at (broken)  ... <http://web.archive.org/web/*/www.cs.chalmers.se/~augustss/cayenne/index.html>. Also see `Agda'	lambdabot
 http://www.cs.helsinki.fi/u/ekarttun/hs-fltk/	hs-fltk		lambdabot
+http://www.cs.helsinki.fi/u/ekarttun/hs-fltk/	hsfltk		lambdabot
+http://www.cs.helsinki.fi/u/ekarttun/hsgnutls	hsgnutls		lambdabot
 http://www.cs.kent.ac.uk/people/staff/sjt/craft2e/	cofp		lambdabot
 http://www.cs.kent.ac.uk/projects/ofa/chp/	chp		lambdabot
 http://www.cs.kent.ac.uk/projects/refactor-fp/	hare		lambdabot
@@ -255,6 +265,7 @@ http://www.cs.uu.nl/wiki/HUT/AttributeGrammarSystem	ag		lambdabot
 http://www.cs.york.ac.uk/fp/cpphs/	cpphs		lambdabot
 http://www.cs.york.ac.uk/fp/darcs/derive	derive		lambdabot
 http://www.cs.york.ac.uk/fp/darcs/drhaskell/	drhaskell		lambdabot
+http://www.cs.york.ac.uk/fp/darcs/hscolour/	hscolour		lambdabot
 http://www.cse.chalmers.se/~hallgren/Alfa/	alfa	Proof editor, using Agda1 proof engine/checker, at  ... (broken) <http://www.cs.chalmers.se/~hallgren/untested>,<http://ogi.altocumulus.org/~hallgren/untested>,<http://ogi.altocumulus.org/~hallgren/untested/for_Linux/alfa-041029-bin-i386-Linux-RedHat9.tar.gz>,<http://ogi.altocumulus.org/~hallgren/untested/Source_code/alfa-050126.src.tar.gz>. Also see `Agda',`Fudgets',`GF'	lambdabot
 http://www.cse.chalmers.se/~nad/publications/danielsson-et-al-popl2006.html	fast-and-loose	"Fast and Loose Reasoning is Morally Correct" by Nils Anders Danielsson,John Hughes,Patrik Jansson,Jeremy Gibbons in 2006 at  ... 	lambdabot
 http://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf	agdatut		lambdabot
@@ -272,6 +283,7 @@ http://www.cse.unsw.edu.au/~dons/fps.html	bytestring		lambdabot
 http://www.cse.unsw.edu.au/~dons/fps.html	fps		lambdabot
 http://www.cse.unsw.edu.au/~dons/h4sh.html	h4sh		lambdabot
 http://www.cse.unsw.edu.au/~dons/hmp3.html	hmp3		lambdabot
+http://www.cse.unsw.edu.au/~dons/hs-plugins/	hsplugins		lambdabot
 http://www.cse.unsw.edu.au/~dons/irc/darcs/	darcs-logs		lambdabot
 http://www.cse.unsw.edu.auc/~chak/haskell/ctk/index.html	ctk		lambdabot
 http://www.dcs.gla.ac.uk/~partain/haskerl.html	haskerl		lambdabot
@@ -291,6 +303,7 @@ http://www.haskell.org/ghc/docs/latest/html/building/sec-cvs.html	fptools		lambd
 http://www.haskell.org/ghc/docs/latest/html/libraries/	hhl		lambdabot
 http://www.haskell.org/ghc/docs/latest/html/users_guide/data-type-extensions.html#gadt	gadt		lambdabot
 http://www.haskell.org/ghc/docs/latest/html/users_guide/flag-reference.html	flags		lambdabot
+http://www.haskell.org/ghc/docs/latest/html/users_guide/hsc2hs.html	hsc2hs		lambdabot
 http://www.haskell.org/ghc/docs/latest/html/users_guide/runtime-control.html#rts-options-debugging	-xc		lambdabot
 http://www.haskell.org/ghc/reportabug	ghc-bugs		lambdabot
 http://www.haskell.org/haddock/	haddock		lambdabot
@@ -336,6 +349,7 @@ http://www.iai.uni-bonn.de/~loeh/exi/	exi		lambdabot
 http://www.ibiblio.org/zen/cgi-bin/koan-index.pl	gateless-gate	"The Gateless Gate/Barrier" by Ekai (called Mumon / Wumen Huikai) in early 1200s century at  ... 	lambdabot
 http://www.imperialviolet.org/binary/bitsyntax/	bitsyntax		lambdabot
 http://www.info.ucl.ac.be/~pvr/book.html	ctm	"Concepts, Techniques, and Models of Computer Programming", by Peter Van Roy,Seif Haridi, at  ... 	lambdabot
+http://www.informatik.uni-freiburg.de/~wehr/software/haskell/#hscurses	hscurses		lambdabot
 http://www.informatik.uni-kiel.de/~mh/curry/	curry		lambdabot
 http://www.inutile.ens.fr/estatis/falso/	falso		lambdabot
 http://www.macs.hw.ac.uk/~sebc/hOp/	hop		lambdabot
@@ -405,7 +419,7 @@ https://haskell-docs.netlify.app	hng	Haskell Newcomer Guide,  ... 	lambdabot
 https://haskell-game.dev	gamedev-site	a personal wiki presenting a selection of haskell games	lambdabot
 https://haskell-haddock.readthedocs.io	haddock-guide		lambdabot
 https://haskell.foundation	foundation		lambdabot
-https://haskell.foundation/hs-opt-handbook.github.io/contents.html	hs-opt-handbook	Haskell Optimization H	lambdabot
+https://haskell.foundation/hs-opt-handbook.github.io/contents.html	hs-opt-handbook	Haskell Optimization Handbook	lambdabot
 https://haskell.godbolt.org	godbolt	paste code snippets/files, see them compiled by different ghc versions	lambdabot
 https://hoogle.haskell.org	hoogle		lambdabot
 https://hub.darcs.net/simon/cabal-install-tutorial	cabal-install-v1-tut	How to cabal install [2013, cabal v1]	lambdabot
