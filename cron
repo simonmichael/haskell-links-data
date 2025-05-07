@@ -1,0 +1,5 @@
+# import and commit latest links from lambdabot's @where
+# XXX could be disrupted by a concurrent deployment (make d, D, pd, PD) - try to avoid doing those on the hour
+# XXX announce changes when there are some
+#*/5 * * * * root  make -C /opt/haskell-links/data >>/opt/haskell-links/data/cron.log
+*/5 * * * * root  make -C /opt/haskell-links/data >/dev/null
