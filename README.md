@@ -1,3 +1,5 @@
+# haskell-links data
+
 This repo stores data used by the haskell-links app.
 The app expects to find it checked out as "data/" within the
 haskell-links repo's working copy.
