@@ -175,7 +175,6 @@ http://hackage.haskell.org/package/iteratee	iteratees	http://cdsmith.wordpress.c
 http://hackage.haskell.org/package/pipes	pipes		lambdabot
 http://hackage.haskell.org/package/reflection	reflection		lambdabot
 http://hackage.haskell.org/package/uglymemo	uglymemo		lambdabot
-http://hackage.haskell.org/packages	hackage	also see `revdeps',`status'	lambdabot
 http://hackage.haskell.org/packages/archive/comonad/latest/doc/html/Control-Comonad.html	comonad	| http://comonad.com/	lambdabot
 http://hackage.haskell.org/packages/archive/split/latest/doc/html/Data-List-Split.html	data.list.split		lambdabot
 http://hackage.haskell.org/packages/archive/split/latest/doc/html/Data-List-Split.html	split		lambdabot
@@ -890,6 +889,7 @@ https://gitlab.haskell.org/ghc/ghc/-/wikis/building/hadrian	hadrian		lambdabot
 https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history	boot-libs-versions		lambdabot
 https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history	versions		lambdabot
 https://gotchamana.github.io/wiwinwlh	wiwik	What I Wish I Knew When Learning Haskell, Stephen Diehl	lambdabot
+https://hackage.haskell.org	hackage		lambdabot
 https://hackage.haskell.org/package/base	base		lambdabot
 https://hackage.haskell.org/package/cabal-plan	cabal-plan		lambdabot
 https://hackage.haskell.org/package/doctest	doctest		lambdabot
@@ -1044,7 +1044,6 @@ https://www.reddit.com/r/haskell/new/	reddit		lambdabot
 https://www.safaribooksonline.com/library/view/parallel-and-concurrent/9781449335939/	parconc		lambdabot
 https://www.scannedinavian.com/	shapr		lambdabot
 https://www.stackage.org	shoogle		lambdabot
-https://www.stephendiehl.com/posts/docs.html	wiwik-status		lambdabot
 https://www.tweag.io/blog/2022-05-12-strict-vs-lazy	strict-vs-lazy	Comparing Strict and Lazy	lambdabot
 https://www.umsu.de/trees/	semantic-tableaux	"Tree Proof Generator" by Wolfgang Schwartz in 2001 - 2023-07-15 at  ... <https://github.com/wo/tpg>,<https://www.umsu.de/blog/2021/722>	lambdabot
 https://www.vex.net/~trebla/haskell/IO.xhtml	iotut		lambdabot
