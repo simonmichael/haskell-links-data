@@ -892,7 +892,6 @@ https://gotchamana.github.io/wiwinwlh	wiwik	What I Wish I Knew When Learning Has
 https://hackage.haskell.org/package/base	base		lambdabot
 https://hackage.haskell.org/package/cabal-plan	cabal-plan		lambdabot
 https://hackage.haskell.org/package/doctest	doctest		lambdabot
-https://hackage.haskell.org/package/lambdabot	lambdabot	https://github.com/lambdabot/lambdabot	lambdabot
 https://hackage.haskell.org/package/lens-4.15.4/docs/Control-Lens-Plated.html	plated		lambdabot
 https://hackage.haskell.org/package/recursion-schemes	recursion-schemes	. Also see "Functional Programming with Bananas, Lenses, and Barbed Wire" by Erik Meijer,Maarten Fokkinga,Ross Paterson in 1991 at <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125>,`AoP'	lambdabot
 https://hackage.haskell.org/package/syb	syb	<http://www.haskell.org/haskellwiki/Scrap_your_boilerplate>,<https://www.haskell.org/haskellwiki/Applications_and_libraries/Generic_programming/SyB>,`SYB-papers',<http://research.microsoft.com/en-us/um/people/simonpj/papers/hmap/>,<http://homepages.cwi.nl/~ralf/syb2/>,<http://homepages.cwi.nl/~ralf/syb3/>	lambdabot
@@ -986,6 +985,7 @@ https://wiki.haskell.org/FAQ	faq	The general Haskell FAQ. See https://haskell-li
 https://wiki.haskell.org/GHC/FAQ	ghc-faq		lambdabot
 https://wiki.haskell.org/Game_Development	gamedev		lambdabot
 https://wiki.haskell.org/Haskell_Communities_and_Activities_Report	hcar		lambdabot
+https://wiki.haskell.org/IRC_channel#lambdabot	lambdabot		lambdabot
 https://wiki.haskell.org/Import	import		lambdabot
 https://wiki.haskell.org/Import	importing		lambdabot
 https://wiki.haskell.org/Introduction#Other_frequently-asked_questions	intro-faq		lambdabot
