@@ -28,19 +28,19 @@ P:
 # deploy to production only
 d:
 	@git push prod
-	@ssh joyful.com 'cd /opt/haskell-links/data && git reset --hard && git fetch github'
+	@ssh joyful2 'cd /opt/haskell-links/data && git reset --hard && git fetch github'
 
 # forcibly
 D:
 	@git pull prod main
 	@git push -f prod
-	@ssh joyful.com 'cd /opt/haskell-links/data && git reset --hard && git fetch github'
+	@ssh joyful2 'cd /opt/haskell-links/data && git reset --hard && git fetch github'
 
 # publish and deploy
 pd:
 	@git pull prod main
 	@git push github
-	@ssh joyful.com "cd /opt/haskell-links/data && git pull github"
+	@ssh joyful2 "cd /opt/haskell-links/data && git pull github"
 	@git fetch prod
 
 # forcibly
