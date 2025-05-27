@@ -898,6 +898,7 @@ https://hackage.haskell.org/package/syb	syb	<http://www.haskell.org/haskellwiki/
 https://haskell-docs.netlify.app	hng	Haskell Newcomer Guide,  ... 	lambdabot
 https://haskell-game.dev	gamedev-site	a personal wiki presenting a selection of haskell games	lambdabot
 https://haskell-haddock.readthedocs.io	haddock-guide		lambdabot
+https://haskell-links.org	- searchable Haskell links, collected with @where
 https://haskell-links.org	links	search/jump to Haskell links saved with lambdabot	lambdabot
 https://haskell-status.org	haskell-status		lambdabot
 https://haskell-via-sokoban.nomeata.de	sokoban	- learn Haskell by building a Sokoban game	lambdabot
